@@ -1,0 +1,54 @@
+---
+import type { DataCollectionKey } from 'astro:content';
+
+interface Props {
+	title: string;
+
+}
+
+const { title} = Astro.props;
+---
+
+
+	<div class="stack gap-2">
+		<h1 class="title">{title}</h1>
+        <hr>
+	</div>
+	<slot />
+
+
+<style>
+
+
+	.title {
+        font-kerning:normal;
+        margin: 0 auto;
+		padding:1rem 0 0.5rem 0;
+        text-transform: uppercase;
+        font-weight: 700;
+
+	}
+
+	.title {
+		font-size: var(--text-3xl);
+		color: var(--gray-0);
+	}
+
+	@media (min-width: 50em) {
+		.hero {
+			font-size: var(--text-xl);
+		}
+
+	 .title {
+			margin-inline: unset;
+		}
+
+		.title {
+			font-size: var(--text-5xl);
+		}
+	}
+
+	hr {
+		padding-bottom:1rem;
+	}
+</style>

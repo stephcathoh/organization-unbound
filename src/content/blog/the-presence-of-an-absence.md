@@ -1,0 +1,46 @@
+---
+title: "The presence of an absence"
+pubDate: "2016-05-02"
+categories: 
+  - "expressive-change"
+
+tags: 
+  - "relationship"
+  - "the-experiential-turn"
+---
+
+_For those who feel like they've hurtled rather than glided into 2016, this start-of-the-new year reflection from [Allan Kaplan](https://organizationunbound.org/allan-kaplan/) is worth taking a moment to sit with._
+
+## . . .
+
+.
+
+![](https://organizationunbound.org/wp-content/uploads/2016/05/unnamed-1-300x199.png)
+
+.
+
+Having spent the last weeks, through the turning of the year, in mountain wilderness, our eyes, on returning to the highways that run through rural land on their journey to the city, are differently attuned.
+
+At one point we must stop amidst a row of vehicles queuing on account of road works, and my eyes saunter over the surrounding fields. The highway, and our queue of cars, are ambushed by a grain monoculture that spreads relentlessly to the horizon on all sides, turning the landscape of rounded hills into a barrenness of functionality. Already the wildness within which we have lived these last weeks is being banished. My eyes scan the fields with a rising despair; then, suddenly, I spy vestiges of wilderness vegetation, scattered remnants of mountain plant life, still remaining but confined now to narrow strips of diversity running between the monopolies of fields and grains and fences. The landscape of commodification dominates the space so entirely that I have to adjust my seeing even to notice the wild plant life that borders some of the fields. My heart lurches – there, scattered, humiliated, the last of the once proud tribe of wild mountain vegetation breathes in the fumes of pesticides and diesel. We have been living amongst their brethren who still remain in their inaccessible mountain, amongst the limpid waters of streams and light-drenched summits of stone. Now my heart shakes again as the row of cars gears and revs into moving onward once more, and we with it; as we move through the gears, the remnants of scattered wild, refugee now in what was once its home, disappear entirely. In spite of myself, my own seeing is getting lost in the blurring of the way.
+
+Towards what are we headed, I wonder, as we drive down the highway, entering 2016. I had ended 2015 in some despair, wondering what would become of us in 2016, however we may hope to live. With our beloved Earth in such compromise, our political life dominated by inconsequence, our social fabric tearing, our economy enslaved to fundamentalist capitalism, and a technological industry now usurping us with trivia, the odds seem against us. We are surrounded by plans, solutions, a sense of urgency, sometimes outrage, intentions, critiques, protests, war on everything. The recognition – that we are all now so close, our global footprint so large, and all our processes of life so befouled – releases increasing tendencies towards management and control. We appear caught in a vast paradox that exceeds our capacity for irony – we foreground ourselves as the solution to the problems that we have created through foregrounding ourselves. I have a sense, as we hurtle into 2016, that we are backgrounding our only real alternative, just as we background the remnants of the living wild that skirt our now chemically engorged monocultures.
+
+At home, our bedroom has a set of double stable doors that open onto the garden. Across the garden, on the other side, there is a wooden fence, and on the other side of the fence, in the peaceful cemetery which borders our home, stand three huge gum trees. I love these three trees, they are shaggy, massive giants, ragged, unkempt, they shed bark and branches and leaves all over the place, they crash and snort and trumpet in the winter storms, and shake themselves like fury in the summer winds, they crowd out the sun and overshadow the garden, they drink all the precious water that keeps the garden alive, but they are masters of their own ground, home to birds of prey and wild geese and owls, they occupy their space as though they were born to it, disheveled yet dignified, and when the keepers of the cemetery want to cut them down because their branches sometimes crash down on graves, we come to their defense, and have insisted on keeping them alive over these many years.
+
+In the morning, long before the sun rises in the east, the trees pick up the nascent light that seeps into the world from all four quarters as night gives way to day. They pick up the light in their trunks. Their trunks are grey and white, and the wood and bark of them glisten like silver, like skin, like the smoothness on a horse’s flank, like the sheen on sand at the ocean’s edge, like alabaster. In the early pre-dawn this sublime whiteness seems to gather the incoming light to itself, as though what is imminent (the rising of the sun) is also immanent in them (as though what is coming from outside is already inside; I am struck by this relationship between imminent and immanent).
+
+And then, of a moment, as the sun rises somewhere far away to the east, a spot of red appears high up on the trunk of one of these trees, and in the branches. A red that is, from the first flush of it, a kind of transparent scarlet. It glows with the intensity of the eternal fire that lives at the world’s beginning. And it spreads across the trunk and into the branches, and to the other trees, and into the leaves, and its spreading is like a promise, it resonates so strongly in our hearts. We can gaze out at this wondrous becoming, until the light of day, ‘ordinary’ day, starts to flood the garden, and the red turns to a bright whiteness, like bone.
+
+Imagine – if those trees were not there, then that light, that particular fiery light, would disappear forever. And if we were not there to see it, something might be there, but it would not be what we are seeing. And, the fiery red that seems of the spirit does not come from the sun as though it had been thrown against the tree, it does not emanate from the trunk and it is not in fact on the trunk at all (for quite soon it is gone), it does not come from our eyes and if we were watching from a different angle or awareness it would appear wholly differently – it hovers between all these places and things, it belongs to the relationship between them all, it _is_ that relationship, at that moment. It has appeared, we have seen it appearing, it is constantly changing, then it is gone – and what we have really seen is _the invisibility of relationship,_ or the _process of relating_, for the most part unobserved, unremarked, marginal as the remnants of wild.
+
+And it seems to me, that our relationships – spread across the planet, from mountain to mountain, across ocean and timeline and date – are of the nature of this incredible light, which is there and not there, which hovers _between,_ and which depends, for its existence, on all of us; if we are not there then it disappears, it is in all of us yet it is not any of us, it lives between us, yet it changes us all, and most wondrously, it changes everything that it touches – and it touches trees and mountains and stretches of land and different peoples and rivers and the oceans that live between us, it touches many of these things that we cannot even see, that are way beyond our knowing.  It touches without our knowing; we only have to know that we touch each other. Where we touch each other, the light appears.
+
+What are we really in danger of losing, as we ratchet up our urgencies and gear ourselves to fight the good fight, yet again? It takes a certain sensibility to observe that which is not immediately obvious, a living imagination to see the reciprocity between a thing and its context, a prodigious attention to discern the relationships that form and dismantle the world that we eventually experience all around us. At the heart of all that we are and would be, of all that we would have happen to our beloved world, lies not the obvious, solid and tangible world of things with which we mostly concern ourselves, but the ephemeral, hidden and transitory nature of the relationships that arise and disappear between us, like the ceaseless movement of clouds.
+
+If we just but look the wrong way, the inability to perceive relationship grows, and an absence starts to manifest in the world we then inhabit – a failure to notice that we are failing to notice. We are in danger, in fact, of saving a world that is no longer the world in which we wish to live. For we never merely inhabit a world, we create the world that forms us. If there is one thing that seems of overarching importance, that we cannot afford to lose as we struggle on in a foreclosing world, it is the cultivation of the ability to see and discern the nuance of specific relationship. For the world will arise in its image, and we need to cultivate the ability to choose, with respect to every action we will take – _what kind of relationship does this action promote?_
+
+.
+
+(Photo courtesy of The Proteus Institute)
+
+.

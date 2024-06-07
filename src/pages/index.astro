@@ -1,0 +1,154 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { getCollection } from "astro:content";
+import FormattedDate from "../components/FormattedDate.astro";
+import Sidebar from "../components/Sidebar.astro";
+import PostExcerpt from '@igor.dvlpr/astro-post-excerpt';
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <style>
+     
+    main {
+		max-width:700px;
+		background-color: #ffffff;
+		margin-left:10%;
+		padding:3rem 1rem;
+		background:#fff;
+		height:100%;
+		oveflow:none;
+	}
+      
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        list-style-type: none;
+        margin-top:1rem;;
+        padding: 0 0.5rem;
+      }
+      ul li {
+        width: 100%;
+      }
+      ul li * {
+        text-decoration: none;
+        transition: 0.2s ease;
+      }
+      
+      ul li img {
+        margin-bottom: 0.5rem;
+        margin-right: 1.7rem;
+        border-radius: 12px;
+        width:196px;
+        height:196px;
+        float:left;
+        padding: 0;
+        border: solid 1px #666;
+      }
+
+      figure {
+        margin-left:0;
+      }
+      ul li a {
+        display: block;
+      }
+      .title {
+        margin: 0 0 1rem 0;
+        color: rgb(var(--black));
+        line-height: 1;
+        font-size:1.6rem;
+        font-style:italic;
+        font-weight:400;
+      }
+      .date {
+        margin: 0;
+        color: #666;
+        font-size: 0.75rem;
+      }
+      ul li a:hover h4,
+      ul li a:hover .date {
+        color: rgb(var(--accent));
+      }
+      ul a:hover img {
+        box-shadow: var(--box-shadow);
+      }
+      @media (max-width: 720px) {
+        ul {
+          gap: 0.5em;
+        }
+        ul li {
+          width: 100%;
+          text-align: center;
+        }
+        ul li:first-child {
+          margin-bottom: 0;
+        }
+        ul li:first-child .title {
+          font-size: 1.563em;
+        }
+      }
+      hr {
+        border-top: 1px solid gray
+      }
+
+      .post-excerpt {
+        color:#222;
+        font-size: 0.85rem;
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <Sidebar/>
+    <main>
+      
+      <section>
+        <ul>
+          {
+            posts.map((post) => (
+              <li>
+                <a href={`/blog/${post.slug}/`}>
+                  <figure>
+                  <img
+                    width={196}
+                    height={196}
+                    src={post.data.heroImage}
+                    alt=""
+                  />
+                  </figure>
+                  <h4 class="title">{post.data.title}</h4>
+                  <p class="date">
+										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories}|</span>{post.data.author}</span>|
+									</p>
+                  <p class="post-excerpt">
+    <PostExcerpt post={post} words={70} addEllipsis={false} />
+
+  </p>
+                </a>
+              </li>
+              
+              
+            ))
+          }
+           <p><hr></p>
+        </ul>
+       
+      </section>
+ 
+      <p style={{ color: "#ea181f", textDecoration: "underline" }}>
+        Older Entries
+      </p>
+    </main>
+    <Footer />
+  </body>
+</html>

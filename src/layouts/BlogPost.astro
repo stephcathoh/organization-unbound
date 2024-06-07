@@ -1,0 +1,98 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+// Supports weights 100-900
+import '@fontsource-variable/noto-serif-georgian';
+import Hero from '../components/Hero.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { slugify, formatDate } from "../js/utils";
+
+
+
+
+
+const { title, heroImage} = Astro.props;
+
+
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} />
+		<style>
+		main {
+		max-width:700px;
+		background-color: #ffffff;
+		margin-left:10%;
+		padding:1rem 2rem;
+		background:#fff;
+		height:100%;
+		oveflow:none;
+	}
+			
+			
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: left;
+				line-height: 1;
+				font-family: 'Noto Serif Georgian Variable', serif;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+				font-family: 'Noto Serif Georgian Variable', serif;
+
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.last-updated-on {
+				font-style: italic;
+			}
+
+			/*.hero-image {
+				width: 20%;
+			}*/
+
+			.hero-image img {
+				float:right;
+			}
+
+			img [alt="archive file with hearts"] {
+				float:right!important;
+
+			}
+
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		
+		<Sidebar/>
+		<main>
+			<Hero  title={title} />
+			<article>
+				<div class="hero-image">
+					{<heroImage src={heroImage}/>}
+				</div>
+				
+				
+					<slot />
+			
+			</article>
+		</div>
+		</main>
+		<Footer />
+	</body>
+</html>

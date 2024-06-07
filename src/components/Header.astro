@@ -1,0 +1,123 @@
+---
+import HeaderLink from './HeaderLink.astro';
+import Banner from './Banner.astro';
+// Supports weights 100-900
+import '@fontsource-variable/noto-serif-georgian';
+---
+
+<header>
+	<Banner/>
+	<div class="logo">
+	<a href="/"><img width={280} height={114} src="/logo-e1699823377747.gif"alt="Organization Unbound logo" class="logo" /></a>
+	</div>
+
+	<nav>
+		<div class="internal-links" id="navigation" class="sr-only">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/videos">Videos</HeaderLink>
+			<HeaderLink href="/in-practice">Self-Guided Workshops</HeaderLink>
+			<HeaderLink href="/in-depth">Readings</HeaderLink>
+			<HeaderLink href="/stewards">Stewards</HeaderLink>
+			<a href="/tags/">Tags</a>
+			
+			
+	</div>
+		
+	</nav>
+</header>
+<style>
+	header {
+		margin-top: 2px;
+		padding: 0 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		position: relative;
+		height:178px;
+	}
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		background-color:#191919;
+		width:100%;
+		margin-left:1rem;
+	
+	}
+	nav a {
+		padding: 0 1em;
+		color: #fff;
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+		text-transform:uppercase;
+    	text-align:left;
+	}
+	nav a.active {
+		text-decoration: none;
+	}
+	
+	#navigation {
+    padding: 0; /* Add some padding to the container */
+    overflow: hidden; /* Clear the float */
+    top:152px;
+    width: 998px;
+		/*background-color:#191919;
+	width:100%;*/
+	margin:0 auto;
+}
+
+
+#navigation li {
+  padding-top:2px;
+  display: inline-block; /* Display menu items in a row */
+}
+  
+#navigation li:active {
+	padding-top:0px;
+
+}
+
+  #navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left; /* Float the menu to the left */
+	width:60%;
+  }
+      
+  #navigation ul li:last-child {
+    margin-right: 0; /* Remove right margin from the last menu item */
+  }
+  
+  #navigation ul li a {
+    color: #fff; /* Set the text color */
+    text-decoration: none; /* Remove underlines from links */
+    padding: 0 1em; /* Add padding to the menu items */
+	font-weight:400;
+  	font-family: 'Georgia';
+	font-size:12px;
+	transform:scale(0.5);
+	letter-spacing:1px;
+	line-height:1px;
+	font-kerning:normal;
+    text-transform:uppercase;
+    text-align:left;
+  }
+  
+  .logo {
+	text-align:center;
+	margin-bottom:2px;
+  }
+	
+  .Georgia {
+  	font-size:12px;
+	letter-spacing: 1px;
+}
+
+</style>
