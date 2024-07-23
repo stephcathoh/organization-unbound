@@ -76,10 +76,10 @@ export function formatBlogPosts(posts, {
 
 }
 
-import MarkdownIt from 'markdown-it';
-import { convert } from 'html-to-text';
-
+import MarkdownIt from "markdown-it";
+import { convert } from "html-to-text";
 const parser = new MarkdownIt();
+
 export const createExcerpt = (body) => {
   const html = parser.render(body);
   const options = {

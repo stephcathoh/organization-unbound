@@ -1,8 +1,10 @@
 ---
+import Tag from "../pages/tags/[tag].astro"
+import TagCloud from "./TagCloud.astro"
 ---
 <aside class="sidebar">
 <div class="box-widget">
-<h2>Who We Are</h2>
+<h2>Who We Are:</h2>
 <p>We are a global community of practice that learns from and supports organizations seeking to more deeply align their internal practices with their broader social change goals. We believe the best way for our organizations to create and sustain meaningful change in the world is to embody it themselves. We represent all sectors of society- nonprofits, community & social movement groups, government agencies, foundations, and businesses.</p>
    </div>
     <div class="box-widget">
@@ -11,7 +13,7 @@
 </div>
 <div class="box-widget">
 <h2>Meet Our Contributors</h2>
-Motaz Attalla :: Richard D. Bartlett :: Liam Barrington-Bush :: Peter Brownell :: Augusto Cuginotti :: Sue Davidoff :: Aerin Dunford :: Mark Engler :: Paul Engler :: Argrow “Kit” Evans :: Gioel Gioacchino :: Rachel Griner :: Kiran Gulrajani :: Caroline Howe :: Tolu Ilesanmi :: Allan Kaplan :: Sadaf Kashfi :: Fahri Karakas :: Tania Katzschner :: Marianne Knuth :: Jess Marais :: Alex Megelas :: Josée Méthot :: Baijayanta Mukhopadhyay :: Sushrut Munje :: Warren Nilsson :: Curtis Ogden :: Tana Paddock :: Alessandra Pigni :: Vanessa Reid :: Linda Sarvi :: Biren Shah :: Cameron Stiff :: James Taylor :: Anthi Theiopoulou :: Cristina Temmink ::  Megan Thom :: Veena Vasista :: Katherine Therese Whaling :: Undine Whande :: Sarah Whiteley :: Akaya Windwood :: Aydin Yassemi
+<a href="/motaz-attalla">Motaz Attalla</a> ::<a href="/richard-d-bartlett">Richard D. Bartlett</a> :: <a href="/liam-barrington-bush">Liam Barrington-Bush</a> :: <a href="/peter-brownell">Peter Brownell</a> :: <a href="/augusto-cuginotti">Augusto Cuginotti</a> :: <a href="/sue-davidoff">Sue Davidoff</a> :: <a href="/aerin-dunford">Aerin Dunford</a> :: <a href="/mark-engler">Mark Engler</a> :: <a href="/paul-engler">Paul Engler</a> :: <a href="/kit-evans">Argrow “Kit” Evans</a> :: <a href="/gioel-gioacchino">Gioel Gioacchino</a> :: <a href="/rachel-griner">Rachel Griner</a> :: <a href="/kiran-gulrajani">Kiran Gulrajani</a> :: <a href="/caroline-howe">Caroline Howe</a> :: <a href="/tolulope-ilesanmi">Tolu Ilesanmi</a> :: <a href="/allan-kaplan">Allan Kaplan</a> :: <a href="/sadaf-kashfi">Sadaf Kashfi</a> :: <a href="/fahri-karakas">Fahri Karakas</a> :: <a href="/tania-katzschner">Tania Katzschner</a> :: <a href="/marianne-knuth">Marianne Knuth</a> :: <a href="/jess-marais">Jess Marais</a> :: <a href="/alex-megelas">Alex Megelas</a> :: <a href="/josee-methot">Josée Méthot</a> :: <a href="/baijayanta-mukhopadhyay">Baijayanta Mukhopadhyay</a> :: <a href="/sushrut-munje">Sushrut Munje</a> :: <a href="/warren-nilsson">Warren Nilsson</a> :: <a href="/curtis-ogden">Curtis Ogden</a> :: <a href="/tana-paddock">Tana Paddock</a> :: <a href="/alessandra-pigni">Alessandra Pigni</a> :: <a href="/vanessa-reid">Vanessa Reid</a> :: <a href="/linda-sarvi">Linda Sarvi</a> :: <a href="/biren-shah">Biren Shah</a> :: <a href="/cameron-stiff">Cameron Stiff</a> :: <a href="/james-taylor">James Taylor</a> :: <a href="/anthi-theiopoulou">Anthi Theiopoulou</a> :: <a href="/cristina-temmink">Cristina Temmink</a> ::  <a href="/megan-thom">Megan Thom</a> :: <a href="/veena-vasista">Veena Vasista</a> :: <a href="/katherine-therese-whaling/">Katherine Therese Whaling </a>:: <a href="/undine-whande">Undine Whande</a> ::<a href="/sarah-whiteley"> Sarah Whiteley</a> :: <a href="/akaya-windwood">Akaya Windwood</a> :: <a href="/aydin-yassemi">Aydin Yassemi</a>
 </div>
 <div class="box-widget">
     <h2>Highlights From the Archives</h2>
@@ -25,6 +27,7 @@ Motaz Attalla :: Richard D. Bartlett :: Liam Barrington-Bush :: Peter Brownell :
 <div class="tagcloud">
     <h2>Tags</h2>
     
+<TagCloud/>
 </div>
 </div>
 <div class="box-widget">
@@ -36,7 +39,7 @@ Motaz Attalla :: Richard D. Bartlett :: Liam Barrington-Bush :: Peter Brownell :
 
 <style>
    aside.sidebar{
-    top: 45px;
+    top: -3rem;
     left: 0;
     width: 300px;
     float:right;
@@ -46,12 +49,14 @@ Motaz Attalla :: Richard D. Bartlett :: Liam Barrington-Bush :: Peter Brownell :
     padding: 2rem;
     font-size:14px;
     line-height: 18px;
+    letter-spacing: normal;
     margin-right:10%;
    
     }
     h2 {
-        font-size:12.5px;
+        font-size:1.4rem;
         text-transform:uppercase;
+        font-family:'Warsaw Gothic';
         
     }
 
@@ -67,5 +72,12 @@ Motaz Attalla :: Richard D. Bartlett :: Liam Barrington-Bush :: Peter Brownell :
         list-style-type: none;
     }
 
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration:underline;
+    }
     
 </style>

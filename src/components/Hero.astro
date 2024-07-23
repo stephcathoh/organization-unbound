@@ -1,5 +1,6 @@
 ---
 import type { DataCollectionKey } from 'astro:content';
+import '../styles/global.css';
 
 interface Props {
 	title: string;
@@ -21,18 +22,16 @@ const { title} = Astro.props;
 
 
 	.title {
-        font-kerning:normal;
         margin: 0 auto;
 		padding:1rem 0 0.5rem 0;
         text-transform: uppercase;
         font-weight: 700;
-
-	}
-
-	.title {
-		font-size: var(--text-3xl);
+		font-family: 'Warsaw Gothic';
+		font-size: 3rem;
 		color: var(--gray-0);
+
 	}
+
 
 	@media (min-width: 50em) {
 		.hero {

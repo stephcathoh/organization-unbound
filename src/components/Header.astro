@@ -1,8 +1,8 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import Banner from './Banner.astro';
-// Supports weights 100-900
-import '@fontsource-variable/noto-serif-georgian';
+import '../styles/global.css';
+
 ---
 
 <header>
@@ -19,7 +19,6 @@ import '@fontsource-variable/noto-serif-georgian';
 			<HeaderLink href="/in-practice">Self-Guided Workshops</HeaderLink>
 			<HeaderLink href="/in-depth">Readings</HeaderLink>
 			<HeaderLink href="/stewards">Stewards</HeaderLink>
-			<a href="/tags/">Tags</a>
 			
 			
 	</div>
@@ -100,7 +99,7 @@ import '@fontsource-variable/noto-serif-georgian';
     text-decoration: none; /* Remove underlines from links */
     padding: 0 1em; /* Add padding to the menu items */
 	font-weight:400;
-  	font-family: 'Georgia';
+  	font-family: 'Warsaw Gothic';
 	font-size:12px;
 	transform:scale(0.5);
 	letter-spacing:1px;

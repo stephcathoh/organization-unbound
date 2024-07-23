@@ -128,8 +128,10 @@ const posts = (await getCollection("blog")).sort(
                   </figure>
                   <h4 class="title">{post.data.title}</h4>
                   <p class="date">
-										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories}|</span>{post.data.author}</span>|
-									</p>
+										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories} </span>|</span>{post.data.author}</span>|
+
+                  
+                  </p>
                   <p class="post-excerpt">
     <PostExcerpt post={post} words={70} addEllipsis={false} />
 

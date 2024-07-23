@@ -10,10 +10,10 @@ The following are abridged versions of the self-guided workshops (content only,
 
 .
 
-[![](/Slide1A-300x225.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefektPUGpsamNfaTA)
+[![](/Slide1A.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefektPUGpsamNfaTA)
 
-[![](/Slide3-300x225.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefSk9HdWg5LWJac1E)
+[![](/Slide3.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefSk9HdWg5LWJac1E)
 
-[![](/Slide4-300x225.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefbFV6cWVVZWQwRVk)
+[![](/Slide4.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefbFV6cWVVZWQwRVk)
 
-[![](/Slide2-300x225.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefU1VhaG5oRWF5cTQ)
+[![](/Slide2.jpg)](https://drive.google.com/open?id=0B9n6TOVC3gefU1VhaG5oRWF5cTQ)
