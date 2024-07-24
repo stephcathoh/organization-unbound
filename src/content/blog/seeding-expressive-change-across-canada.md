@@ -1,6 +1,7 @@
 ---
 title: "Seeding Expressive Change across Canada"
 pubDate: "2019-10-14"
+heroImage: "https://organizationunbound.org/wp-content/uploads/2019/10/Screen-Shot-2019-10-11-at-9.39.36-AM.jpg"
 categories: 
   - "expressive-change"
 tags: 

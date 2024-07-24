@@ -8,7 +8,6 @@ categories:
 tags:
 - "test"
 ---
-![archive file with hearts](/Screen-Shot-2023-02-16-at-1.51.33-PM-e1696991987182.png)
 
 
 This website is a static archive of Organization Unbound (2010-2020), a decade-long global inquiry into the relationship between the inner life of social purpose organizations and their outer work in the world. We hope you are enlivened by the writings, videos, and self-guided workshops it contains. Much of the core content will be migrated to the Institute for Collective Wellbeing, located in their Little Library and throughout their website (tagged as 'Organization Unbound').
