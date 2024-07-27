@@ -148,7 +148,7 @@ const posts = (await getCollection("blog")).sort(
       </section>
  
       <p style={{ color: "#ea181f", textDecoration: "underline" }}>
-        Older Entries
+        <a href="{page.url.next}">Older Entries</a>
       </p>
     </main>
     <Footer />
