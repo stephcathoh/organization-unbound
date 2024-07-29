@@ -83,7 +83,7 @@ const parser = new MarkdownIt();
 export const createExcerpt = (body) => {
   const html = parser.render(body);
   const options = {
-    wordwrap: null,
+    wordwrap: true,
     selectors: [
       { selector: "a", options: { ignoreHref: true } },
       { selector: "img", format: "skip" },

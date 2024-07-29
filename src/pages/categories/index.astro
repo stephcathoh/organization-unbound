@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content'
+import BlogPost from '../../layouts/BlogPost.astro'
+
+const pageTitle = 'Category Archives'
+
+const allPosts = await getCollection('blog')
+const categories = [...new Set(allPosts.map((post) => post.data.categories).flat())]
+---
+
+<BlogPost pageTitle={pageTitle}>
+  <div class='categories'>
+    {
+      categories.map((category) => (
+        <p class='category'>
+          <a href={`/categories/${category}`}>{category}</a>
+        </p>
+      ))
+    }
+  </div>
+</BlogPost>
+
+<style>
+  a {
+    color:#ea181f;
+  }
+
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .category {
+    margin: 0.25em;
+    border: dotted 1px #a1a1a1;
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    font-size: 1.15em;
+    background-color: #f8fcfd;
+    text-transform: capitalize;
+    hyphens:none;
+  }
+</style>

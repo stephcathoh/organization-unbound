@@ -1,4 +1,5 @@
 ---
+import BaseHead from '../components/BaseHead.astro';
 import BaseLayout from './BaseLayout.astro'
 import Sidebar from '../components/Sidebar.astro'
 import Hero from '../components/Hero.astro'
@@ -51,7 +52,8 @@ main {
   <Sidebar/>
   
   <main>
-<Hero title="{title}"/>
+<h1>{frontmatter.title}</h1>
+<hr>
   <slot />
   <div class="details-panel">
   <p>
@@ -63,8 +65,8 @@ main {
  
   <hr>
   <h2>About the Author</h2>
-  <div class="author-panel">
-    <img/> <h3>{frontmatter.author}</h3>
+  <div class="author-panel grid-container">
+    <img src="/gravatar.webp"/> <h3>{frontmatter.author}</h3>
   </div>
   <hr>
   <p id="comments">Comments</p>
@@ -106,6 +108,15 @@ main {
     font-size:14px;
   }
 
+  h1 {
+    margin: 0 auto;
+		padding:1rem 0 0 0;
+    text-transform: uppercase;
+    font-weight: 700;
+		font-family: 'Warsaw Gothic';
+		color: var(--gray-0);
+			}
+
   h2 {
     font-size:22px;
     font-family: 'Warsaw Gothic';
@@ -116,6 +127,17 @@ main {
     font-weight:400;
     font-style:italic;
   }
+
+  hr {
+		padding: 0.25rem 1rem;
+    border-top:1px dotted #666;
+	}
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 78px 1fr;
+    grid-gap:0.5rem;
+}
 
   .author-panel {
     padding-bottom:2em;
