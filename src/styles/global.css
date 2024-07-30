@@ -72,14 +72,14 @@ h4,
 h5,
 h6 {
 	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
+	color: rgb(34, 34, 34);
 	line-height: 1.2;
 }
 h1 {
 	font-size: 22px;
 }
 h2 {
-	font-size: 2.441em;
+	font-size: 16px;
 }
 h3 {
 	font-size: 23px;

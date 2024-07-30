@@ -2,7 +2,6 @@
 import BaseHead from '../components/BaseHead.astro';
 import BaseLayout from './BaseLayout.astro'
 import Sidebar from '../components/Sidebar.astro'
-import Hero from '../components/Hero.astro'
 import FormattedDate from "../components/FormattedDate.astro";
 
 const { frontmatter } = Astro.props
@@ -47,35 +46,8 @@ main {
 				float:right!important;
 
 			}
-</style>
-<BaseLayout>
-  <Sidebar/>
-  
-  <main>
-<h1>{frontmatter.title}</h1>
-<hr>
-  <slot />
-  <div class="details-panel">
-  <p>
-  <span id="details"><FormattedDate date={frontmatter.pubDate} />|</span>
-  <span id="details">{frontmatter.author}</span> |
-  <span id="details">Comments</span>
-  </p>
-  </div>
- 
-  <hr>
-  <h2>About the Author</h2>
-  <div class="author-panel grid-container">
-    <img src="/gravatar.webp"/> <h3>{frontmatter.author}</h3>
-  </div>
-  <hr>
-  <p id="comments">Comments</p>
-  <hr>
-</main>
-</BaseLayout>
 
-<style>
-  #details a{
+       #details a{
     color: #fff;
     text-decoration:none;
   }
@@ -117,10 +89,13 @@ main {
 		color: var(--gray-0);
 			}
 
-  h2 {
-    font-size:22px;
+  h2.author-panel{
     font-family: 'Warsaw Gothic';
-    text-transform: uppercase;
+    font-size: 19px;
+    font-weight:700;
+    text-transform:uppercase;
+    padding-bottom:0;
+    
   }
   h3 {
     font-size:16px;
@@ -137,9 +112,54 @@ main {
     display: grid;
     grid-template-columns: 78px 1fr;
     grid-gap:0.5rem;
+    grid-template-rows:1.5rem;
+    row-gap:0;
+}
+
+img {
+  grid-row:span 2;
 }
 
   .author-panel {
     padding-bottom:2em;
   }
+
+  h3.author-panel{
+    padding-bottom:0.25rem;
+    margin-left: 0;
+  }
+
+  .author-deets {
+    font-size:14px;
+    padding-top:-0;
+  }
 </style>
+<BaseLayout>
+  <Sidebar/>
+  
+  <main>
+<h1>{frontmatter.title}</h1>
+<hr>
+  <slot />
+  <div class="details-panel">
+  <p>
+  <span id="details"><FormattedDate date={frontmatter.pubDate} />|</span>
+  <span id="details">{frontmatter.author}</span> |
+  <span id="details">Comments</span>
+  </p>
+  </div>
+ 
+  <hr>
+  <h2 class="author-panel">About the Author</h2>
+  <div class="author-panel grid-container">
+    <img src="/gravatar.webp"/> <h3 class="author-panel">{frontmatter.author}</h3><span class="author-deets">{frontmatter.deets}</span>
+   
+  </div>
+ 
+  <hr>
+  <h2 class="author-panel">About the Author</h2>
+  <p id="comments">Comments</p>
+  <hr>
+</main>
+</BaseLayout>
+
