@@ -1,6 +1,10 @@
 ---
 title: "An interesting response to our recent talk"
 pubDate: "2012-05-23"
+author: "Undine Whande"
+authorPic: "/gravatar.webp"
+responses: "2 Responses and Cpunting..."
+responsesNumber: "2"
 categories: 
   - "expressive-change"
 tags: 

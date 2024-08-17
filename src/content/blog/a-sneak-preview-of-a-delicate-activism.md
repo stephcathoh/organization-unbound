@@ -1,9 +1,8 @@
 ---
 title: "Sneak preview of 'A Delicate Activism'"
 pubDate: "2014-07-17"
-author: "Allan Kaplan & Sue Davidoff"
-authorPic: "/gravatar.webp"
-responsesNumber: "1"
+author: "Sue Davidoff"
+authorPic: "/Sadaf.jpg"
 categories: 
   - "expressive-change"
 tags: 
@@ -14,11 +13,9 @@ tags:
   - "the-experiential-turn"
   - "unbinding"
   - "vulnerability"
-relatedComments:
-  - sneak-preview-of-a-delicate-activism # references 'src/content/comments/sneak-preview-of-a-delicate-activism.json'
 ---
 
-_One of the gifts of being based in South Africa has been the opportunity to get to know [Allan Kaplan](/allan-kaplan/) and [Sue Davidoff](/sue-davidoff/) and their work at [The Proteus Initiative](http://www.proteusinitiative.org/). We're excited to share a sneak preview of their soon-to-be-launched short book A Delicate Activism: A Radical Approach to Change._ _If you are interested in getting a copy of the book, click [here](http://www.proteusinitiative.org/books-and-other-publications)._ 
+_One of the gifts of being based in South Africa has been the opportunity to get to know [Allan Kaplan](https://organizationunbound.org/allan-kaplan/) and [Sue Davidoff](https://organizationunbound.org/sue-davidoff/) and their work at [The Proteus Initiative](http://www.proteusinitiative.org/). We're excited to share a sneak preview of their soon-to-be-launched short book A Delicate Activism: A Radical Approach to Change._ _If you are interested in getting a copy of the book, click [here](http://www.proteusinitiative.org/books-and-other-publications)._ 
 
 ## . . .
 
@@ -26,7 +23,7 @@ _One of the gifts of being based in South Africa has been the opportunity to get
 
 ### **By Allan Kaplan & Sue Davidoff**
 
-[![](/DelicateActivism5.jpg "Photo courtesy of www.proteusinitiative.org")](/DelicateActivism5.jpg)
+[![](https://organizationunbound.org/wp-content/uploads/2014/07/DelicateActivism5-234x300.jpg "Photo courtesy of www.proteusinitiative.org")](https://organizationunbound.org/wp-content/uploads/2014/07/DelicateActivism5.jpg)
 
 _“The kind of attention we pay to the world changes the world we pay attention to.”_ -Ian McGilchrist
 

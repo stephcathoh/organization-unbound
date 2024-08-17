@@ -1,6 +1,8 @@
 ---
 title: "A personal journey to a new way of working"
 pubDate: "2017-09-21"
+author: "Peter Brownell"
+authorPic: "/Peter-Brownell_headshot.jpg"
 categories: 
   - "expressive-change"
 tags: 

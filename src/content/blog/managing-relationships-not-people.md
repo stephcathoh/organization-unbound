@@ -1,6 +1,9 @@
 ---
 title: "Managing relationships not people"
 pubDate: "2010-06-05"
+author: "Tana Paddock"
+authorPic: "/tana=paddock"
+responsesNumber: "6"
 categories: 
   - "expressive-change"
 tags: 

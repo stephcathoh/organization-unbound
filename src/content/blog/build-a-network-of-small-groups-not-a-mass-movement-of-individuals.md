@@ -1,19 +1,19 @@
 ---
 title: "5 reasons to build a network of small groups, rather than a mass movement of individuals"
 pubDate: "2017-06-29"
+author: "Richard D Bartlett"
+authorPic: "/Richard-Bartlett.png"
 categories: 
   - "expressive-change"
 tags: 
   - "revolutionary-movements"
 ---
 
-.
-
-_Written by Loomio co-founder [Richard D. Bartlett](https://organizationunbound.org/richard-d-bartlett/), this article from [Enspiral Tales](https://medium.com/enspiral-tales) is a compelling articulation of the link between organizational change and societal change._
+_Written by Loomio co-founder [Richard D. Bartlett](/richard-d-bartlett/), this article from [Enspiral Tales](https://medium.com/enspiral-tales) is a compelling articulation of the link between organizational change and societal change._
 
 ## . . .
 
-. ![](https://organizationunbound.org/wp-content/uploads/2017/06/164Original-1-1-e1498726209973.png)We’re currently [touring through the US](https://medium.com/enspiral-tales/why-im-heading-to-the-usa-when-my-friends-are-all-leaving-aef7f2ee5d18), meeting with activists: from urban neighbourhood organisers, to black bloc anarchists, back-to-the-land communalists, and progressive mega-campaigners.
+ ![](https://organizationunbound.org/wp-content/uploads/2017/06/164Original-1-1-e1498726209973.png)We’re currently [touring through the US](https://medium.com/enspiral-tales/why-im-heading-to-the-usa-when-my-friends-are-all-leaving-aef7f2ee5d18), meeting with activists: from urban neighbourhood organisers, to black bloc anarchists, back-to-the-land communalists, and progressive mega-campaigners.
 
 So much of the lefty US political discourse is focussed on a huge scale. Environmentalists want to save the planet. Progressives want to mobilise millions of people on the #OneTrueHashtag. In preparation for this trip, one of my first meetings was with an organisation who are doing great work locally, but they’re freaking out about how they can possibly expand their efforts to encompass a national scale. My advice: don’t waste time growing a nationwide bureaucracy, just stick to what’s working, and publish everything so folks can copy you.
 

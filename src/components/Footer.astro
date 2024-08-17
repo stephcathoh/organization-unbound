@@ -1,91 +1,83 @@
 ---
-import HeaderLink from './HeaderLink.astro';
+import HeaderLink from "./HeaderLink.astro";
 const today = new Date();
 ---
 
 <footer>
-
-	<div id="copyright">
-		<img src="/footer_logo.png" width={110} height={17} alt="footer-logo"/>
-	<p>&copy; {today.getFullYear()} Organization Unbound. All rights reserved.</p>
-	</div>
-	<nav id="footer-nav">
-		<div class="internal-links" id="navigation">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-			<HeaderLink href="/in-depth">Readings</HeaderLink>
-			<HeaderLink href="/stewards">Stewards</HeaderLink>
-
-		</div>
-		<div id="logo-credit">
-			Logo design by Harpreet Padam
-		</div>
-		
-	</nav>
-	
+  <div id="copyright">
+    <img src="/footer_logo.png" width={110} height={17} alt="footer-logo" />
+    <p>
+      &copy; {today.getFullYear()} Organization Unbound. All rights reserved.
+    </p>
+  </div>
+  <nav id="footer-nav">
+    <div class="internal-links" id="navigation">
+      <HeaderLink href="/">Home</HeaderLink>
+      <HeaderLink href="/about">About</HeaderLink>
+      <HeaderLink href="/in-depth">Readings</HeaderLink>
+      <HeaderLink href="/stewards">Stewards</HeaderLink>
+    </div>
+    <div id="logo-credit">Logo design by Harpreet Padam</div>
+  </nav>
 </footer>
 <style>
-	footer {
-		padding: 56px 132px 6em 132px;
-		background: #191919;
-		color: rgb(var(--gray));
-		text-align: center;
-		display: grid;
-  		grid-template-columns: repeat(3, 1fr);
-  		gap: 10px;
-  		grid-auto-rows: minmax(100px, auto);
-		bottom:0;
-		width:100%;
-	}
+  footer {
+    background: #191919;
+    color: rgb(var(--gray));
+    grid-area: footer;
+    bottom: 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    grid-auto-rows: minmax(100px, auto);
+    padding: 56px 132px 143px 132px;
+    text-align: center;
+  }
 
+  #copyright {
+    margin: 0 1rem;
+    width: 480px;
+    grid-column: 1 / 3;
+    grid-row: 1;
+  }
 
-	#copyright {
-		margin:0 1rem;
-		width:480px;
-		grid-column: 1 / 3;
-  		grid-row: 1;
-	}
+  #copyright img {
+    display: inline;
+    margin-right: 0.5rem;
+  }
 
+  #copyright p {
+    color: #666666;
+    font-size: 14px;
+    display: inline;
+    vertical-align: middle;
+  }
 
-	#copyright img {
-		display:inline;
-		margin-right:0.5rem;
+  #footer-nav {
+    width: 480px;
+    margin-top: 32px;
+    grid-column: 3 / 3;
+    grid-row: 1;
+  }
 
-	}
+  #footer-nav,
+  #footer-credit {
+    text-align: right;
+    color: #666666;
+    font-size: 0.75rem;
+    margin: 0 4rem 0 2rem;
+  }
 
-	#copyright p {
-		color:#666666;
-		font-size:14px;
-		display:inline;
-		vertical-align:middle;
-	}
+  #navigation {
+    margin-bottom: 2rem;
+  }
 
-	#footer-nav {
-		width:480px;
-		margin-top:32px;
-		grid-column: 3 / 3;
-  		grid-row: 1;
-		
-	}
-
-	#footer-nav, #footer-credit {
-		text-align:right;
-		color: #666666;
-		font-size:0.75rem;
-		margin: 0 4rem 0 2rem;
-	}
-
-
-	#navigation{
-		margin-bottom:2rem;
-	}
-	
-	#footer-nav a {
-		display:inline;
-		text-decoration:none;
-		color: #666666;
-		font-size:0.75rem;
-		margin-right:10px;
-	}
-
+  #footer-nav a {
+    display: inline;
+    text-decoration: none;
+    color: #666666;
+    font-size: 0.75rem;
+    margin-right: 10px;
+  }
 </style>

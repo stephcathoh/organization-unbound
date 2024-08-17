@@ -3,8 +3,11 @@ import BaseHead from '../components/BaseHead.astro';
 import BaseLayout from './BaseLayout.astro'
 import Sidebar from '../components/Sidebar.astro'
 import FormattedDate from "../components/FormattedDate.astro";
+//import { getEntry } from 'astro:content';
 
-const { frontmatter } = Astro.props
+
+const { frontmatter } = Astro.props;
+
 ---
 <style>
 main {
@@ -133,6 +136,28 @@ img {
     font-size:14px;
     padding-top:-0;
   }
+  .comment-panel {
+    padding-bottom:2em;
+  }
+
+  h2.comment-panel {
+    font-family: 'Warsaw Gothic';
+    font-size: 19px;
+    font-weight:700;
+    text-transform:uppercase;
+    padding-bottom:0;
+  }
+
+  h3.comment-panel{
+    padding-bottom:0.25rem;
+    margin-left: 0;
+  }
+
+  .comment-deets {
+    font-size:14px;
+    padding-top:-0;
+  }
+
 </style>
 <BaseLayout>
   <Sidebar/>
@@ -145,20 +170,26 @@ img {
   <p>
   <span id="details"><FormattedDate date={frontmatter.pubDate} />|</span>
   <span id="details">{frontmatter.author}</span> |
-  <span id="details">Comments</span>
+  <span id="details">{frontmatter.responsesNumber} Comments</span>
   </p>
   </div>
  
   <hr>
   <h2 class="author-panel">About the Author</h2>
   <div class="author-panel grid-container">
-    <img src="/gravatar.webp"/> <h3 class="author-panel">{frontmatter.author}</h3><span class="author-deets">{frontmatter.deets}</span>
+    <img src={frontmatter.authorPic}/> <h3 class="author-panel">{frontmatter.author}</h3><span class="author-deets">Click <a href="">here</a> to learn more about me.</span>
    
   </div>
  
   <hr>
-  <h2 class="author-panel">About the Author</h2>
-  <p id="comments">Comments</p>
+  <h2 class="comment-panel">{frontmatter.responses}</h2>
+  <div class="author-panel grid-container">
+    
+       <img src="/gravatar.webp"/> <h3 class="author-panel"></h3><span class="author-deets"></span>
+  
+
+   
+  </div>
   <hr>
 </main>
 </BaseLayout>

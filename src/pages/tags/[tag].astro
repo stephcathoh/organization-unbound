@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content'
 import BlogPost from '../../layouts/BlogPost.astro'
 import LinkPost from '../../components/LinkPost.astro'
 
+
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog')
 

@@ -1,10 +1,14 @@
 ---
 title: "The experiential turn"
 pubDate: "2010-02-26"
+author: "Warren Nilsson"
+authorPic: "/Warren-Nilsson-Bio.png"
+responsesNumber: "3"
+
 categories: 
-  - "expressive-change"
+  - "expressive change"
 tags: 
-  - "the-experiential-turn"
+  - "the experiential turn"
 ---
 
 <img align="left" width="267" height="299" src="/b53755-suffragette-london.jpg" id="left">

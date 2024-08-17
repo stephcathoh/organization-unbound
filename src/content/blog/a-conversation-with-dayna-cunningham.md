@@ -11,6 +11,8 @@ tags:
   - "relationship"
   - "unbinding"
   - "vulnerability"
+
+ 
 ---
 
 I'm just finishing up a fascinating six-week [on-line course on Theory U](https://www.edx.org/course/u-lab-transforming-business-society-self-mitx-15-s23x#.VObJTWSUdoE). I found this 10-minute excerpt from [Otto Scharmer's](http://www.ottoscharmer.com/bio) interview with [Dayna Cunningham](https://www.presencing.com/people/dayna-l-cunningham) particularly moving. She shares about her experience as a civil rights lawyer and how she came to understand the importance of developing an individual and collective capacity for empathy in social change work.
