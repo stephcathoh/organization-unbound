@@ -1,8 +1,12 @@
 ---
 title: "Cleaning in Cape Town"
-pubDate: "2017-01-31"
+pubDate: "January 31, 2017"
+heroImage: "/162cCleaninginCapeTown.jpg"
+commentStatus: "5 Comments"
+description: "Cleaning is the process of removing dirt from any space, surface, object or subject, thereby exposing beauty, potential, truth and sacredness.” Ever since I had the above epiphany, I have spoken it countless times in many places. Each time I do, I get washed by it, as the essence of cleaning is invited into the space to do its work. This happened again and again while I was in Cape Town recently for Cleaning workshops and conversations organized by […]"
+author: "Tolu Ilesanmi "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
   - "cleaning"

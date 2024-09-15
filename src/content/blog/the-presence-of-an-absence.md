@@ -1,8 +1,12 @@
 ---
 title: "The presence of an absence"
-pubDate: "2016-05-02"
+pubDate: "May 2,2016"
+heroImage: "/159PresenceOfAbsence.png"
+commentStatus: "No Comments"
+description: "The recognition – that we are all now so close, our global footprint so large, and all our processes of life so befouled – releases increasing tendencies towards management and control. We appear caught in a vast paradox that exceeds our capacity for irony – we foreground ourselves as the solution to the problems that we have created through foregrounding ourselves."
+author: "Allan Kaplan"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 
 tags: 
   - "relationship"

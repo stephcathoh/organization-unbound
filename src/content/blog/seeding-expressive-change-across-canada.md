@@ -1,9 +1,12 @@
 ---
 title: "Seeding Expressive Change across Canada"
 pubDate: "2019-10-14"
-heroImage: "https://organizationunbound.org/wp-content/uploads/2019/10/Screen-Shot-2019-10-11-at-9.39.36-AM.jpg"
+heroImage: "/Pollination-2.jpg"
+commentStatus: "Comments Off"
+description: "A few months ago, we convened a 3-day gathering, in partnership with The McConnell Foundation, to explore how to spread the practice of Expressive Change across Canada. It was both an affirming and challenging experience, one that we’re still feeling the ripples from. The intention to spark a community of practice in Canada has been […]"
+author: "Organization Unbound"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "scale"
 ---

@@ -1,8 +1,12 @@
 ---
 title: "Listening to the head, heart & feet"
-pubDate: "2017-07-25"
+pubDate: "July 25,2017"
+heroImage: "/165HeadHeartFeet.png"
+commentStatus: "1 Comment"
+description: "For inscaping to be a robust organizational practice, we need to refine our listening skills so that we learn to listen at an experiential level. Listening with the ‘head, heart and feet as described by the Barefoot Guide Connection is a very helpful tool to practice this. It helps us to listen ‘between the lines’ and ‘beneath the main text’, to hear not just what people are saying, but what they are trying to say or […]."
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "inscaping"

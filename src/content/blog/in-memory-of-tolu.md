@@ -1,8 +1,12 @@
 ---
 title: "In memory of Tolu"
-pubDate: "2017-06-14"
+pubDate: "June 14,2017"
+heroImage: "/Toluportrait.jpg"
+commentStatus: "2 Comments"
+description: "Now and then someone comes to visit this planet and, finding it a bit dusty and forlorn, rolls up his sleeves and gets to work. When you meet him on the road, right away you feel yourself becoming kinder and wiser. You see more light around you. And you want to say thank you but you’re not sure how."
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cleaning"
 ---

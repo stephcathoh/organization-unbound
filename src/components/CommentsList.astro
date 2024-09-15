@@ -1,0 +1,112 @@
+---
+import { getCollection } from "astro:content";
+
+
+
+
+
+  const relatedComments = await getCollection ("comments");
+
+---
+<div>
+
+      
+    <div class="author-panel grid-container">
+      {
+        relatedComments.map((comment) => (
+          
+        <img src={comment.data.authorAvatar} class="comment" />
+            <p class="author-panel commenter">
+              <a href={comment.data.authorUrl}>{comment.data.commenterName}</a>
+              <span>{comment.data.date}</span>
+            </p>
+            <div class="comment-box">
+              <p>{comment.data.html}</p>
+            </div>
+          
+        
+      
+    ))
+  }
+  </div>
+
+
+  <style>
+
+
+img .comment {
+    padding-bottom: 0.5rem;
+  }
+
+  .author-panel {
+    padding-bottom: 2em;
+    grid-column: 2;
+  }
+
+  .author-panel .commenter {
+    font-size: 14px;
+    grid-column: 1/2;
+    grid-row: 2/4;
+    text-align: right;
+    line-height: 1.2;
+    margin-top: 3.5rem;
+  }
+
+  .author-panel .commenter a {
+    text-decoration: none;
+    color: #61a9c1;
+    font-weight: 900;
+  }
+
+  h3.author-panel {
+    padding-bottom: 0.25rem;
+    margin-left: 0;
+    grid-column: 2/2;
+    grid-row: 1/2;
+  }
+
+  .author-deets {
+    font-size: 14px;
+    padding-top: -0;
+    grid-column: 2/2;
+    grid-row: 2/2;
+  }
+  .comment-panel {
+    padding-bottom: 2em;
+    grid-column: 2/2;
+  }
+
+  h2.comment-panel {
+    font-family: "Warsaw Gothic";
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 0;
+  }
+
+  h3.comment-panel {
+    padding-bottom: 0.25rem;
+    margin-left: 0;
+  }
+
+  .comment-deets {
+    font-size: 14px;
+    padding-top: -0;
+  }
+
+  .comment-box {
+    padding: 1rem;
+    margin-left:1rem;
+    background: #f8f8f8;
+    border: 1px solid #dbdbdb;
+    grid-column: 2/2;
+    grid-row: 1/4;
+  }
+
+  .comment-box p {
+    font-size: 14px;
+    font-family: Arial;
+  }
+
+
+  </style>

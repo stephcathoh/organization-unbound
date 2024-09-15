@@ -1,8 +1,11 @@
 ---
 title: "Accompanied Learning"
-pubDate: "2018-09-30"
+pubDate: "October 1, 2018"
+heroImage: "167Accompanied-Learning-1-e1538370373447.jpg"
+commentStatus: "2 Comments"
+description: "When we started Organization Unbound, people often mistook us for a consulting firm, an understandable assumption given how common it is for organizations to rely on consultants to lead processes of internal change. However, we felt strongly (and still do) that the traditional consultancy model would be a barrier to cultivating a rich and expansive field of learning around expressive change. We wanted to learn with organizations, not just provide support to them."
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: ["accompanied-learning", "organizational-transformation", "relationship"]
 
 ---

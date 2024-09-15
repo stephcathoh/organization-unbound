@@ -1,8 +1,12 @@
 ---
 title: "Join us for a Tiny Open Online Course!"
-pubDate: "2016-09-06"
+pubDate: "September 6,2016"
+heroImage: "/160SeedingChangeFromWithin.jpg"
+commentStatus: "No Comments"
+description: "During the month of October, Organization Unbound and The Barefoot Guide Connection will be hosting a TOOC (Tiny Open Online Course) to explore the relationship between organizations and social transformation. This light, month-long learning experience called ‘Seeding Change from Within’ will explore how to increase an organization’s social impact by growing change from the inside out."
+author: "Tana Paddock "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags:
 - "test"
 ---

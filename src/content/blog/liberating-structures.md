@@ -1,8 +1,12 @@
 ---
 title: "Liberating Structures"
-pubDate: "2018-11-27"
+pubDate: "November 27,2018"
+heroImage: "/168LiberatingstructuresThumb.jpg"
+commentStatus: "Comments Off"
+description: "Earlier this year we were contacted by Keith McCandless, co-developer of Liberating Structures. He was interested in exploring the synergies between Liberating Structures and the work of Organization Unbound. After some initial conversations, I became intrigued and am excited to share the start of our inquiry here."
+author: "Organization Unbound"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "purpose"
   - "relationship"

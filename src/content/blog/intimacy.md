@@ -1,8 +1,12 @@
 ---
 title: "Intimacy"
-pubDate: "2016-10-24"
+pubDate: "October 24 2016"
+heroImage: "/161Intimacy-1.jpg"
+commentStatus: "2 Comments"
+description: "It is becoming increasingly clear to me that social change, when done well, is an intimate act. For many years, I was taught to ignore my feelings and intuition, and to develop unassailable plans and irrefutable theories to explain and legitimize my work. These days, I don’t […]"
+author: "Akaya Windwood"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "informal-spaces"
   - "relationship"

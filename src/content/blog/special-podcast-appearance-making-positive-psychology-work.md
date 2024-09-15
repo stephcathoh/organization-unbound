@@ -1,8 +1,12 @@
 ---
 title: "Special podcast appearance: Making Positive Psychology Work"
 pubDate: 'May 6 2020'
+heroImage: 'https://organizationunbound.org/wp-content/uploads/2020/05/169PosPsychology-Podcast_Full-3.jpg'
+commentStatus: "Comments Off"
+description: "In this episode of the popular ‘Making Positive Psychology Work’ podcast, best-selling author Michelle McQuaid interviews Organization Unbound co-founder Warren Nilsson about what workplaces of all types can learn from social purpose organizations about how to create societal change from within."
+author: "Organization Unbound"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags:
 - "test"
 ---

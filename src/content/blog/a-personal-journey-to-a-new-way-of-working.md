@@ -1,10 +1,13 @@
 ---
 title: "A personal journey to a new way of working"
 pubDate: "2017-09-21"
+heroImage: "/165PersonalJourney_forestThumb.png"
+commentStatus: "No Comments"
+description: "Over the course of a year I had been trying to find ways to encourage my team to self-organise. We created roles, adopted structured meeting formats, had many discussions. We made progress, but nothing significant changed. Over the course of this work I found that the problem was not them… it was me."
 author: "Peter Brownell"
 authorPic: "/Peter-Brownell_headshot.jpg"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "inscaping"

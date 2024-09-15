@@ -1,8 +1,12 @@
 ---
 title: "The Organization Unbound giving field"
-pubDate: "2017-05-05"
+pubDate: "May 5, 2017"
+heroImage: "/163GivingFieldOU5-1.jpg"
+commentStatus: "5 Comments"
+description: "One of the many Organization Unbound ideas that I love is the Giving Field, where giving is not a unidirectional transaction but a field in which all participate, where there is no longer a distinction between giver and receiver, where everyone contributes and benefits continuously. I have experienced the […]"
+author: "Tolu Ilesanmi "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "money"
   - "the-giving-field"

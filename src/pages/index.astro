@@ -6,7 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
 import Sidebar from "../components/Sidebar.astro";
-import PostExcerpt from '@igor.dvlpr/astro-post-excerpt';
+
 
 const posts = (await getCollection("blog")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -58,6 +58,7 @@ const posts = (await getCollection("blog")).sort(
 
       figure {
         margin-left:0;
+        width:23%;
       }
       ul li a {
         display: block;
@@ -105,6 +106,11 @@ const posts = (await getCollection("blog")).sort(
         color:#222;
         font-size: 0.85rem;
       }
+
+      span {
+        padding: 0 0.15rem;
+        font-size:0.72rem;
+      }
     </style>
   </head>
   <body>
@@ -113,6 +119,8 @@ const posts = (await getCollection("blog")).sort(
     <main>
       
       <section>
+
+        
         <ul>
           {
             posts.map((post) => (
@@ -128,22 +136,22 @@ const posts = (await getCollection("blog")).sort(
                   </figure>
                   <h4 class="title">{post.data.title}</h4>
                   <p class="date">
-										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories} </span>|</span>{post.data.author}</span>|
+										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories} </span>|<span>{post.data.author}</span>|<span>{post.data.commentStatus}</span>
 
                   
                   </p>
                   <p class="post-excerpt">
-    <PostExcerpt post={post} words={92} addEllipsis={false} />
-    <p> <a href={`/blog/${post.slug}/`}>Read more </a></p>
+    {post.data.description}</p>
+    <p> <a href={`/blog/${post.slug}/`}>Read More </a></p>
 
-  </p>
+  
                 </a>
               </li>
               
               
             ))
           }
-           <p><hr></p>
+         
         </ul>
        
       </section>

@@ -1,8 +1,12 @@
 ---
 title: "Burnout & organizational mindfulness"
-pubDate: "2017-10-03"
+pubDate: "October 3, 2017"
+heroImage: "/166Idealists-Survival-Kit-2Thumb-e1506609561212.jpg"
+commentStatus: "No Comments"
+description: "We hope you enjoy this conversation with Alessandra Pigni, author of “The Idealist’s Survival Kit. 75 Simple Ways to Avoid Burnout”, a light and inviting exposé on what is causing the high rate of burnout in the field of humanitarian aid and activism and ways of addressing it: “I no longer believe that meditation and self-care are enough. It can certainly be a starting point. It was for me. But we can’t stop there."
+author: "Organization Unbound"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "burnout"
   - "humanitarian-aid"

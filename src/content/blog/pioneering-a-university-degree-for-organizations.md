@@ -1,8 +1,12 @@
 ---
 title: "Pioneering a university degree for organizations"
-pubDate: "2017-06-06"
+pubDate: "June 6, 2017"
+heroImage: "/Slide12-1-e1496661618465.jpg"
+commentStatus: "2 Comments"
+description: "Seeking collaborators! We envision creating an entirely new genre of university course, one that recognizes organisations as organisms that learn and as vital sources of innovation. The course will support organisations in making their learning more conscious, systematic and informed and help them draw on the crisis of sustainability present in human and ecological systems as a creative source."
+author: "James Taylor"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
   - "education"

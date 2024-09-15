@@ -1,8 +1,12 @@
 ---
 title: "In memory of Alessandra"
-pubDate: "2019-04-30"
+pubDate: "April 30,2019"
+heroImage: "/Alessandra-Pigni.png"
+commentStatus: "No Comments"
+description: "It is with a heavy heart that we share that mindfulness-in-action pioneer Alessandra Pigni passed away from cancer at the end of last year. In her memory, we are re-publishing our 2017 interview with her about her book The Idealist’s Survival Kit, which explores what is causing the high rate of burnout in the field of humanitarian work. We’ve also included an unpublished segment, with her family’s permission, in which she shares how being a cancer patient influenced how she wrote her book."
+author: "Organization Unbound"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags:
 - "test"
 ---

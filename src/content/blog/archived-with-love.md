@@ -2,6 +2,8 @@
 title: "Archived with love"
 pubDate: "2023-10-11"
 heroImage: '/Screen-Shot-2023-02-16-at-1.51.33-PM-e1696991987182.png'
+commentStatus: "Comments Off"
+description: "This website is a static archive of Organization Unbound (2010-2020), a decade-long global inquiry into the relationship between the inner life of social purpose organizations and their outer work in the world. We hope you are enlivened by the writings, videos, and self-guided workshops it contains. Although Organization Unbound is no longer an active community of practice, the learning continues to evolve in exciting new forms."
 author: "Organization Unbound"
 categories: 
   - "Expressive Change"

@@ -1,12 +1,27 @@
 ---
 title: "5 reasons to build a network of small groups, rather than a mass movement of individuals"
-pubDate: "2017-06-29"
+pubDate: "June 29,2017"
+heroImage: "/164NetworksOfGroupsThumb.png"
+commentStatus: "1 Comment"
+description: "Long term human survival depends on us replacing the status quo with a fundamentally different set of behaviours and structures. I believe the root of that challenge is essentially cultural, and the best place to grow culture is in small groups."
 author: "Richard D Bartlett"
 authorPic: "/Richard-Bartlett.png"
+responses: "One Response and Counting..."
+responsesNumber: "1"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "revolutionary-movements"
+postComments:
+- 
+  commenterName: "Introvert to Influencer: Nurturing Leadership Skills with Confidence – Inspire Progression"
+  authorUrl: "https://inspireprogression.com/introvert-to-influencer-nurturing-leadership-skills-with-confidence/"
+  date: "06.29.2017"
+  html: "[…] They can excel at forming meaningful connections and building trust within these settings. Networking in smaller groups allows introverts to focus on deeper relationships and enhance their leadership skills by […]"
+  authorAvatarUrls": ""
+  authorAvatar: ""
+
+contributorUrl: Sue Davidoff # references 'src/content/contributors/sue-davidoff.md'
 ---
 
 _Written by Loomio co-founder [Richard D. Bartlett](/richard-d-bartlett/), this article from [Enspiral Tales](https://medium.com/enspiral-tales) is a compelling articulation of the link between organizational change and societal change._

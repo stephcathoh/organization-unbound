@@ -1,8 +1,12 @@
 ---
 title: "Resisting in our free time: The state of civil society today"
-pubDate: "2016-05-23"
+pubDate: "May 23,2016"
+heroImage: "/160Lucha.png"
+commentStatus: "No Comments"
+description: "What happens when you get 900 civil society groups in the same room at over 8,500 feet above sea level? Excitement is guaranteed you’d think, along with a bit of oxygen deprivation and a whole lot of partying. That’s what lured me to Bogotá late last month for International Civil Society Week—the annual conference of an NGO called CIVICUS, the ‘World Alliance for Citizen Participation.’"
+author: "Gioel Gioacchino"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "informal-spaces"

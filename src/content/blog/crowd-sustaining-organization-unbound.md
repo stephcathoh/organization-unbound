@@ -1,8 +1,12 @@
 ---
 title: 'Crowd-sustaining Organization Unbound'
-pubDate: '2017-06-09'
+pubDate: 'June 9, 2017'
+heroImage: "/Slide31-1-e1496959066506.jpg"
+commentStatus: "No Comments"
+description: "At the top of our minds these days is the question of how to financially sustain Organization Unbound so that it can grow into the community of practice it is yearning to be, with a deeper and wider impact across the globe. We’ve been exploring this question with many people over the past year. Out of these conversations has emerged an exciting vision- to crowd-sustain Organization Unbound so that the financial support it receives is gently […]"
+author: "Tana Paddock"
 categories:  
-- "expressive-change"
+- "Expressive Change"
 tags:
 - "expressive-change"
 ---

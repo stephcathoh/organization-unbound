@@ -3,6 +3,7 @@ title: "Sneak preview of 'A Delicate Activism'"
 pubDate: "2014-07-17"
 author: "Allan Kaplan & Sue Davidoff"
 authorPic: "/gravatar.webp"
+responses: "One Response and Counting..."
 responsesNumber: "1"
 categories: 
   - "expressive-change"
@@ -14,8 +15,9 @@ tags:
   - "the-experiential-turn"
   - "unbinding"
   - "vulnerability"
-relatedComments:
-  - sneak-preview-of-a-delicate-activism # references 'src/content/comments/sneak-preview-of-a-delicate-activism.json'
+relatedComments: 
+- "sneak-preview-of-a-delicate-activism" # references 'src/content/comments/sneak-preview-of-a-delicate-activism.json'
+contributorUrl: Sue Davidoff # references 'src/content/contributors/sue-davidoff.md'
 ---
 
 _One of the gifts of being based in South Africa has been the opportunity to get to know [Allan Kaplan](/allan-kaplan/) and [Sue Davidoff](/sue-davidoff/) and their work at [The Proteus Initiative](http://www.proteusinitiative.org/). We're excited to share a sneak preview of their soon-to-be-launched short book A Delicate Activism: A Radical Approach to Change._ _If you are interested in getting a copy of the book, click [here](http://www.proteusinitiative.org/books-and-other-publications)._ 
