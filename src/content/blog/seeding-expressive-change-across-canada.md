@@ -10,8 +10,8 @@ categories:
 tags: 
   - "scale"
 ---
+<img src="/Screen-Shot-2019-10-11-at-9.39.36-AM.jpg" width={259} height={302} id="left" alt="hand and flowers representing expressive change">
 
-![](https://organizationunbound.org/wp-content/uploads/2019/10/Screen-Shot-2019-10-11-at-9.39.36-AM.jpg)
 
 A few months ago, we convened a 3-day gathering, in partnership with The McConnell Foundation, to explore how to spread the practice of Expressive Change across Canada. It was both an affirming and challenging experience, one that we're still feeling the ripples from.
 

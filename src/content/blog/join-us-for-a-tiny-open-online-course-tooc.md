@@ -7,8 +7,6 @@ description: "During the month of October, Organization Unbound and The Barefoot
 author: "Tana Paddock "
 categories: 
   - "Expressive Change"
-tags:
-- "test"
 ---
 
 ![Banner with Title3](https://organizationunbound.org/wp-content/uploads/2016/09/Banner-with-Title3-300x93.jpg)

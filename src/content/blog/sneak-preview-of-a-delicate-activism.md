@@ -17,7 +17,7 @@ tags:
   - "vulnerability"
 relatedComments: 
 - "sneak-preview-of-a-delicate-activism" # references 'src/content/comments/sneak-preview-of-a-delicate-activism.json'
-contributorUrl: Sue Davidoff # references 'src/content/contributors/sue-davidoff.md'
+contributorUrl: Sue Davidoff (/sue-davidoff)
 ---
 
 _One of the gifts of being based in South Africa has been the opportunity to get to know [Allan Kaplan](/allan-kaplan/) and [Sue Davidoff](/sue-davidoff/) and their work at [The Proteus Initiative](http://www.proteusinitiative.org/). We're excited to share a sneak preview of their soon-to-be-launched short book A Delicate Activism: A Radical Approach to Change._ _If you are interested in getting a copy of the book, click [here](http://www.proteusinitiative.org/books-and-other-publications)._ 
@@ -27,8 +27,7 @@ _One of the gifts of being based in South Africa has been the opportunity to get
 ### **Delicate Activism –** **An Inescapable Reciprocity**
 
 ### **By Allan Kaplan & Sue Davidoff**
-
-[![](/DelicateActivism5.jpg "Photo courtesy of www.proteusinitiative.org")](/DelicateActivism5.jpg)
+<img src="/DelicateActivism5.jpg "  width={234} height={298} alt="Photo courtesy of www.proteusinitiative.org" id="left">
 
 _“The kind of attention we pay to the world changes the world we pay attention to.”_ -Ian McGilchrist
 

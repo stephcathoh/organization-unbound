@@ -4,25 +4,20 @@ import BaseLayout from "./BaseLayout.astro";
 import Sidebar from "../components/Sidebar.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import type { CollectionEntry } from "astro:content";
-import { getCollection} from "astro:content";
-
+import { getCollection } from "astro:content";
 
 type Props = CollectionEntry<"blog">["data"];
 
 const { title, pubDate, author, responsesNumber, authorPic, responses } =
   Astro.props;
 
-  
-const relatedComments = await getCollection('comments');
+const relatedComments = await getCollection("comments");
 
-const contributorLink = (
-await getCollection(
-"contributors",
+const contributorLink = await getCollection(
+  "contributors",
 
-({ data }: CollectionEntry<'contributors'>) => data.contributorUrl))
-
-
-
+  ({ data }: CollectionEntry<"contributors">) => data.contributorUrl
+);
 ---
 
 <style>
@@ -33,7 +28,6 @@ await getCollection(
     padding: 1rem 2rem;
     background: #fff;
     height: 100%;
-    oveflow: none;
   }
 
   .title {
@@ -211,17 +205,17 @@ await getCollection(
 
   .comment-box {
     padding: 1rem;
-    margin-left:1rem;
+    margin-left: 1rem;
     background: #f8f8f8;
     border: 1px solid #dbdbdb;
     grid-column: 2/2;
     grid-row: 1/4;
   }
 
-  .comment-date{
-    font-size:14px;
-    line-height:0.75;
-    display:inline-block;
+  .comment-date {
+    font-size: 14px;
+    line-height: 0.75;
+    display: inline-block;
   }
 
   .comment-box p {
@@ -249,18 +243,21 @@ await getCollection(
     <div class="author-panel grid-container">
       <img src={authorPic} />
       <h3 class="author-panel">{author}</h3>
-      <span class="author-deets">Click <a href="{contributors.map(contributor)=>{contributorUrl}}">here</a> to learn more about me.</span
+      <span class="author-deets"
+        >Click <a href="{contributors.map(contributor)=>{contributorUrl}}"
+          >here</a
+        > to learn more about me.</span
       >
     </div>
 
     <hr />
     <h2 class="comment-panel">{responses}</h2>
 
-      <div class="author-panel grid-container">
-        
-        { relatedComments.map((comment) => (
-          
-        <img src={comment.data.authorAvatar} class="comment" />
+    <div class="author-panel grid-container">
+      {
+        relatedComments.map((comment) => (
+          <>
+            <img src={comment.data.authorAvatar} class="comment" />
             <p class="author-panel commenter">
               <a href={comment.data.authorUrl}>{comment.data.commenterName}</a>
               <span>{comment.data.date}</span>
@@ -268,14 +265,9 @@ await getCollection(
             <div class="comment-box">
               <p>{comment.data.html}</p>
             </div>
-          
-        
-      
-    ))
-  }
-          
-        
-    
+          </>
+        ))
+      }
     </div>
     <hr />
   </main>

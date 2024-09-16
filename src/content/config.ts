@@ -16,7 +16,7 @@ const blog = defineCollection({
     responses: z.string().optional(),
     responsesNumber: z.string().optional(),
     heroImage: z.string().optional(),
-    tags: z.array(z.string()),
+    tags: z.array(z.string()).optional(),
     categories: z.array(z.string()).optional(),
     relatedPosts: z.array(reference("blog")).optional(),
     postComments: z.array(z.object({
@@ -31,13 +31,6 @@ const blog = defineCollection({
   }),
 });
 
-const authors = defineCollection({
-  type: "content",
-  schema: z.object({
-    author: z.string().default("Organization Unbound"),
-    tags: z.array(z.string()),
-  }),
-});
 
 const commentsCollection = defineCollection({
   type: 'data',
@@ -64,7 +57,6 @@ const contributors = defineCollection({
 
 export const collections = {
   blog: blog,
-  authors: authors,
   comments: commentsCollection,
   contributors: contributors,
 };

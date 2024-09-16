@@ -1,6 +1,6 @@
 import type { Page } from "astro"
 
-const ITEMS_PER_PAGE = 12
+const ITEMS_PER_PAGE = 10
 /**
  * Generate the url for the previous or next page
  * @param url this should be Astro.url

@@ -2,7 +2,7 @@
 title: "Motaz Attalla"
 date: "2011-12-16"
 ---
-
+<img src="/Motaz.jpg "  width={234} height={298} alt="Motaz Attalla" id="left">
 [![](https://organizationunbound.org/wp-content/uploads/2011/12/Motaz.jpg "Motaz")](https://organizationunbound.org/wp-content/uploads/2011/12/Motaz.jpg)
 
 I am an education activist and comedian based in Cairo, Egypt. I have been fortunate to travel to many parts of the world, where my experiences and the people I have met have led me to seek a deeper understanding of the systemic roots of what is called ‘underdevelopment’.

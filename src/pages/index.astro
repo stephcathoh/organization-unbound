@@ -6,11 +6,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
 import Sidebar from "../components/Sidebar.astro";
-
+import { paginate } from "../styles/utils/pagination";
 
 const posts = (await getCollection("blog")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+
+const page = await paginate(posts, Astro.url);
 ---
 
 <!doctype html>
@@ -18,48 +20,52 @@ const posts = (await getCollection("blog")).sort(
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
-     
-    main {
-		max-width:700px;
-		background-color: #ffffff;
-		margin-left:10%;
-		padding:3rem 0.5rem;
-		background:#fff;
-		height:100%;
-		oveflow:none;
-	}
-      
+      main {
+        max-width: 700px;
+        background-color: #ffffff;
+        margin-left: 10%;
+        padding: 3rem 0.5rem;
+        background: #fff;
+        height: 100%;
+        overflow: none;
+      }
+
       ul {
         display: flex;
         flex-wrap: wrap;
         gap: 2rem;
         list-style-type: none;
-        margin-top:1rem;;
+        margin-top: 1rem;
         padding: 0 0.5rem;
       }
-      ul li {
-        width: 100%;
-      }
+
       ul li * {
         text-decoration: none;
         transition: 0.2s ease;
       }
-      
+
       ul li img {
         margin-bottom: 0.5rem;
-        margin-right: 1.7rem;
-        border-radius: 12px;
-        width:196px;
-        height:100%;
-        float:left;
-        padding: 0;
+        /*border-radius: 12px;*/
+        padding: 0.25rem;
         border: solid 1px #666;
+        float: left;
+        width: 196px;
+        height: 196px;
+        object-fit: cover;
+       
       }
 
       figure {
-        margin-left:0;
-        width:23%;
+        margin:0;
       }
+
+      .content {
+        flex-grow: 1;
+        width: 520px;
+        margin-left:0.5rem;
+      }
+
       ul li a {
         display: block;
       }
@@ -67,9 +73,9 @@ const posts = (await getCollection("blog")).sort(
         margin: 0 0 1rem 0;
         color: rgb(var(--black));
         line-height: 1;
-        font-size:1.6rem;
-        font-style:italic;
-        font-weight:400;
+        font-size: 1.6rem;
+        font-style: italic;
+        font-weight: 400;
       }
       .date {
         margin: 0;
@@ -99,63 +105,75 @@ const posts = (await getCollection("blog")).sort(
         }
       }
       hr {
-        border-top: 1px solid gray
+        border-top: 1px solid gray;
       }
 
       .post-excerpt {
-        color:#222;
+        color: #222;
         font-size: 0.85rem;
       }
 
+      .read-more {
+        font-size:14px;
+      }
+
+      p {
+        overflow: hidden;
+        line-height: 1.5;
+      }
+
       span {
-        padding: 0 0.15rem;
-        font-size:0.72rem;
+        font-size: 0.72rem;
+      }
+
+      .container {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
       }
     </style>
   </head>
   <body>
     <Header />
-    <Sidebar/>
+    <Sidebar />
     <main>
-      
       <section>
-
-        
         <ul>
           {
             posts.map((post) => (
               <li>
-                <a href={`/blog/${post.slug}/`}>
-                  <figure>
-                  <img
-                    width={196}
-                    height={196}
-                    src={post.data.heroImage}
-                    alt=""
-                  />
-                  </figure>
-                  <h4 class="title">{post.data.title}</h4>
-                  <p class="date">
-										<FormattedDate date={post.data.pubDate} />|<span>{post.data.categories} </span>|<span>{post.data.author}</span>|<span>{post.data.commentStatus}</span>
-
-                  
-                  </p>
-                  <p class="post-excerpt">
-    {post.data.description}</p>
-    <p> <a href={`/blog/${post.slug}/`}>Read More </a></p>
-
-  
-                </a>
+                <div class="container">
+                  <a href={`/blog/${post.slug}/`}>
+                    <figure>
+                      <img
+                        width={196}
+                        height={196}
+                        src={post.data.heroImage}
+                        alt=""
+                        aspect-ratio="1/1"
+                      />
+                    </figure>
+                    <div class="content">
+                      <h4 class="title">{post.data.title}</h4>
+                      <p class="date">
+                        <FormattedDate date={post.data.pubDate} />|
+                        <span>{post.data.categories} </span>|
+                        <span>{post.data.author}</span>|
+                        <span>{post.data.commentStatus}</span>
+                      </p>
+                      <p class="post-excerpt">{post.data.description}</p>
+                      <p class="read-more">
+                        <a href={`/blog/${post.slug}/`}>Read More </a>
+                      </p>
+                    </div>
+                  </a>
+                </div>
               </li>
-              
-              
             ))
           }
-         
         </ul>
-       
       </section>
- 
+
       <p style={{ color: "#ea181f", textDecoration: "underline" }}>
         <a href="{page.url.next}">Older Entries</a>
       </p>
