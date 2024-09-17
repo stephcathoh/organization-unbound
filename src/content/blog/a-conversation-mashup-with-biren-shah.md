@@ -1,11 +1,14 @@
 ---
 title: "A conversation mashup with Biren Shah"
-pubDate: "2016-03-24"
-author: 'Conversation'
+pubDate: "March 24, 2016"
+heroImage: "/158Mashup-with-Biren.jpg"
+commentStatus: "3 Comments"
+description: "“It is only when we don’t have a social purpose that we’re truly serving the world.” That’s a pretty mind-bending statement, especially for those of us who are working in social purpose organizations. What exactly do you mean?"
+author: "Conversation"
 responses: "3 Responses and Counting..."
 responsesNumber: "3"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "inscaping"
   - "purpose"
@@ -16,10 +19,10 @@ tags:
 
 
 ---
+<Image src="/Nested_hyperboloids-1.jpg" alt="nested hyperboloids" width="605" height="166" />
 
-![Nested_hyperboloids](https://organizationunbound.org/wp-content/uploads/2016/03/Nested_hyperboloids-1-300x49.jpg).
 
-_[Biren Shah](/biren-shah/) and_ [_Tana Paddock_](/tana-paddock/) _met through the_ [_Learning Societies Unconference_](https://organizationunbound.org/expressive-change/the-un-conference/) _in Bir, India in 2011 and have been engaged in a fascinating exchange about the nature of social change work ever since. Biren has challenged Organization Unbound’s thinking in many ways and called into question some of the taken-for-granted building blocks of social change work. What follows is a collage of their conversation, created from a mix of Skype calls, emails, Facebook posts, and interviews._
+_[Biren Shah](/biren-shah/) and_ [_Tana Paddock_](/tana-paddock/) _met through the_ [_Learning Societies Unconference_](blog/the-un-conference/) _in Bir, India in 2011 and have been engaged in a fascinating exchange about the nature of social change work ever since. Biren has challenged Organization Unbound’s thinking in many ways and called into question some of the taken-for-granted building blocks of social change work. What follows is a collage of their conversation, created from a mix of Skype calls, emails, Facebook posts, and interviews._
 
 # . . .
 

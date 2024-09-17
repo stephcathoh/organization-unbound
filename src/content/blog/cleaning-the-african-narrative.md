@@ -1,8 +1,12 @@
 ---
 title: "Cleaning the African narrative"
-pubDate: "2016-02-29"
+pubDate: "February 29, 2016"
+heroImage: "/157CleaningTheAfricanNarrative.jpg"
+commentStatus: "1 Comment"
+description: "“My name is Tolulope Ilesanmi, I am a Cleaner. That is not a confession. It is a celebration. It is also a protest. I was a banker. That is a confession.” These were my opening words when I spoke at the Desautels African Business Initiative conference in […]"
+author: "Tolu Ilesanmi"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "africa"
   - "business"
@@ -13,7 +17,7 @@ tags:
 
 ---
 
-.![Slide1](https://organizationunbound.org/wp-content/uploads/2016/02/Slide1-300x225.jpg)
+.![Slide1](/Slide1.jpg)
 
 _“My name is Tolulope Ilesanmi,_
 

@@ -1,11 +1,9 @@
 ---
 title: "Biren Shah"
-date: "2016-03-22"
+pubDate: "2016-03-22"
 ---
-
+<Image src="/Biren-Photo.jpg" alt="nested hyperboloids" width="300" height="242" />
  
-
-![](https://organizationunbound.org/wp-content/uploads/2016/03/Biren-Photo-300x242.jpg)
 
 I have almost always floundered helplessly when someone asks me about myself or what I do. I am simply unable to articulate 'who I am' in a way that authentically conveys the idea that is 'me'. And that, I think, has largely to do with the extra-ordinary life path I’ve found myself traveling on in recent years.
 

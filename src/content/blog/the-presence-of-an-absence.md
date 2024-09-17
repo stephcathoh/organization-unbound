@@ -13,7 +13,7 @@ tags:
   - "the-experiential-turn"
 ---
 
-_For those who feel like they've hurtled rather than glided into 2016, this start-of-the-new year reflection from [Allan Kaplan](https://organizationunbound.org/allan-kaplan/) is worth taking a moment to sit with._
+_For those who feel like they've hurtled rather than glided into 2016, this start-of-the-new year reflection from [Allan Kaplan](/allan-kaplan/) is worth taking a moment to sit with._
 
 ## . . .
 

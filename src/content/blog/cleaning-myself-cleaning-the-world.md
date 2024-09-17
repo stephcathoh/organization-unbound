@@ -1,8 +1,12 @@
 ---
 title: "Cleaning myself, cleaning the world"
-pubDate: "2015-05-29"
+pubDate: "May 29,2015"
+heroImage: "/152BCleaning_Myself_Cleaning_the_World.jpg"
+commentStatus: "8 Comments"
+description: "Oh and of course as part of the job you will also have to clean homes and offices too”, Tolu said, his twinkling eyes examining me. Mhm. Interesting. We were sitting in his office after my job interview to do the communications and marketing at Zenith Cleaners, which had turned into a 2-hour long conversation."
+author: "Linda Sarvi"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "boundary-work"
   - "business"
@@ -13,7 +17,7 @@ tags:
   - "purpose"
 ---
 
-_Meet our newest contributor [Linda Sarvi](https://organizationunbound.org/linda-sarvi/), who reflects on her unique experience as a marketing and communications staff member of Zenith Cleaners- a social enterprise in Montreal, Canada that [is doing an experiential dive into its purpose in a way that few businesses do](https://organizationunbound.org/expressive-change/i-am-a-cleaner/)._ 
+_Meet our newest contributor [Linda Sarvi](/linda-sarvi/), who reflects on her unique experience as a marketing and communications staff member of Zenith Cleaners- a social enterprise in Montreal, Canada that [is doing an experiential dive into its purpose in a way that few businesses do](/blog/i-am-a-cleaner/)._ 
 
 .
 
