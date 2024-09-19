@@ -1,8 +1,12 @@
 ---
 title: "A conversation with Dayna Cunningham"
-pubDate: "2015-02-23"
+pubDate: "February 23, 2015"
+heroImage: "/150DaynaConvo.jpg"
+commentStatus: "No Comments"
+description: "I’m just finishing up a fascinating six-week on-line course on Theory U. I found this 10-minute excerpt from Otto Scharmer’s interview with Dayna Cunningham particularly moving. She shares about her experience as a civil rights lawyer and how she came to understand the importance of developing an individual and collective capacity for empathy in social change work."
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "communication"

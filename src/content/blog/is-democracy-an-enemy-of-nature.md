@@ -1,8 +1,12 @@
 ---
 title: "Is democracy an enemy of nature?"
-pubDate: "2015-01-27"
+pubDate: "January 27, 2015"
+heroImage: "/148EnemyofNature.jpg"
+commentStatus: "No Comments"
+description: "Are the environmental challenges we face as a planet too urgent and pervasive to be effectively dealt with through democratic means? I was surprised to read that in the wider circles of global environmental discourse, the implied (and occasionally directly expressed) response to this question is increasingly ‘yes’. Andrew Stirling, in his powerful essay ‘Emancipating Transformations’, sheds light on […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "environment"

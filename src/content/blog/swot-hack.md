@@ -1,8 +1,12 @@
 ---
 title: "SWOT hack"
-pubDate: "2014-11-17"
+pubDate: "November 17, 2014"
+heroImage: "/SWOTHack3.jpg"
+commentStatus: "1 Comment"
+description: "The following reflection was written by Rachel Griner, a new contributor to Organization Unbound, based in Dubai, who is keen to help businesses engage more deeply and authentically with social purpose and hone their capacity for social innovation. We’re excited to learn from her experiments."
+author: "Rachel Griner"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "inscaping"
   - "social-innovation"

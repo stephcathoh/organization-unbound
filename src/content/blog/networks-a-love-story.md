@@ -1,8 +1,12 @@
 ---
 title: "Networks: a love story"
-pubDate: "2014-11-11"
+pubDate: "November 11, 2014"
+heroImage: "/146NetworksALoveStory.jpg"
+commentStatus: "No Comments"
+description: "We recently stumbled upon the work of Interaction Institute for Social Change (IISC), one of a growing number of capacity-building organizations taking an ‘inside-out’ approach to social transformation. One of their associates, Curtis Ogden, wrote this piece a few months back reflecting on their journey of stepping more fully into their most deeply held value: “the love that does justice”."
+author: "Curtis Ogden "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "appreciative"

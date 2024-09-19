@@ -1,8 +1,13 @@
 ---
 title: "Becoming human through human-centered design"
-pubDate: "2015-03-09"
+pubDate: "March 9, 2015"
+heroImage: "/151BecomingHumanDesign.jpg"
+commentStatus: "2 Comments"
+description: "After years of practice, a pivotal moment came when I realized human-centered design could actually be an expression of our humanity. To drive true innovation, I could blur the line between designer and user and create the space for us all to advance our human potential. This happened during my Executive on Loan assignment to the National Underground Railroad Freedom Center."
+author: "Rachel Griner"
+
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cincinnati"
   - "design"

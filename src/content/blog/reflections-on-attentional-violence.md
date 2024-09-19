@@ -1,8 +1,12 @@
 ---
 title: "Reflections on attentional violence"
 pubDate: "2014-12-03"
+heroImage: "/147AttentionalViolenceThumb.jpg"
+commentStatus: "1 Comment"
+description: "Most of us are probably familiar with Johan Galtung’s ‘typology of violence’. As a peace researcher Galtung is known for developing the term and theory of structural violence. The concept of structural violence dawned on him while seeing the victims of poverty in India. People were suffering and yet the cause […]"
+author: "Undine Whande"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "conflict-resolution"

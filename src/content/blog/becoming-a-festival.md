@@ -1,8 +1,12 @@
 ---
 title: "Becoming a festival"
-pubDate: "2015-02-09"
+pubDate: "February 9, 2015"
+heroImage: "/149Becoming-a-festival.jpg"
+commentStatus: "1 Comment"
+description: "In a letter to her fellow organizers, Katherine Therese Whaling offers a heartfelt reflection on her experience organizing last year’s Muizenberg Festival, a week-long celebration of community-led development in the seaside town of Muizenberg, South Africa. We were struck by how beautifully her reflection illuminates what it means to live an event as a process rather than simply plan it as an outcome."
+author: "Katherine Therese Whaling"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
   - "communication"
