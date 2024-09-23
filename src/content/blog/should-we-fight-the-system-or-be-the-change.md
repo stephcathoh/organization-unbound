@@ -1,8 +1,12 @@
 ---
 title: "Should we fight the system or be the change?"
-pubDate: "2014-09-18"
+pubDate: "September 18,2014"
+heroImage: "/143-Prefigurative-full.jpg"
+commentStatus: "1 Comment"
+description: "Once an obscure term, prefigurative politics is increasingly gaining currency, with many contemporary anarchists embracing as a core tenet the idea that, as a slogan from the Industrial Workers of the World put it, we must “build the new world in the shell of the old.” Because of this, it is useful to understand its history and dynamics. While prefigurative politics has much to offer social movements, it also contains pitfalls."
+author: "Mark Engler & Paul Engler "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "institutional-change"
@@ -10,7 +14,7 @@ tags:
   - "revolutionary-movements"
 ---
 
-_Meet our latest contributors [Mark Engler](https://organizationunbound.org/mark-engler/) and [Paul Engler](https://organizationunbound.org/paul-engler/) who explore the history, dynamics, and debates around prefigurative politics- with both an appreciative and critical eye. They ask, "How can we use the desire to 'be the change' in the service of strategic action?"_ 
+_Meet our latest contributors [Mark Engler](/mark-engler/) and [Paul Engler](/paul-engler/) who explore the history, dynamics, and debates around prefigurative politics- with both an appreciative and critical eye. They ask, "How can we use the desire to 'be the change' in the service of strategic action?"_ 
 
  
 

@@ -1,10 +1,13 @@
 ---
 title: "Stuck in an old story"
 pubDate: "2014-10-21"
+heroImage: "/144StuckInAnOldStory.jpg"
+commentStatus: "1 Comment"
+description: “Help stop them before they destroy earth. Become an AlienBuster!”… “It is time to reclaim our country! We need the public to join us in our fight to rid the planet of these deadly invaders!” This call to arms was envisaged – perhaps surprisingly – from an ecological, green, ‘natural’ systems context as a creative intervention in the South African government’s management of environmental issues."
 author: "Tania Katzschner"
 deets: "Click here to learn more about me"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "environmental-change"
   - "social-marketing"

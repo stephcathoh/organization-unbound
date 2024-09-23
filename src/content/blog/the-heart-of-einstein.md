@@ -1,8 +1,12 @@
 ---
 title: "The heart of Einstein"
-pubDate: "2013-09-08"
+pubDate: "September 8, 2013"
+heroImage: "/131TheHeartofEinsteinfull.jpg"
+commentStatus: "4 Comments"
+description: "When I recently came across Einstein’s explanation of his statement, I felt relieved and excited to discover that indeed he was instructing us to use more than our mind and ego-driven analysis to work through problems. Knowing this, I take it further to imagine that by ‘higher levels’ he meant higher levels of […]"
+author: "Veena Vasista"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "growth"

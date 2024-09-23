@@ -1,8 +1,12 @@
 ---
 title: "I am a cleaner"
-pubDate: "2013-10-16"
+pubDate: "October 16, 2013"
+heroImage: "/133Iamacleaner.jpg"
+commentStatus: "20 Comments"
+description: "So when we clean a school, we are not just cleaning the hallways and the bathrooms but if they permit us, there is a possibility of cleaning their system of education. When we clean a church, our intention is to introduce cleaning as a spiritual practice. When we clean for a real estate developer, we can work with them to […]"
+author: "Tolu Ilesanmi"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "boundary-work"
   - "canada"

@@ -1,8 +1,12 @@
 ---
 title: "Exploring the link between inscaping & social innovation"
-pubDate: "2014-02-06"
+pubDate: "February 6, 2014"
+heroImage: "/137InscapingSIFull.jpg"
+commentStatus: "No Comments"
+description: "At the end of last year, we spent some time trying to deepen our understanding of the relationship between the practice of inscaping and the organizational capacity to initiate and sustain social innovation. Through the generous support of Nesta, we wrote a paper on the topic, which we presented to an international audience of […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cleaning"
   - "education"

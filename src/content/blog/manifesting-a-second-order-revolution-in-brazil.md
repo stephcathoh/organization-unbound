@@ -1,10 +1,13 @@
 ---
 title: "Manifesting a second order revolution in Brazil"
-pubDate: "2014-01-28"
+pubDate: "January 28, 2014"
+heroImage: "/135MesasLogo.jpg"
+commentStatus: "No Comments"
+description: "Protest is never enough to secure a long-term vision for a country, so the straight lines of demonstrations have to be re-shaped into new patterns of participatory democracy and dialogue. This is what is happening in Brazil. Brazilians will continue to show their discontent about a country that is known for its corruption, and for the huge gaps that exist between rich and poor. But alongside […]"
 author: "Augusto Cuginotti"
 authorPic: "/AugustoCuginotti.jpg"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "brazil"
   - "institutional-change"

@@ -1,8 +1,12 @@
 ---
 title: "Join us for a webinar"
-pubDate: "2014-01-16"
+pubDate: "January 16, 2014"
+heroImage: "/135Joinusforawebinar.jpg"
+commentStatus: "No Comments"
+description: "As a follow-up to our article Social Innovation From the Inside Out, the Stanford Social Innovation Review has invited us to share our learnings around the concept and practice of ‘inscaping’ through their next SSIR Live! Webinar offering. We’re excited to have Marlon Parker, founder of the Cape Town-based organization RLabs, join us to share his organization’s experience. Twenty complimentary tickets available!"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
   - "inscaping"

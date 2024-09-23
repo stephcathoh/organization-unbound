@@ -1,8 +1,12 @@
 ---
 title: "A six month dive into expressive change"
 pubDate: "2014-09-02"
+heroImage: "/six-month-dive.jpg"
+commentStatus: "1 Comment"
+description: "Social change work is slow, and we’ve all heard stories of well-intentioned people burning out as they scramble to improve this big old world of ours. But what if this were different? In the fall of 2013, the McGill Office of Sustainability (MOOS) was fortunate to work with Organization Unbound to re-imagine the way we think about and engage in social change. With the guidance of our […]"
+author: "Josee Methot & Jess Marais"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "canada"
   - "inscaping"

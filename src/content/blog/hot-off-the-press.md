@@ -1,8 +1,12 @@
 ---
 title: "Hot off the press!"
-pubDate: "2013-11-27"
+pubDate: "November 27, 2013"
+heroImage: "/134Hotoffthepress.jpg"
+commentStatus: "2 Comments"
+description: "Check out our feature article in the latest issue of the Stanford Social Innovation Review- “Social Innovation From the Inside Out”. In it we explore the concept and practice of ‘inscaping’ and highlight three organizations that we’ve learned tons from over the years: Santropol Roulant, Southwest Baltimore Charter School, and PLAN. We’d love to hear your thoughts!"
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "baltimore"
   - "canada"

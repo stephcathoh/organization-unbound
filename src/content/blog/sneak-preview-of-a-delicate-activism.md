@@ -1,12 +1,15 @@
 ---
 title: "Sneak preview of 'A Delicate Activism'"
-pubDate: "2014-07-17"
+pubDate: "July 17,2014"
+heroImage: "/DelicateActivism5.jpg"
+commentStatus: "1 Comment"
+description: "One of the gifts of being based in South Africa has been the opportunity to get to know Allan Kaplan and Sue Davidoff and their work at The Proteus Initiative. We’re excited to share a sneak preview of their soon-to-be-launched short book A Delicate Activism: A Radical Approach to Change."
 author: "Allan Kaplan & Sue Davidoff"
 authorPic: "/gravatar.webp"
 responses: "One Response and Counting..."
 responsesNumber: "1"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "business"
   - "cape-town"

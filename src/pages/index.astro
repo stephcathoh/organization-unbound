@@ -21,7 +21,7 @@ const page = await paginate(posts, Astro.url);
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       main {
-        max-width: 700px;
+        max-width: 720px;
         background-color: #ffffff;
         margin-left: 10%;
         padding: 3rem 0.5rem;
@@ -30,7 +30,7 @@ const page = await paginate(posts, Astro.url);
         overflow: none;
       }
 
-     /* @media screen (max-width: 600px) {
+      /* @media screen (max-width: 600px) {
         main {
           margin:0;
           padding: 1.5rem 0;
@@ -60,17 +60,16 @@ const page = await paginate(posts, Astro.url);
         width: 196px;
         height: 196px;
         object-fit: cover;
-       
       }
 
       figure {
-        margin:0;
+        margin: 0;
       }
 
       .content {
         flex-grow: 1;
-        width: 520px;
-        margin-left:0.5rem;
+        width: 540px;
+        margin-left: 0.5rem;
       }
 
       ul li a {
@@ -121,7 +120,7 @@ const page = await paginate(posts, Astro.url);
       }
 
       .read-more {
-        font-size:14px;
+        font-size: 14px;
       }
 
       p {
@@ -148,34 +147,38 @@ const page = await paginate(posts, Astro.url);
         <ul>
           {
             posts.map((post) => (
-              <li>
-                <div class="container">
-                  <a href={`/blog/${post.slug}/`}>
-                    <figure>
-                      <img
-                        width={196}
-                        height={196}
-                        src={post.data.heroImage}
-                        alt=""
-                        aspect-ratio="1/1"
-                      />
-                    </figure>
-                    <div class="content">
-                      <h4 class="title">{post.data.title}</h4>
-                      <p class="date">
-                        <FormattedDate date={post.data.pubDate} />|
-                        <span>{post.data.categories} </span>|
-                        <span>{post.data.author}</span>|
-                        <span>{post.data.commentStatus}</span>
-                      </p>
-                      <p class="post-excerpt">{post.data.description}</p>
-                      <p class="read-more">
-                        <a href={`/blog/${post.slug}/`}>Read More </a>
-                      </p>
-                    </div>
-                  </a>
-                </div>
-              </li>
+              <>
+                <li>
+                  <div class="container">
+                    <a href={`/blog/${post.slug}/`}>
+                      <figure>
+                        <img
+                          width={196}
+                          height={196}
+                          src={post.data.heroImage}
+                          alt=""
+                          aspect-ratio="1/1"
+                        />
+                      </figure>
+                      <div class="content">
+                        <h4 class="title">{post.data.title}</h4>
+                        <p class="date">
+                          <FormattedDate date={post.data.pubDate} />|
+                          <span>{post.data.categories} </span>|
+                          <span>{post.data.author}</span>|
+                          <span>{post.data.commentStatus}</span>
+                        </p>
+                        <p class="post-excerpt">{post.data.description}</p>
+                        <p class="read-more">
+                          <a href={`/blog/${post.slug}/`}>Read More </a>
+                        </p>
+                      </div>
+                    </a>
+                  </div>
+                  <hr />
+                </li>
+               
+              </>
             ))
           }
         </ul>

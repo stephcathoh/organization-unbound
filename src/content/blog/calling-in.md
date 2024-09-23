@@ -1,8 +1,12 @@
 ---
 title: "Calling in"
-pubDate: "2014-11-02"
+pubDate: "November 2,2014"
+heroImage: "/146CallingIn.jpg"
+commentStatus: "No Comments"
+description: "This provocative essay on Black Girl Dangerous sheds light on how the oppressive social patterns that we’re trying to change ‘out there’ inevitably live inside us and our social movements, no matter how hard we try to chase them out. Author Ngọc Loan Trần invites fellow activists to engage with these patterns more consciously and lovingly in order to be a stronger force for change."
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "anti-oppression"
