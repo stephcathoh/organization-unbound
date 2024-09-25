@@ -1,8 +1,12 @@
 ---
 title: "Podcast: Dancing the talk"
-pubDate: "2013-01-20"
+pubDate: "January 20, 2013"
+HeroImage: "/99DancingtheTalk.jpg"
+commentStatus: "1 Comment"
+description: "In this podcast, we speak to Kiran Gulrajani, who challenges us to take a lighter and more exploratory approach to living out our values in our work. We had the pleasure of hosting him and his CoEvolve colleague Rohit Sasvehalli at our home during their recent visit to South Africa. Our intention was to […]"
+author: "Podcast"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "fun"
   - "growth"

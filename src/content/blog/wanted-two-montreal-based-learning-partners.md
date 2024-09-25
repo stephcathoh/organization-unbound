@@ -1,8 +1,12 @@
 ---
 title: "Wanted/Recherche: Two Montreal-area learning partners"
-pubDate: "2013-06-05"
+pubDate: "June 5,2013"
+heroImage: "/129Wanted2MontrealOrgs.jpg"
+commentStatus: "No Comments"
+description: "Organization Unbound is seeking to enter into a learning partnership with two Montreal-area organizations to better understand the experiences organizations have as they begin to engage with the practice of Expressive Change. What we learn from these learning partnerships will feed the development of a self-guided curriculum on Expressive change. Interested/Intéressé?"
+author: "Jonathan Glencross"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "canada"
   - "montreal"

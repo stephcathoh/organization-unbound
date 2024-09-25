@@ -1,8 +1,14 @@
 ---
 title: "Inscaping"
-pubDate: "2010-03-13"
+pubDate: "March 13,2010"
+HeroImage: "/thumb-hallway-inscaping.jpg"
+commentStatus: "18 Comments"
+description: "Brandon, a teacher’s aide at Southwest Baltimore Charter School once said to me, “The weak link isn’t necessarily the person who doesn’t do the job well. It’s the person who doesn’t do the job from within or truthfully.”
+
+This is why, I think, that the most deeply engaging organizations I’ve encountered seem to be rooted in small, daily acts of personal revelation. […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "baltimore"
   - "boston"

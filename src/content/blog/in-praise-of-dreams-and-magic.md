@@ -1,8 +1,12 @@
 ---
 title: "In praise of dreams and magic"
-pubDate: "2012-11-29"
+pubDate: "November 29,2012"
+HeroImage: ""
+commentStatus: "8 Comments"
+description: "Time is ticking. There is less than half an hour until my teaching starts at Norwich Business School at the University of East Anglia. I am in my office trying to focus and prepare for my afternoon lecture of “Management Skills and Personal Development” course for about 200 students. I feel terrified. […]"
+author: "Akaya Windwood "
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "education"
