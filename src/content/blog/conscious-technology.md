@@ -1,8 +1,12 @@
 ---
 title: "Conscious technology"
-pubDate: "2011-06-02"
+pubDate: "June 2, 2011"
+HeroImage: ""
+commentStatus: "7 Comments"
+description: "Just thought I’d preface this post with a note about my general relationship with technology. In short, I don’t like to be around it. I find computer monitors mind numbing. Keyboards send sharp pains up my right arm. I spent many years resisting pressures to buy a cell phone. True, I did organize my entire […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "meetings"

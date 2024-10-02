@@ -1,8 +1,12 @@
 ---
 title: "Fun change = real change"
-pubDate: "2011-09-15"
+pubDate: "September 15, 2011"
+HeroImage: ""
+commentStatus: "6 Comments"
+description: "I burnt out in third year university. The nail in the coffin on top of school and work and everything else was the effort and time I’d put into organizing a day of panel discussions about ethical consumption. I booked the best minds of our university, matching them with on-the-ground activists in the community and a good smattering of ethical producers and consumer representatives."
+author: "Megan Thom"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "education"

@@ -1,12 +1,15 @@
 ---
 title: "An interesting response to our recent talk"
-pubDate: "2012-05-23"
+pubDate: "May 23,2012"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "The first thing that struck me from the talk and that had me celebrate inwardly was that these insights are now surfacing at various points through various people who have all been keenly and committedly observing their environments and coming to similar conclusions: That organisations are […]"
 author: "Undine Whande"
 authorPic: "/gravatar.webp"
 responses: "2 Responses and Cpunting..."
 responsesNumber: "2"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "business"
   - "cape-town"

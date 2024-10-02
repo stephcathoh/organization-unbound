@@ -1,8 +1,12 @@
 ---
 title: "Taking the revolution inward"
-pubDate: "2012-01-25"
+pubDate: "January 25,2012"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "Any categorization of outside and inside, enemy and friend, good and bad is an illusion of the mind. I remember a quotation by the first prime minister of the transitional government after the 1979 revolution in Iran, who said, “The Shah (king) is not gone, because there is still a little Shah living within each one of us”. His message was that the spirit of monarchy and dictatorship is not gone by the departure or execution of the monarch, but that it could continue in every meeting, every election, every institution, every family and so on."
+author: "Aydin Yassemi"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "informal-spaces"

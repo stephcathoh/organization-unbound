@@ -1,10 +1,10 @@
 ---
 title: "In praise of dreams and magic"
 pubDate: "November 29,2012"
-HeroImage: ""
+HeroImage: "/97InPraiseofDreamsAndMagic.jpg"
 commentStatus: "8 Comments"
 description: "Time is ticking. There is less than half an hour until my teaching starts at Norwich Business School at the University of East Anglia. I am in my office trying to focus and prepare for my afternoon lecture of “Management Skills and Personal Development” course for about 200 students. I feel terrified. […]"
-author: "Akaya Windwood "
+author: "Fahri Karakas"
 categories: 
   - "Expressive Change"
 tags: 

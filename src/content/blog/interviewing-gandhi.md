@@ -1,8 +1,12 @@
 ---
 title: "“Interviewing” Gandhi"
-pubDate: "2011-05-11"
+pubDate: "May 11, 2011"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "Many of us are familiar with the phrase “Be the change you want to see in the world,” so much so that it has become a bit of a cliché. I’ve been wondering for a while now what else Gandhi said that relates to expressive social change, a concept that is at the heart of […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "india"
   - "institutional-change"

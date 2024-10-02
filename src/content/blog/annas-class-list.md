@@ -1,8 +1,12 @@
 ---
 title: "Anna's class list"
-pubDate: "2011-11-27"
+pubDate: "November 27, 2011"
+HeroImage: ""
+commentStatus: "No Comments"
+description: "My last post, on John McKnight, has quickly become one of the most read posts we’ve had on Organization Unbound. I’m not sure why. But maybe it has something to do with the how central ‘disdain’ has become to our political and and social change conversations. I suspect that […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "baltimore"

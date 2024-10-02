@@ -1,8 +1,14 @@
 ---
 title: "The promise of the square: A conversation with Motaz Attalla"
-pubDate: "2012-01-08"
+pubDate: "January 8, 2012"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "Warren: Can you take us back a bit to how you experienced the early days of Tahrir Square?
+
+Motaz: There was this sense of rediscovering pure community- with all its good and bad. Knowing what it means to receive gifts and give gifts, to receive care and give care between absolute strangers and with a totally open heart. And feeling just a sweetness of courage. And to know that we don’t have to worry about the consequences of stepping out- not because things won’t turn out bad but because there is a lot of support for the act of bravery itself. And to me that’s the glue of society. Feeling like people are for you and you are for people."
+author: "Motaz Attalla"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "boundary-work"
   - "education"

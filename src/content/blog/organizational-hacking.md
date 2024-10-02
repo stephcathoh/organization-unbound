@@ -1,8 +1,12 @@
 ---
 title: "Organizational hacking"
 pubDate: "2010-09-22"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "My friend Jim is a hacker. Not the kind of hacker who sits at a computer trying to break into highly classified computer systems – that’s a highly simplistic portrayal. No, he’s the kind of hacker who approaches many of the aspects in his life with a mindset that is critical, analytical and creative. And […]"
+author: "Alex Megelas"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "informal-spaces"

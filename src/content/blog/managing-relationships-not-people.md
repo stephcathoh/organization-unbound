@@ -1,11 +1,14 @@
 ---
 title: "Managing relationships not people"
-pubDate: "2010-06-05"
+pubDate: "June 5 2010"
+HeroImage: ""
+commentStatus: "6 Comments"
+description: "“The smallest divisible human unit is two people, not one; one is a fiction. From such nets of souls societies, the social world, human life springs.” –Tony Kushner, Angels in America A few weeks ago, Rennie and I had the pleasure of convening a conversation about expressive change with a handful of folks in Montreal’s […]"
 author: "Tana Paddock"
 authorPic: "/tana=paddock"
 responsesNumber: "6"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "montreal"

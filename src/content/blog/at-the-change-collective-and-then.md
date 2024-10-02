@@ -1,8 +1,12 @@
 ---
 title: "At The Change Collective"
-pubDate: "2012-03-28"
+pubDate: "March 28,2012"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "Last week we convened our first workshop in Cape Town, at the invitation of the Change Collective Cape Town. It was definitely one of the more engaging workshops we’ve ever done. It seemed to get under people’s skin- both positively and negatively- in more of an immediate way than we have previously experienced."
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
 ---

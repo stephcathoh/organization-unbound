@@ -1,8 +1,12 @@
 ---
 title: "City of Sanctuary"
-pubDate: "2011-12-15"
+pubDate: "December 15, 2011"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "Casper ter Kuile shared this City of Sanctuary clip with us as a beautiful example of a social change initiative that is completely rooted in meaning and experience. On the City of Sanctuary blog, Giuilia, a newly arrived volunteer from Italy, shares how surprised she is to see so many asylum seekers and refugees […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "informal-spaces"

@@ -1,8 +1,12 @@
 ---
 title: "When our first instinct is to run away . . ."
-pubDate: "2011-06-11"
+pubDate: "July 11, 2011"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "I once asked a guy named Pedro, who had spent his life founding and working in one of the Mondragon industrial cooperatives, what his most engaging organizational experience had been. He gave me a kind of half-smile. “It was when we went bankrupt.”"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "life-cycle"

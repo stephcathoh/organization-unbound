@@ -1,8 +1,14 @@
 ---
 title: "Taking the Revolution Forward"
-pubDate: "2012-01-03"
+pubDate: "January 3, 2012"
+HeroImage: ""
+commentStatus: "6 Comments"
+description: "Welcome to Organization Unbound’s special themed section, Taking the Revolution Forward.
+
+Like many people, we were fascinated by the global wave of uprisings and citizens’ movements in 2011. What struck us most was their focus on how people were coming together. Public demonstrations had a generative quality. They expressed not just demands but a kind of rich, unqualified yearning, and people worked, however haltingly, to meet that yearning right in the squares and streets where they stood."
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "informal-spaces"
   - "institutional-change"

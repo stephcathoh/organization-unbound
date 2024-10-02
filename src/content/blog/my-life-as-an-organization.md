@@ -1,8 +1,12 @@
 ---
 title: "My life as an organization"
-pubDate: "2010-07-13"
+pubDate: "July 13, 2010"
+HeroImage: ""
+commentStatus: "3 Comments"
+description: "What would it look like if my life was an organization? This is the question I was left with last evening. Friends from different circles had come over to talk about sustainability in the home (windowsill gardening, composting, etc.) It was a nice, lively discussion that I’d been inspired to organize for a few months […]"
+author: "Alex Megelas"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "fun"

@@ -1,8 +1,12 @@
 ---
 title: "Social innovation from the inside out"
-pubDate: "2012-05-13"
+pubDate: "May 13,2012"
+HeroImage: ""
+commentStatus: "11 Comments"
+description: "We are excited to share this talk that Warren gave last month at University of Cape Town exploring the organizational dimensions of social innovation. In our experience, few social purpose organizations spend much time looking at how their own organizational cultures support or hinder the kinds of changes in the world they are working so hard to create. In this talk, Warren challenges us to consider how much of our current difficulty in fostering and scaling social innovation is bound up in this disconnect. What kind of change might we create if […]"
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "cape-town"
   - "community-organizations"

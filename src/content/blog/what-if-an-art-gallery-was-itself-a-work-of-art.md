@@ -1,8 +1,14 @@
 ---
 title: "What if an art gallery was itself a work of art?"
-pubDate: "2012-02-24"
+pubDate: "February 24, 2012"
+HeroImage: ""
+commentStatus: "8 Comments"
+description: "Is it possible that creativity in arts organisations not be limited to the gallery space? 
+
+Anne Bertrand has been flirting with this question for as many years as I have known her. When we first met almost a decade ago, she was asking it from a place of frustration. She had spent several years working for an artist-run organization and was feeling quite disheartened as a result. How can it be, she would say to me in exasperation, that […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "art"
   - "boundary-work"

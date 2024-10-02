@@ -1,8 +1,12 @@
 ---
 title: "Zenith Cleaners"
-pubDate: "2010-09-16"
+pubDate: "September 16, 2010"
+HeroImage: ""
+commentStatus: "5 Comments"
+description: "My friends Tolu and Ronke run a cleaning company that is unlike any cleaning company I have ever come across. They see Zenith Cleaners as a vehicle through which they can create the kind of world they want to live in, a world that is not just healthy and aesthetically beautiful, but deeply rooted in […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "business"
   - "cleaning"

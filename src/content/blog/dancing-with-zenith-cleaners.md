@@ -1,8 +1,12 @@
 ---
 title: "Dancing with Zenith Cleaners"
-pubDate: "2011-06-16"
+pubDate: "June 16,2011"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "I was reading through the Zenith Cleaners blog recently and came across a reflection written by our friend Tolu Ilesanmi titled Invitation to the dance. In it he describes the kind of reciprocal relationship he works hard to create with his staff, clients and suppliers."
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "business"
   - "cleaning"

@@ -1,8 +1,12 @@
 ---
 title: "The social innovation space"
-pubDate: "2011-09-07"
+pubDate: "September 7, 2011"
+HeroImage: ""
+commentStatus: "No Comments"
+description: "Inscaping is too broad a concept to explain some of the variation we see in the capacities of different organizations to become true social innovators. Many organizations might reasonably describe themselves as good at inscaping. They are relatively open and honest. The members of the organization care about each other and are willing and able to share their experiences. Yet these organizations often struggle to fully develop their capacities for meaningful, resilient social change. Why?"
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "inscaping"
   - "relationship"

@@ -1,8 +1,12 @@
 ---
 title: "Sounding"
-pubDate: "2011-02-24"
+pubDate: "February 24, 2011"
+HeroImage: ""
+commentStatus: "4 Comments"
+description: "The most catalytic organizational practice I’ve encountered lately is humblingly simple. It involves nothing more than pausing in the middle of a meeting or discussion and going around the room to hear from each person how they are actually experiencing the issue at hand – right now, in the moment. It seems like an obvious […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "community-organizations"

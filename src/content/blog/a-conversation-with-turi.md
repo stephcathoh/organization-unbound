@@ -1,8 +1,12 @@
 ---
 title: "A conversation with Turi"
-pubDate: "2010-07-20"
+pubDate: "July 20, 2010"
+HeroImage: ""
+commentStatus: "No Comments"
+description: "The following is an edited transcript of a conversation that Tana and I had with my sister Turi Nilsson. She is the Director of Instruction and co-founder of Southwest Baltimore Charter School, a place of great inspiration and learning for us. We’ve written about it in previous posts. RENNIE: What would you say are the […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "baltimore"

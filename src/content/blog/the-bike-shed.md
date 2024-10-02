@@ -1,8 +1,12 @@
 ---
 title: "The Bike Shed"
-pubDate: "2012-06-27"
+pubDate: "June 27,2012"
+HeroImage: ""
+commentStatus: "10 Comments"
+description: "Once members get past the initial challenge of putting together a jigsaw puzzle of missing parts, they quickly realize that something greater than bike repair and the inhalation of kerosene is happening here; a sense of purpose and community is beaming through the interaction of those involved in the repair."
+author: "Sadaf Kashfi"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "australia"
   - "community-organizations"

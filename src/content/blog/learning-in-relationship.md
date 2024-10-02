@@ -1,8 +1,12 @@
 ---
 title: "Learning in relationship"
-pubDate: "2010-06-20"
+pubDate: "June 20, 2010"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "Learning in Relationship, by Ronald Short, is a book that I find myself re-reading again and again. I quoted from it in my post Inscaping at COCo a couple of months ago, but feel it’s worth revisiting because I think it contains a tremendous amount of wisdom. It spells out in simple and concrete language […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "communication"
   - "inscaping"

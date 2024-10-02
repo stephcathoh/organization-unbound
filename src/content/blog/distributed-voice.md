@@ -1,8 +1,12 @@
 ---
 title: "Distributed voice"
-pubDate: "2011-04-24"
+pubDate: "April 24, 2011"
+HeroImage: ""
+commentStatus: "3 Comments"
+description: "I once worked at an advocacy and training organization where, in an effort to look more professional in the eyes of our funders and partners, it was decided that all correspondence would have a uniform look- even down to the font that we used in our emails. I could handle the idea of uniformity for […]"
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "advocacy"
   - "community-organizations"

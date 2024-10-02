@@ -1,17 +1,20 @@
 ---
 title: "The experiential turn"
-pubDate: "2010-02-26"
+pubDate: "February 25,2010"
+HeroImage: ""
+commentStatus: "3 Comments"
+description: "If expressive change or The Giving Field was the first big ah-ha for us, the second was something we might call “the experiential turn.” If we want to create a social change dynamic rooted in the actual lived experiences of the people who make up our organizations, it makes sense that, no matter what specific […]"
 author: "Warren Nilsson"
 authorPic: "/Warren-Nilsson-Bio.png"
 responsesNumber: "3"
-
 categories: 
-  - "expressive change"
+  - "Expressive Change"
 tags: 
-  - "the experiential turn"
+  - "the-experiential-turn"
 ---
 
-<img align="left" width="267" height="299" src="/b53755-suffragette-london.jpg" id="left">
+
+<img width="267" height="299" src="/b53755-suffragette-london.jpg" id="left">
 
 
 If expressive change or [The Giving Field](thegivingfield) was the first big ah-ha for us, the second was something we might call "the experiential turn." If we want to create a social change dynamic rooted in the actual lived experiences of the people who make up our organizations, it makes sense that, no matter what specific practices we adopt, we should pay a great deal of sustained attention to those experiences.

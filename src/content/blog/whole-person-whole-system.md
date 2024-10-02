@@ -1,8 +1,12 @@
 ---
 title: "Whole person, whole system"
-pubDate: "2011-08-14"
+pubDate: "August 14, 2011"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "What is less well understood is that treating each other as the patchwork, unruly human beings we are, rather than the zippered office functionaries we pretend to be, is also the only way we can really come to understand, let alone affect, the larger institutional patterns we are trying to change […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "institutional-change"
   - "purpose"
@@ -10,7 +14,7 @@ tags:
   - "social-innovation"
 ---
 
-<img align="left" width="196" height="196" src="/Puzzle-face.jpg" alt="Photo by Ashtyn Renee at flickr.com" id="left">
+<img id="left" width="196" height="196" src="/Puzzle-face.jpg" alt="Photo by Ashtyn Renee at flickr.com">
 Many people involved in social purpose work champion the idea that organizations need to become places where we can relate to each other not just as roles but as whole human beings. We believe that when we are free to express dimensions of ourselves that don’t fit neatly into job descriptions, our work becomes more engaging and our relationships more authentic.
 
 I think this is true. But what is less well understood is that treating each other as the patchwork, unruly human beings we are, rather than the zippered office functionaries we pretend to be, is also the only way we can really come to understand, let alone affect, the larger institutional patterns we are trying to change.

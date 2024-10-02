@@ -1,8 +1,12 @@
 ---
 title: "Unknowing"
-pubDate: "2010-05-31"
+pubDate: "May 30,2010"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "The theme of vulnerability that Tana introduced a few posts ago is an important one for me. Like Tana, I have noticed that one of the strongest threads running through expressive organizations I have spent time with is their willingness to face up to and explore their vulnerability. At a personal level, people share their […]"
+author: "Warren Nilsson"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "vulnerability"
 ---

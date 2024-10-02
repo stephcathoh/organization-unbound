@@ -1,8 +1,14 @@
 ---
 title: "Bringing minutes to life"
-pubDate: "2011-07-07"
+pubDate: "July 7, 2011"
+HeroImage: ""
+commentStatus: "2 Comments"
+description: "“At this point there was a terrible cow manure smell that came across the lake.”
+
+I came across this sentence as I was reading through the minutes of an annual general meeting that I attended some time back. It appears as its own paragraph, in the middle of the document, in italics."
+author: "Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "appreciative"
   - "boundary-work"

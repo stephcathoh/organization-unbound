@@ -1,8 +1,12 @@
 ---
 title: "Multiply wounded"
-pubDate: "2012-07-12"
+pubDate: "July 12, 2012"
+HeroImage: ""
+commentStatus: "4 Comments"
+description: "We recently came across an illuminating talk by Nicaraguan psychologist Martha Cabrera- Living and Surviving in a Multiply Wounded Country. In her talk, she describes the uniquely holistic approach to societal healing that she and her team developed over a decade of experimental work in Nicaragua."
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "community-organizations"
   - "inscaping"

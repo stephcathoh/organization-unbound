@@ -1,8 +1,12 @@
 ---
 title: "More adventures with Jonathan"
-pubDate: "2011-05-26"
+pubDate: "May 26,2011"
+HeroImage: ""
+commentStatus: "1 Comment"
+description: "Last year, we wrote a blog post highlighting the work of Jonathan Glencross. Jonathan’s approach to environmental advocacy has helped spark some dramatic sustainability initiatives at McGill University. We thought you’d enjoy listening to a TedxTalk that he gave a few months ago to an audience of 700"
+author: "Warren Nilsson & Tana Paddock"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "education"
   - "institutional-change"
