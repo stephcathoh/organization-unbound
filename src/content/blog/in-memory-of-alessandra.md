@@ -7,6 +7,8 @@ description: "It is with a heavy heart that we share that mindfulness-in-action 
 author: "Organization Unbound"
 categories: 
   - "Expressive Change"
+tags:
+ - "expressive change"
 
 ---
 

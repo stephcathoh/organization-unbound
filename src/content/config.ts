@@ -16,7 +16,7 @@ const blog = defineCollection({
     responses: z.string().optional(),
     responsesNumber: z.string().optional(),
     heroImage: z.string().optional(),
-    tags: z.array(z.string()).optional(),
+    tags: z.array(z.string()),
     categories: z.array(z.string()).optional(),
     relatedPosts: z.array(reference("blog")).optional(),
     postComments: z.array(z.object({

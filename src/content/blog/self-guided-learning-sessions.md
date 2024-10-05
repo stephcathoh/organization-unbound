@@ -9,6 +9,8 @@ authorPic: "/tana=paddock"
 responsesNumber: "No"
 categories: 
   - "Expressive Change"
+tags:
+ - "expressive change"
 ---
 
 After spending some time beta-testing our self-guided learning sessions with organizations, we've come out with these new and improved versions (available in [français](https://organizationunbound.org/francais/)).

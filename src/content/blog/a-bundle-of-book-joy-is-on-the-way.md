@@ -7,6 +7,9 @@ description: "In 2018 we began writing a book, bringing together the threads of 
 author: "Organization Unbound"
 categories: 
   - "Expressive Change"
+tags:
+ - "expressive change"
+
 
 ---
 

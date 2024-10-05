@@ -10,7 +10,7 @@ responsesNumber: "2"
 categories: 
   - "Expressive Change"
 tags: 
-  - "decision-making"
+  - "decision-making"  
   - "meetings"
   - "relationship"
   - "revolutionary-movements"
