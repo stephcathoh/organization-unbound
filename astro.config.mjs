@@ -7,4 +7,5 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://organizationunbound.org',
 	integrations: [mdx(), sitemap()],
+	output: 'static',
 });

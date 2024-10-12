@@ -2,11 +2,11 @@
 title: "How to occupy democracy"
 pubDate: "2012-01-30"
 HeroImage: ""
-commentStatus: "2 Comments"
-description: "The first thing that struck me from the talk and that had me celebrate inwardly was that these insights are now surfacing at various points through various people who have all been keenly and committedly observing their environments and coming to similar conclusions: That organisations are […]"
-author: "Undine Whande"
+commentStatus: "No Comments"
+description: "When the civil rights movement abandoned its focus on nurturing personal, individual relationships and instead resorted to broad principles and detached theorising, it lost its power. It became coopted, removed from the people who otherwise held it accountable with the gentle discipline that is required in being true and kind to one’s friends.I suspect that this aspect is where grand nation-building projects, based on the most beautiful of ideals, stumble."
+author: "Baj Mukhopadhyay"
 categories: 
-  - "expressive-change"
+  - "Expressive Change"
 tags: 
   - "canada"
   - "communication"

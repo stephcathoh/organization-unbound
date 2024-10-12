@@ -1,6 +1,6 @@
 ---
 title: "Seeding Expressive Change across Canada"
-pubDate: "2019-10-14"
+pubDate: "October 14, 2019"
 heroImage: "/Pollination-2.jpg"
 commentStatus: "Comments Off"
 description: "A few months ago, we convened a 3-day gathering, in partnership with The McConnell Foundation, to explore how to spread the practice of Expressive Change across Canada. It was both an affirming and challenging experience, one that we’re still feeling the ripples from. The intention to spark a community of practice in Canada has been […]"
