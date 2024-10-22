@@ -1,7 +1,7 @@
 ---
 title: "The experience of school"
 pubDate: "May 12, 2013"
-HeroImage: ""
+heroImage: "/102theexperienceofschool.jpg"
 commentStatus: "6 Comments"
 description: "Critics of modern schooling like John Taylor Gatto and Ivan Illich have recognized that the fundamental curriculum that schools teach us is school itself. I’ve been thinking about this a lot lately since moving to South Africa, where school reform has become a nation-wide calling. The initiatives that feel most promising to me are the ones that are digging under the layers a bit- looking at ways of transforming […]"
 author: "Tana Paddock"

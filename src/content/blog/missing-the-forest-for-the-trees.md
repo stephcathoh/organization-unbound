@@ -1,7 +1,7 @@
 ---
 title: "Missing the forest for the trees"
 pubDate: "September 18,2013"
-HeroImage: ""
+heroImage: "/132SeeingTheForestForTheTreesThumb.jpg"
 commentStatus: "1 Comment"
 description: "Children’s social services in England, like those of many other countries, don’t always have a sparkling public reputation when it comes to face-to-face relations. Like police, social workers who tackle state-mandated child protection cases spend their days witnessing and intervening in many of society’s darkest moments. From paedophilia to domestic violence, a social worker often observes the worst of what human beings are capable of in a typical working day. It takes a special kind of person to avoid […]"
 author: "Liam Barrington-Bush"

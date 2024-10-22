@@ -1,7 +1,7 @@
 ---
 title: "Film release- An intro to expressive change"
 pubDate: "August 3, 2015"
-HeroImage: ""
+heroImage: "/154FilmRelease.jpg"
 commentStatus: "1 Comment"
 description: "* Now subtitled in Español & Français *
 

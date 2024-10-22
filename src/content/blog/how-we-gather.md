@@ -1,7 +1,7 @@
 ---
 title: "How we gather"
 pubDate: "April 21, 2013"
-HeroImage: ""
+heroImage: "/101HowWeGatherThumb.jpg"
 commentStatus: "3 Comments"
 description: "At Kufunda Learning Village we had fallen into the rut of our weekly meetings having become very task oriented. They were the least inspired place of our village (mostly), and several issues were being discussed with only a few voices repeating themselves. There was little collective wisdom at play, and oftentimes we left our weekly Village Circle feeling drained and tired, although we might have managed to tick off many items on our to-do list. One day – after one too many such meetings – I decided, no more […]"
 author: "Marianne Knuth"

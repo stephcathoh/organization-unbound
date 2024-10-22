@@ -1,7 +1,7 @@
 ---
 title: "Music to my ears"
 pubDate: "October 27, 2014"
-HeroImage: ""
+heroImage: "/145MusicToMyEarsTHUMB2.jpg"
 commentStatus: "5 Comments"
 description: "I’m old enough to remember when music, dance, art and poetry were integral parts of social change. No one would even consider having a meeting that didn’t include some aspect of celebrating the human spirit. There is something deeply satisfying about about gathering in groups and singing together."
 author: "Akaya Windwood"

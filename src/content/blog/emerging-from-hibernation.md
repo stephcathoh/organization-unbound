@@ -1,7 +1,7 @@
 ---
 title: "Podcast: Emerging from hibernation"
 pubDate: "July 29, 2015"
-HeroImage: ""
+heroImage: "/153Emergingfromhibernation.jpg"
 commentStatus: "Comments Off"
 description: "In 2012, we hosted a podcast with Aerin Dunford of The Berkana Institute about the organization’s decision to go into an undefined period of hibernation. Given its focus on promoting ‘living systems’ principles in social change work, we were curious to learn how they were putting these principles into practice internally. Berkana recently resurfaced from its restful state, and so we followed up with Aerin to find out what the experience has been like for them."
 author: "Podcast"

@@ -12,18 +12,19 @@
   "dependencies": {
     "@astrojs/mdx": "^3.1.8",
     "@astrojs/react": "^3.6.2",
-    "@astrojs/rss": "^4.0.8",
-    "@astrojs/sitemap": "^3.2.0",
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/sitemap": "^3.2.1",
     "@fontsource-variable/noto-serif-georgian": "^5.0.19",
     "@types/react": "^18.2.77",
     "@types/react-dom": "^18.2.25",
-    "astro": "^4.16.1",
+    "astro": "^4.16.6",
     "astro-pagefind": "^1.5.0",
     "astro-seo": "^0.8.3",
     "fuse.js": "^7.0.0",
     "html-to-text": "^9.0.5",
     "pagefind": "^1.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "rollup": "^4.24.0"
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "Capturing experiences from South America, East Asia & the Middle East"
 pubDate: "December 16,2013"
-HeroImage: ""
+heroImage: "/ShortFilm.jpg"
 commentStatus: "No Comments"
 description: "As many of you know, over the last few months we’ve been collecting interviews from around the world for a short film we’re making on expressive change. Although we are in the process of wrapping up the crowd-sourcing phase of the project, we are keeping the door open for interviews from South America, East Asia, and the Middle East in hopes that [. . .]"
 author: "Tana Paddock"

@@ -1,7 +1,7 @@
 ---
 title: "In practice"
 pubDate: "August 26, 2013"
-HeroImage: ""
+heroImage: "/130InPractice.jpg"
 commentStatus: "1 Comment"
 description: "If you are looking for ways to introduce the concept and practice of expressive change into your organization, check out these “conversation deepeners”. They are the first in a collection of self-guided learning materials that we’re developing. They are designed for a small group of people within the same organization to do together and can be done in any order."
 author: "Tana Paddock "

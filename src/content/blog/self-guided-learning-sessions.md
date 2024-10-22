@@ -1,7 +1,7 @@
 ---
 title: "Self-guided learning sessions - new and improved"
 pubDate: "August 10, 2015"
-HeroImage: ""
+heroImage: "/155RevampedSessions.jpg"
 commentStatus: "No Comments"
 description: "After spending some time beta-testing our self-guided learning sessions with organizations, we’ve come out with these new and improved versions. The sessions were created to help people introduce the concept and practice of expressive change into their organization."
 author: "Tana Paddock"
