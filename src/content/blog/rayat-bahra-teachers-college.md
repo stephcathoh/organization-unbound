@@ -1,7 +1,7 @@
 ---
 title: "Rayat-Bahra Teachers College"
 pubDate: "September 22, 2011"
-HeroImage: ""
+heroImage: "/68RayatBahraUpdate1.jpg"
 commentStatus: "5 Comments"
 description: "The landscape turns from deep green to sepia-yellow as we drive out of the tree-lined streets of the city and onto a dusty road lined with wheat fields. At some point we return to pavement and I glance out the back window to see a horse gallop across the road in our wake. Our taxi slows and turns onto a smaller road, meanders through an enclave of large white-washed structures, and comes to a stop in front of a cheerful looking building with students streaming through its front doors."
 author: "Tana Paddock"

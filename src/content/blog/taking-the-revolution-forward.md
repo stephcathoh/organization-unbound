@@ -1,7 +1,7 @@
 ---
 title: "Taking the Revolution Forward"
 pubDate: "January 3, 2012"
-HeroImage: ""
+heroImage: "/76TRFCollectionofReflections.jpg"
 commentStatus: "6 Comments"
 description: "Welcome to Organization Unbound’s special themed section, Taking the Revolution Forward.
 

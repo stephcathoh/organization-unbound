@@ -1,7 +1,7 @@
 ---
 title: "Gross organizational happiness"
 pubDate: "October 29, 2012"
-HeroImage: ""
+heroImage: "/96GrossOrgHappiness.jpg"
 commentStatus: "No Comments"
 description: "Over the past several years, there has been a great deal of international focus on the notion of happiness. While there are many definitions of happiness, here is a composite of my favorites: “emotions experienced when in a state of well-being that range from contentment to intense joy.” This is not a new notion. Thinkers from Aristotle to Alice Walker to the Dalai Lama have written much about […]"
 author: "Akaya Windwood"

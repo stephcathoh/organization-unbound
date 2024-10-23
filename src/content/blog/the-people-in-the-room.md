@@ -1,7 +1,7 @@
 ---
 title: "The people in the room"
 pubDate: "March 25,2011"
-HeroImage: ""
+heroImage: "/UnifiedVoices.jpg"
 commentStatus: "2 Comments"
 description: "Gregory Branch is a doctor and public health official who also happens to direct an unusual gospel choir in Baltimore. We knew Gregg a number of years ago when we lived in Maryland, and for a little while we even sang in the choir. Gregg is a fiercely kind man with a large spirit and […]"
 author: "Warren Nilsson & Tana Paddock"

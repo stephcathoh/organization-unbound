@@ -1,7 +1,7 @@
 ---
 title: "What was sparked"
 pubDate: "April 6, 2014"
-HeroImage: ""
+heroImage: "/138WhatWasSparked.jpg"
 commentStatus: "5 Comments"
 description: "More than 170 people from 14 countries tuned into the Stanford Social Innovation Review webinar in February where we shared our learnings around the concept and practice of inscaping. A number of interesting questions and comments were raised during the Q&A. Since we did not have time to respond to all of them during the webinar, I thought it would be worth sharing our responses here in writing."
 author: "Tana Paddock"

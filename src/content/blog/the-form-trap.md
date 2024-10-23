@@ -1,7 +1,7 @@
 ---
 title: "The form trap"
 pubDate: "February 1, 2013"
-HeroImage: ""
+heroImage: "/100TedxCapeTown.jpg"
 commentStatus: "2 Comments"
 description: "Check out this talk that Warren gave at Tedx Cape Town on an idea we feel is worth spreading!
 

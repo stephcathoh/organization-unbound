@@ -1,7 +1,7 @@
 ---
 title: "Structuring our Beloved Communities?"
 pubDate: "September 8, 2014"
-HeroImage: ""
+heroImage: "/142BelovedCommunities1.jpg"
 commentStatus: "2 Comments"
 description: "If we believe that changing the world involves changing the kinds of relationships we have with one another, what role do organising structures have in helping or hindering the relationships we are trying to create?, asks Liam Barrington-Bush."
 author: " Liam Barrington-Bush "
@@ -20,7 +20,7 @@ tags:
 
 .
 
-[![Photo by Jef Safi at Flickr.com](https://organizationunbound.org/wp-content/uploads/2014/08/142BelovedCommunities-300x300.jpg)](https://www.flickr.com/photos/jef_safi/276593775/)In the early days of the US civil rights movement, [Martin Luther King Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.) used the phrase ‘[Beloved Community](http://www.thekingcenter.org/king-philosophy#sub4)’ to describe the kind of change he was working towards. The Beloved Community expressed a way of organising that made non-violence and compassion both its means and its ends, and placed strong relationships at the core of wider social transformation. The phrase, initially coined by philosopher-theologian [Josiah Royce](http://plato.stanford.edu/entries/royce/), articulated the idea that organising based on Love will create a culture of Love in its wake. King [said](http://www.wearethebelovedcommunity.org/bcquotes.html):
+[![Photo by Jef Safi at Flickr.com](/142BelovedCommunities.jpg)](https://www.flickr.com/photos/jef_safi/276593775/)In the early days of the US civil rights movement, [Martin Luther King Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.) used the phrase ‘[Beloved Community](http://www.thekingcenter.org/king-philosophy#sub4)’ to describe the kind of change he was working towards. The Beloved Community expressed a way of organising that made non-violence and compassion both its means and its ends, and placed strong relationships at the core of wider social transformation. The phrase, initially coined by philosopher-theologian [Josiah Royce](http://plato.stanford.edu/entries/royce/), articulated the idea that organising based on Love will create a culture of Love in its wake. King [said](http://www.wearethebelovedcommunity.org/bcquotes.html):
 
 “Love is creative and redemptive. Love builds up and unites; hate tears down and destroys. The aftermath of the 'fight with fire' method... is bitterness and chaos, the aftermath of the love method is reconciliation and creation of the beloved community. Physical force can repress, restrain, coerce, destroy, but it cannot create and organize anything permanent; only love can do that.”
 

@@ -1,7 +1,7 @@
 ---
 title: "The promise of the square: A conversation with Motaz Attalla"
 pubDate: "January 8, 2012"
-HeroImage: ""
+heroImage: "/77PromiseoftheSquare.jpg"
 commentStatus: "1 Comment"
 description: "Warren: Can you take us back a bit to how you experienced the early days of Tahrir Square?
 

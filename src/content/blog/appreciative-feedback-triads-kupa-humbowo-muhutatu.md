@@ -1,7 +1,7 @@
 ---
 title: "Appreciative feedback triads: Kupa humbowo muhutatu"
 pubDate: "March 7, 2011"
-HeroImage: ""
+heroImage: "/Triads.jpg"
 commentStatus: "1 Comment"
 description: "At Kufunda Learning Village, we’ve recently experimented with a powerful exercise called ‘Appreciative Feedback Triads’ or ‘Kupa humbowo muhutatu’ in Shona. Here’s how it works…"
 author: "Warren Nilsson & Tana Paddock"

@@ -1,7 +1,7 @@
 ---
 title: "Anna's class list"
 pubDate: "November 27, 2011"
-HeroImage: ""
+heroImage: "/Kidsatcomputerthumb.jpg"
 commentStatus: "No Comments"
 description: "My last post, on John McKnight, has quickly become one of the most read posts we’ve had on Organization Unbound. I’m not sure why. But maybe it has something to do with the how central ‘disdain’ has become to our political and and social change conversations. I suspect that […]"
 author: "Warren Nilsson"
@@ -14,7 +14,7 @@ tags:
   - "schools"
 ---
 
-![](https://organizationunbound.org/wp-content/uploads/2010/07/Kidsatcomputerthumb.jpg "Photo from http://www.sbcschool.org/")My last [post](https://organizationunbound.org/expressive-change/turning-john-mcknight-inside-out/), on John McKnight, has quickly become one of the most read posts we've had on Organization Unbound. I'm not sure why. But maybe it has something to do with the how central 'disdain' has become to our political and and social change conversations. I suspect that many of us are weary of it. We are fatigued by how much energy it takes to keep casting other people in a hopeless light.
+![](/Kidsatcomputerthumb.jpg "Photo from http://www.sbcschool.org/")My last [post](https://organizationunbound.org/expressive-change/turning-john-mcknight-inside-out/), on John McKnight, has quickly become one of the most read posts we've had on Organization Unbound. I'm not sure why. But maybe it has something to do with the how central 'disdain' has become to our political and and social change conversations. I suspect that many of us are weary of it. We are fatigued by how much energy it takes to keep casting other people in a hopeless light.
 
 I don't say this from any moral soapbox. I struggle with it myself every day - the ease with which I can move from disbelief that someone would look at the world so differently than I do to dismissiveness, even contempt. But the feeling I have inside me when I do this is unpleasant and draining. It feels like a sort of laziness that paradoxically takes an enormous amount of effort to maintain, if that makes sense. Looking at other people in an appreciative way, on the other hand, even when they are desperate political or organizational foes, is energizing.
 

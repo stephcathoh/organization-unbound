@@ -1,7 +1,7 @@
 ---
 title: "Unbinding continued"
 pubDate: "February 13, 2011"
-HeroImage: ""
+heroImage: "/Foodproject.jpg"
 commentStatus: "3 Comments"
 description: "Tana’s recent post on “unbinding” reminded me of some reflections I had made in a paper I wrote a few years ago. In a section that was actually called “The Unbinding,” I was thinking about how difficult it can be to recognize exactly what it is that binds us. For someone like Tana (disciplined, orderly, […]"
 author: "Warren Nilsson"

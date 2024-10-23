@@ -1,7 +1,7 @@
 ---
 title: "What if an art gallery was itself a work of art?"
 pubDate: "February 24, 2012"
-HeroImage: ""
+heroImage: "/81SkolIntroPhone.jpg"
 commentStatus: "8 Comments"
 description: "Is it possible that creativity in arts organisations not be limited to the gallery space? 
 

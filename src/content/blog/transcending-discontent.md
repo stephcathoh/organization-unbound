@@ -1,7 +1,7 @@
 ---
 title: "Transcending discontent"
 pubDate: "March 12,2012"
-HeroImage: ""
+heroImage: "/82TranscendingDiscontent.jpg"
 commentStatus: "2 Comments"
 description: "We aim to make more people see that Nigeria is not 'them' but 'I' and 'us', bringing closer to home the urgency and the responsibility of change. We aim to show that change begins when many more Nigerians stop being frustrated at the government, the polity and the society and channel the same energy into becoming the bigger change they seek, in day-to-day interactions with family members, friends, colleagues, clients and other Nigerians and non Nigerians."
 author: "Tolu Ilesanmi"

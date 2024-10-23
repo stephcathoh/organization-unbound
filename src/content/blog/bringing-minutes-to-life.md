@@ -1,7 +1,7 @@
 ---
 title: "Bringing minutes to life"
 pubDate: "July 7, 2011"
-HeroImage: ""
+heroImage: "/minutesthumb.jpg"
 commentStatus: "2 Comments"
 description: "“At this point there was a terrible cow manure smell that came across the lake.”
 

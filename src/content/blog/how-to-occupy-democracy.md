@@ -1,7 +1,7 @@
 ---
 title: "How to occupy democracy"
 pubDate: "2012-01-30"
-HeroImage: ""
+heroImage: "/80OccupyDemocracy.jpg"
 commentStatus: "No Comments"
 description: "When the civil rights movement abandoned its focus on nurturing personal, individual relationships and instead resorted to broad principles and detached theorising, it lost its power. It became coopted, removed from the people who otherwise held it accountable with the gentle discipline that is required in being true and kind to one’s friends.I suspect that this aspect is where grand nation-building projects, based on the most beautiful of ideals, stumble."
 author: "Baj Mukhopadhyay"

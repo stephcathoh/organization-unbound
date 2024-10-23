@@ -1,7 +1,7 @@
 ---
 title: "How the spotted owl can save us"
 pubDate: "October 1, 2012"
-HeroImage: ""
+heroImage: "/SpottedOwllthumb.jpg"
 commentStatus: "14 Comments"
 description: "If expressive change or The Giving Field was the first big ah-ha for us, the second was something we might call “the experiential turn.” If we want to create a social change dynamic rooted in the actual lived experiences of the people who make up our organizations, it makes sense that, no matter what specific […]"
 author: "Warren Nilsson & Tana Paddock "

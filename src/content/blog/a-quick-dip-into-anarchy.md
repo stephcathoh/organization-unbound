@@ -1,7 +1,7 @@
 ---
 title: "A quick dip into anarchy"
 pubDate: "November 15,2011"
-HeroImage: ""
+heroImage: "/71Anarchy.jpg"
 commentStatus: "No Comments"
 description: "When I heard that the first-ever South African Anarchist Book Fair was being organized in Cape Town, I jumped at the opportunity to check it out. I had been to the anarchist book fair several times in Montreal, but never with a specific goal in mind. This time, I was going with a more tailored curiosity: How do anarchists go about […]"
 author: "Tana Paddock"

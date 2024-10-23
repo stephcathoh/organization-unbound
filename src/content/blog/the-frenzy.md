@@ -1,7 +1,7 @@
 ---
 title: "The frenzy"
 pubDate: "October 17, 2012"
-HeroImage: ""
+heroImage: "/95Thefrenzy1.jpg"
 commentStatus: "11 Comments"
 description: "I find myself returning so often to these words of Thomas Merton that I figured it would be worth dedicating a blog post to them: “There is a pervasive form of contemporary violence to which the idealist fighting for peace by non-violent methods most easily succumbs […]"
 author: "Tana Paddock"

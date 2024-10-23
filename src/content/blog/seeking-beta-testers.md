@@ -1,7 +1,7 @@
 ---
 title: "Seeking beta-testers"
 pubDate: "April 8, 2013"
-HeroImage: ""
+heroImage: "/IloveBeta.jpg"
 commentStatus: "No Comments"
 description: "Over the past several months, we’ve started to see our vision for a self-guided curriculum on expressive change come to life. A number of people have volunteered to beta-test the sessions we’ve developed so far, and the testimonials have been so encouraging that we’ve decided to expand our pool of beta-testers to […]"
 author: "Tana Paddock"

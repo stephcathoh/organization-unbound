@@ -1,7 +1,7 @@
 ---
 title: "Gestalt at the South African Treasury Department"
 pubDate: "2012-07-20"
-HeroImage: "/97InPraiseofDreamsAndMagic.jpg"
+heroImage: "/92South-African-Treasury.jpg"
 commentStatus: "No Comments"
 description: "I’m stumbling along, trying my best to remain in the single file line the path has forced us to form. We crest the hillside, overlooking a quiet river freckled with boulders and dragonflies. I overhear Jonathan and Kirsten chatting in front of me. They are introducing themselves, having only just met on this day hike organized through the Cape Town Hiking Group. I hear Kirsten say that she works for the National Treasury […]"
 author: "Tana Paddock"

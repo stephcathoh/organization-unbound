@@ -1,7 +1,7 @@
 ---
 title: "Unbinding"
 pubDate: "Januaru 26, 2011"
-HeroImage: ""
+heroImage: "/unbinding_thumb.jpg"
 commentStatus: "11 Comments"
 description: "I have to admit, my yearning for control often outweighs my yearning for a better world. My visions are large, but my daily interactions are laced with an urge to put things in nice orderly lines and boxes. My ‘shoulds’ outnumber my ‘what ifs?’ Literally. I use the word ‘should’ promiscuously (I had been doing […]"
 author: "Tana Paddock"

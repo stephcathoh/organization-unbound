@@ -1,7 +1,7 @@
 ---
 title: "Whole person, whole system"
 pubDate: "August 14, 2011"
-HeroImage: ""
+heroImage: "/Puzzle-face.jpg"
 commentStatus: "1 Comment"
 description: "What is less well understood is that treating each other as the patchwork, unruly human beings we are, rather than the zippered office functionaries we pretend to be, is also the only way we can really come to understand, let alone affect, the larger institutional patterns we are trying to change […]"
 author: "Warren Nilsson"

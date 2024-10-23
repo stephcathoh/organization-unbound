@@ -1,7 +1,7 @@
 ---
 title: "Ending the year on an exciting note"
 pubDate: "December 21, 2012"
-HeroImage: ""
+heroImage: "/98Endofyear2012.jpg"
 commentStatus: "4 Comments"
 description: "You might have noticed that we’ve been a little less talkative at Organization Unbound lately. It’s not because we’re scared speechless that the world is about to end, but because we’ve been hard at work on a new project: A self-guided curriculum to deepen and spread the practice of expressive change."
 author: "Tana Paddock"

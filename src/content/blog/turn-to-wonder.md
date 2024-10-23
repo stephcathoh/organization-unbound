@@ -1,7 +1,7 @@
 ---
 title: "Turn to wonder"
 pubDate: "January 16, 2011"
-HeroImage: ""
+heroImage: "/Wonder_thumb.jpg"
 commentStatus: "2 Comments"
 description: "Several years ago, when I was in the thick of major organizational shifts at COCo, I came home one evening in a fit of tears and with a back full of knots. I felt horrible about how things felt at work and frustrated that my attempts to move things to a better place seemed to […]"
 author: "Tana Paddock"

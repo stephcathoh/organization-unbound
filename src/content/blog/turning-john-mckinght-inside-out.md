@@ -1,7 +1,7 @@
 ---
 title: "Turning John McKnight inside out"
 pubDate: "October 25, 2011"
-HeroImage: ""
+heroImage: "/69JohnMcNight.jpg"
 commentStatus: "3 Comments"
 description: "In workshops and classrooms I frequently hear some form of the question: “But how do we deal with those people who just don’t get it?” The ‘it’ is usually undefined, but everyone in the room understands it to be some combination of justice, sustainability, compassion…Heads nod. How can we hope to move forward when so many people don’t see the world from this perspective, when so many people don’t seem to care about the things we care about?"
 author: "Tana Paddock"
