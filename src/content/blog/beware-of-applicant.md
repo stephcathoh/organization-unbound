@@ -1,7 +1,7 @@
 ---
 title: "Beware of applicant"
 pubDate: "September 1, 2010"
-HeroImage: ""
+heroImage: "/mailslot_thumb.jpg"
 commentStatus: "2 Comments"
 description: "The other day I was quite struck by a seemingly ordinary sentence at the end of a job posting that I received from Santropol Roulant. “We encourage applicants to drop their CVs off in person.” I was a bit taken aback, less by the statement itself than by my own reaction to it. It felt […]"
 author: "Warren Nilsson & Tana Paddock"

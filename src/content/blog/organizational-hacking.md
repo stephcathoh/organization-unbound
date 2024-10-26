@@ -1,7 +1,7 @@
 ---
 title: "Organizational hacking"
-pubDate: "2010-09-22"
-HeroImage: ""
+pubDate: "September 22,2010"
+heroImage: "/Foulabthumb.jpg"
 commentStatus: "1 Comment"
 description: "My friend Jim is a hacker. Not the kind of hacker who sits at a computer trying to break into highly classified computer systems – that’s a highly simplistic portrayal. No, he’s the kind of hacker who approaches many of the aspects in his life with a mindset that is critical, analytical and creative. And […]"
 author: "Alex Megelas"
@@ -14,7 +14,7 @@ tags:
   - "repurposing"
 ---
 
-[![](https://organizationunbound.org/wp-content/uploads/2010/09/FoulabFull-300x225.jpg "Photo by Sophie Ambrosi")](https://organizationunbound.org/wp-content/uploads/2010/09/FoulabFull.jpg)My friend Jim is a hacker. Not the kind of hacker who sits at a computer trying to break into highly classified computer systems - that's a highly simplistic portrayal. No, he's the kind of hacker who approaches many of the aspects in his life with a mindset that is critical, analytical and creative. And while the hacker manifesto will serve you well if you've got a bent for exploring off-limit networks on the internet, it's an approach you can bring into all sorts of other areas of the world - whether it be technology, your home life or presumably organizational culture.
+[![](/FoulabFull.jpg "Photo by Sophie Ambrosi")](https://organizationunbound.org/wp-content/uploads/2010/09/FoulabFull.jpg)My friend Jim is a hacker. Not the kind of hacker who sits at a computer trying to break into highly classified computer systems - that's a highly simplistic portrayal. No, he's the kind of hacker who approaches many of the aspects in his life with a mindset that is critical, analytical and creative. And while the hacker manifesto will serve you well if you've got a bent for exploring off-limit networks on the internet, it's an approach you can bring into all sorts of other areas of the world - whether it be technology, your home life or presumably organizational culture.
 
 Recently, I've started hanging out at [Foulab](http://foulab.org/en/wiki/Index_Page), the Montreal hacker space, where different Montreal hackers get together to learn from each other and collaborate on all sorts of technological projects - recently, folks were learning to use a 3-D etcher. A combination stereo-system-bicycle was being built. Workshops on playing with micro-controllers were being organized. One term that frequently comes up at the hacker space is repurposing.
 

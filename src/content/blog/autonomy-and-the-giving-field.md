@@ -1,7 +1,7 @@
 ---
 title: "In memory of Penny"
 pubDate: "August 5, 2010"
-HeroImage: ""
+heroImage: "/penny-parkes.jpg"
 commentStatus: "4 Comments"
 description: "Last Saturday, Tana and I went to the funeral of Penny Parkes. We had gotten to know Penny through our work with Santropol Roulant. She was a client, volunteer, and board member there and reflected the spirit of the place in a beautiful and charming way all her own. Penny struggled with a degenerative disease, […]"
 author: "Warren Nilsson"

@@ -1,7 +1,7 @@
 ---
 title: "A simple practice that caught our attention"
 pubDate: "December 10, 2010"
-HeroImage: ""
+heroImage: "/Cape-Town1.jpg"
 commentStatus: "9 Comments"
 description: "We are in Cape Town for a few weeks and just got back from a meeting with Nathan Heller at The Hub, a co-working space for social innovators. Although The Hub Cape Town only recently opened its doors, the model has been around for a while and there are over two dozen Hubs worldwide in […]"
 author: "Warren Nilsson"
