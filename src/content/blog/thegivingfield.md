@@ -1,7 +1,7 @@
 ---
 title: "The giving field"
 pubDate: "February 4, 2010"
-HeroImage: ""
+heroImage: "/2665404220_3234f3c54d2.jpg"
 commentStatus: "14 Comments"
 description: "“The smallest divisible human unit is two people, not one; one is a fiction. From such nets of souls societies, the social world, human life springs.” –Tony Kushner, Angels in America A few weeks ago, Rennie and I had the pleasure of convening a conversation about expressive change with a handful of folks in Montreal’s […]"
 author: "Warren Nilsson"
