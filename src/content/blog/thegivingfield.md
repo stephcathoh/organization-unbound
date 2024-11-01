@@ -22,7 +22,7 @@ tags:
 ---
 
 
-<img align="left" width="267" height="299" src="/2665404220_3234f3c54d2.jpg" id="left">
+<img class="left" width="267" height="299" src="/2665404220_3234f3c54d2.jpg" id="left">
 
 
 

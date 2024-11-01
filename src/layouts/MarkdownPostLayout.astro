@@ -8,10 +8,9 @@ import { getCollection } from "astro:content";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, pubDate, author, responsesNumber, authorPic, responses } =
+const { title, pubDate, author, responsesNumber, authorPic, responses,postComments } =
   Astro.props;
 
-const relatedComments = await getCollection("comments");
 
 const contributorLink = await getCollection(
   "contributors",
@@ -248,7 +247,7 @@ const contributorLink = await getCollection(
       <img src={authorPic} />
       <h3 class="author-panel">{author}</h3>
       <span class="author-deets"
-        >Click <a href="{contributors.map(contributor)=>{contributorUrl}}"
+        >Click <a href="{contributorUrl}}"
           >here</a
         > to learn more about me.</span
       >
@@ -258,20 +257,17 @@ const contributorLink = await getCollection(
     <h2 class="comment-panel">{responses}</h2>
 
     <div class="author-panel grid-container">
-      {
-        relatedComments.map((comment) => (
-          <>
-            <img src={comment.data.authorAvatar} class="comment" />
-            <p class="author-panel commenter">
-              <a href={comment.data.authorUrl}>{comment.data.commenterName}</a>
-              <span>{comment.data.date}</span>
-            </p>
-            <div class="comment-box">
-              <p>{comment.data.html}</p>
-            </div>
-          </>
-        ))
-      }
+    
+          
+    
+          </div>
+        
+      
+    
+
+          
+         
+      
     </div>
     <hr />
   </main>

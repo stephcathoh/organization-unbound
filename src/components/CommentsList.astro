@@ -5,7 +5,7 @@ import { getCollection } from "astro:content";
 
 
 
-  const relatedComments = await getCollection ("comments");
+  const relatedComments = await getCollection ("blog");
 
 ---
 <div>
@@ -17,7 +17,7 @@ import { getCollection } from "astro:content";
           
         <img src={comment.data.authorAvatar} class="comment" />
             <p class="author-panel commenter">
-              <a href={comment.data.authorUrl}>{comment.data.commenterName}</a>
+              <a href={comment.data.authorAvatarUrls}>{comment.data.commenterName}</a>
               <span>{comment.data.date}</span>
             </p>
             <div class="comment-box">
