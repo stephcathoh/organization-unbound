@@ -147,7 +147,7 @@ const page = await paginate(posts, Astro.url);
         <ul>
           {
             posts.map((post) => (
-              <>
+          
                 <li>
                   <div class="container">
                     <a href={`/blog/${post.slug}/`}>
@@ -178,7 +178,7 @@ const page = await paginate(posts, Astro.url);
                   <hr />
                 </li>
                
-              </>
+              
             ))
           }
         </ul>

@@ -1,7 +1,7 @@
 ---
 import {getCollection} from "astro:content";
 import BlogPost from "../../layouts/BlogPost.astro";
-import LinkPost from "../../components/LinkPost.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
 
 export async function getStaticPaths() {
 
@@ -25,10 +25,154 @@ const { tag } = Astro.params;
 const { posts } = Astro.props;
 ---
 
-<BlogPost title={`Posts tagged "${tag}"`} <ul>
-  {
-    posts.map((post) => (
-      <LinkPost url={`/blog/${post.slug}/`} title={post.data.title} />
-    ))
-  }
+<BlogPost title={`Posts tagged "${tag}"`}
+              
+<section>
+  <ul>
+    {
+      posts.map((post) => (
+    
+          <li>
+            <div class="container">
+              <a href={`/blog/${post.slug}/`}>
+                <figure>
+                  <img
+                    width={196}
+                    height={196}
+                    src={post.data.heroImage}
+                    alt=""
+                    aspect-ratio="1/1"
+                  />
+                </figure>
+                <div class="content">
+                  <h4 class="title">{post.data.title}</h4>
+                  <p class="date">
+                    <FormattedDate date={post.data.pubDate} />|
+                    <span>{post.data.categories} </span>|
+                    <span>{post.data.author}</span>|
+                    <span>{post.data.commentStatus}</span>
+                  </p>
+                  <p class="post-excerpt">{post.data.description}</p>
+                  <p class="read-more">
+                    <a href={`/blog/${post.slug}/`}>Read More </a>
+                  </p>
+                </div>
+              </a>
+            </div>
+            <hr />
+          </li>
+         
+        
+      ))
+    }
+  </ul>
+</section>
+  
 </BlogPost>
+
+<style>
+   ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        list-style-type: none;
+        margin-top: 1rem;
+        padding: 0 0.5rem;
+      }
+
+      ul li * {
+        text-decoration: none;
+        transition: 0.2s ease;
+      }
+
+      ul li img {
+        margin-bottom: 0.5rem;
+        /*border-radius: 12px;*/
+        padding: 0.25rem;
+        border: solid 1px #666;
+        float: left;
+        width: 196px;
+        height: 196px;
+        object-fit: cover;
+      }
+
+      figure {
+        margin: 0;
+      }
+
+      .content {
+        flex-grow: 1;
+        width: 540px;
+        margin-left: 0.5rem;
+      }
+
+      ul li a {
+        display: block;
+      }
+      .title {
+        margin: 0 0 1rem 0;
+        color: rgb(var(--black));
+        line-height: 1;
+        font-size: 1.5rem;
+        font-style: italic;
+        font-weight: 400;
+      }
+      .date {
+        margin: 0;
+        color: #666;
+        font-size: 0.75rem;
+      }
+      ul li a:hover h4,
+      ul li a:hover .date {
+        color: rgb(var(--accent));
+      }
+      ul a:hover img {
+        box-shadow: var(--box-shadow);
+      }
+      @media (max-width: 720px) {
+        ul {
+          gap: 0.5em;
+        }
+        ul li {
+          width: 100%;
+          text-align: center;
+        }
+        ul li:first-child {
+          margin-bottom: 0;
+        }
+        ul li:first-child .title {
+          font-size: 1.563em;
+        }
+      }
+      hr {
+        border-top: 1px solid gray;
+      }
+
+      .post-excerpt {
+        color: #222;
+        font-size: 0.85rem;
+      }
+
+      .read-more {
+        font-size: 14px;
+      }
+
+      p {
+        overflow: hidden;
+        line-height: 1.5;
+      }
+
+      span {
+        font-size: 0.72rem;
+      }
+
+      .container {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+    </style>
+
+
+
+     
