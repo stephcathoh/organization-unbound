@@ -8,7 +8,7 @@ import { getCollection } from "astro:content";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, pubDate, author, responsesNumber, authorPic, responses,postComments } =
+const { title, pubDate, author, authorUrl, responsesNumber, authorPic, responses, postComments } =
   Astro.props;
 
 
@@ -247,7 +247,7 @@ const contributorLink = await getCollection(
       <img src={authorPic} />
       <h3 class="author-panel">{author}</h3>
       <span class="author-deets"
-        >Click <a href="{contributorUrl}}"
+        >Click <a href="/{authorUrl}"
           >here</a
         > to learn more about me.</span
       >
