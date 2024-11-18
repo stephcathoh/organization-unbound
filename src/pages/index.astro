@@ -21,11 +21,11 @@ const page = await paginate(posts, Astro.url);
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       main {
-        max-width: 700px;
+        max-width: 667px;
         background-color: #ffffff;
         margin-left: 20%;
         margin-right:0;
-        padding: 3rem 2rem;
+        padding: 3rem 18px;
         background: #fff;
         height: 100%;
         overflow: none;
@@ -57,21 +57,22 @@ const page = await paginate(posts, Astro.url);
       ul li img {
         margin-bottom: 0.5rem;
         /*border-radius: 12px;*/
-        padding: 0.25rem;
+        padding: 0.5em;
         border: solid 1px #666;
         float: left;
         width: 196px;
-        height: 196px;
+        height: 184px;
         object-fit: cover;
       }
 
       figure {
-        margin: 0;
+        margin-right:32px;
+        margin-left:18px;
       }
 
       .content {
         flex-grow: 1;
-        width: 540px;
+        width: 445px;
         margin-left: 0.5rem;
       }
 
@@ -157,10 +158,10 @@ const page = await paginate(posts, Astro.url);
                       <figure>
                         <img
                           width={196}
-                          height={196}
+                          height={184}
                           src={post.data.heroImage}
                           alt=""
-                          aspect-ratio="1/1"
+                          aspect-ratio="0.94/1"
                         />
                       </figure>
                       <div class="content">
