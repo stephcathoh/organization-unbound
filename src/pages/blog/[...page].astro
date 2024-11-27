@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async ({paginate}) => {
+  const posts = (await getCollection('blog'))
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+  return paginate(posts, { pageSize: 10 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+
+const pageNums = Array.from({length: page.lastPage}, (_, i) => i + 1);
+---
+
+{page.data.map((post) => (
+  <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+))}
+
+{page.lastPage > 1 && (
+  <nav>
+    {page.url.prev && <a href={page.url.prev}>Previous Page</a>}
+    {pageNums.map((num) => (
+      <a href={`/blog/${num === 1 ? '' : num + '/'}`}>{num}</a>
+    ))}
+    {page.url.next && <a href={page.url.next}>Next Page</a>}
+  </nav>
+)}
