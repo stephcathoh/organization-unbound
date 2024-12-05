@@ -5,6 +5,8 @@ heroImage: "/Puzzle-face.jpg"
 commentStatus: "1 Comment"
 description: "What is less well understood is that treating each other as the patchwork, unruly human beings we are, rather than the zippered office functionaries we pretend to be, is also the only way we can really come to understand, let alone affect, the larger institutional patterns we are trying to change […]"
 author: "Warren Nilsson"
+authorPic: "/Warren-Nilsson-Bio.png"
+responsesNumber: "1 Comment"
 categories: 
   - "Expressive Change"
 tags: 

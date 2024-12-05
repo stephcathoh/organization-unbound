@@ -8,4 +8,8 @@ export default defineConfig({
 	site: 'https://organizationunbound.org',
 	integrations: [mdx(), sitemap()],
 	output: 'static',
+	legacy: {
+		collections: true
+	  }
 });
+

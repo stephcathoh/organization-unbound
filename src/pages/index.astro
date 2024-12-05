@@ -6,14 +6,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
 import Sidebar from "../components/Sidebar.astro";
-import { paginate } from "../styles/utils/pagination";
 import BlogPostNavPrevNext from "../components/BlogPostNavPrevNext.astro";
 
+  const posts = (await getCollection('blog'))
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const posts = (await getCollection("blog")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
-const page = await paginate(posts, Astro.url)
+  
 ---
 
 <!doctype html>
@@ -22,11 +20,11 @@ const page = await paginate(posts, Astro.url)
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       main {
-        max-width: 667px;
+        width: 900px;
         background-color: #ffffff;
-        margin-left: 20%;
+        margin-left: 22%;
         margin-right:0;
-        padding: 3rem 18px;
+        padding: 3rem 0;
         background: #fff;
         height: 100%;
         overflow: none;
@@ -68,13 +66,14 @@ const page = await paginate(posts, Astro.url)
 
       figure {
         margin-right:32px;
-        margin-left:18px;
+        margin-left:0.25em;
       }
 
       .content {
         flex-grow: 1;
-        width: 445px;
         margin-left: 0.5rem;
+        width:500px;
+        line-height:18px;
       }
 
       ul li a {
@@ -91,7 +90,7 @@ const page = await paginate(posts, Astro.url)
       .date {
         margin: 0;
         color: #666;
-        font-size: 0.75rem;
+        font-size: 0.65rem;
       }
       ul li a:hover h4,
       ul li a:hover .date {
@@ -134,13 +133,14 @@ const page = await paginate(posts, Astro.url)
       }
 
       span {
-        font-size: 0.72rem;
+        font-size: 0.65rem;
       }
 
       .container {
         display: flex;
         align-items: flex-start;
         gap: 0.75rem;
+        grid-template-columns: 200px 500px;
       }
     </style>
   </head>
@@ -150,8 +150,8 @@ const page = await paginate(posts, Astro.url)
     <main>
       <section>
         <ul>
-          {
-            posts.map((post) => (
+          {posts.map((post) => (
+         
           
                 <li>
                   <div class="container">
@@ -191,11 +191,10 @@ const page = await paginate(posts, Astro.url)
 
       <p style={{ color: "#ea181f", textDecoration: "underline" }}>
         
-      
-        <a href="{page.url.next}">Older Entries</a>
+        <BlogPostNavPrevNext />
+        
       </p>
     </main>
-    <BlogPostNavPrevNext />
     <Footer />
   </body>
 </html>

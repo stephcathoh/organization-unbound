@@ -8,6 +8,10 @@ const { title,heroImage } = Astro.props;
 ---
 
 <style>
+  .container{
+    min-height:0;
+    min-width:0;
+  }
   main {
     min-width: 667px;
     background-color: #ffffff;
@@ -16,6 +20,7 @@ const { title,heroImage } = Astro.props;
     padding: 1.5rem 0 1.5rem 1rem;
     background: #fff;
     height: 100%;
+   
   }
 
   .prose {
@@ -39,6 +44,13 @@ const { title,heroImage } = Astro.props;
     font-size: 3rem;
     text-transform: uppercase;
   }
+
+  h2#blog {
+    font-family: "Georgia";
+    font-weight:400;
+    font-style:italic;
+    font-size:2rem;
+  }
   .date {
     margin-bottom: 0.5em;
     color: rgb(var(--gray));
@@ -54,6 +66,10 @@ const { title,heroImage } = Astro.props;
   img [alt="archive file with hearts"] {
     float: right !important;
   }
+
+p {
+  overflow:hidden;
+}
 </style>
 
 <BaseLayout>

@@ -2,9 +2,10 @@
 title: "The heart of Einstein"
 pubDate: "September 8, 2013"
 heroImage: "/131TheHeartofEinsteinfull.jpg"
-commentStatus: "4 Comments"
+responsesNumber: "4 Comments"
 description: "When I recently came across Einstein’s explanation of his statement, I felt relieved and excited to discover that indeed he was instructing us to use more than our mind and ego-driven analysis to work through problems. Knowing this, I take it further to imagine that by ‘higher levels’ he meant higher levels of […]"
 author: "Veena Vasista"
+authorPic: "/VeenaVasista.jpg"
 categories: 
   - "Expressive Change"
 tags: 
@@ -16,7 +17,7 @@ tags:
   - "vulnerability"
 ---
 
-_The following piece was written by our newest contributor [Veena Vasista](https://organizationunbound.org/Veena-Vasista/), who spent 20 years doing human rights-based policy work in the UK before deciding to step out of that world to explore the process of social change more broadly. We chased her down earlier in the year after she posted an intriguing comment about a talk that Warren gave and have really enjoyed getting to know her and thinking together over the last few months._ 
+_The following piece was written by our newest contributor [Veena Vasista](/veena-vasista), who spent 20 years doing human rights-based policy work in the UK before deciding to step out of that world to explore the process of social change more broadly. We chased her down earlier in the year after she posted an intriguing comment about a talk that Warren gave and have really enjoyed getting to know her and thinking together over the last few months._ 
 
 ## . . .
 
@@ -28,7 +29,7 @@ __“…_the real problem is in the minds and hearts of men. We will not change 
 
  
 
-[![Photo from the archives at www.lbi.org](https://organizationunbound.org/wp-content/uploads/2013/09/131TheHeartofEinsteinfull-200x300.jpg)](http://www.lbi.org/2012/09/albert-einstein/#1)Albert Einstein is often quoted by people in pursuit of social innovation as demanding a change in thinking to get a change in outcomes.  Last year, I used a variation of the first quote in the think piece [_Our Direction is Our Destination_](http://www.compassonline.org.uk/wp-content/uploads/2013/06/Our-Direction-Thinkpiece-71.pdf)_._ I was drawn to this dictum in the context of sensing that in talking about a ‘new type of thinking’ Einstein was saying we need to awaken our hearts and minds if we want to create different, healthier ways of living together. When I recently came across Einstein’s explanation of his statement, I felt relieved and excited to discover that indeed he was instructing us to use more than our mind and ego-driven analysis to work through problems. Knowing this, I take it further to imagine that by ‘higher levels’ he meant higher levels _of consciousness_. Einstein was encouraging us to dive into our selves to question who and how we are being and what we are creating in this world.  This, to me, is a steer to not just _think_ through our problems; we have to _feel_ and _intuit_ through them as well.
+[![Photo from the archives at www.lbi.org](/131TheHeartofEinsteinfull.jpg)](http://www.lbi.org/2012/09/albert-einstein/#1)Albert Einstein is often quoted by people in pursuit of social innovation as demanding a change in thinking to get a change in outcomes.  Last year, I used a variation of the first quote in the think piece [_Our Direction is Our Destination_](http://www.compassonline.org.uk/wp-content/uploads/2013/06/Our-Direction-Thinkpiece-71.pdf)_._ I was drawn to this dictum in the context of sensing that in talking about a ‘new type of thinking’ Einstein was saying we need to awaken our hearts and minds if we want to create different, healthier ways of living together. When I recently came across Einstein’s explanation of his statement, I felt relieved and excited to discover that indeed he was instructing us to use more than our mind and ego-driven analysis to work through problems. Knowing this, I take it further to imagine that by ‘higher levels’ he meant higher levels _of consciousness_. Einstein was encouraging us to dive into our selves to question who and how we are being and what we are creating in this world.  This, to me, is a steer to not just _think_ through our problems; we have to _feel_ and _intuit_ through them as well.
 
 Whilst I was in British central government directing a Commission set up to make recommendations about tackling racial discrimination in the private sector, a colleague complained that I had spoken to her a couple of times in a way that left her feeling bullied. I was mortified; I was behaving in a way that totally contradicted the values I was claiming to be standing up for in my particular role. When I reflected on the exchanges I had with my colleague, I could see why she felt the way she felt – I spoke to her in a tone and manner that was aggressive and disrespectful.
 

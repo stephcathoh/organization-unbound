@@ -13,7 +13,7 @@ tags: ["accompanied-learning", "organizational-transformation", "relationship"]
 
 When we started Organization Unbound, people often mistook us for a consulting firm, an understandable assumption given how common it is for organizations to rely on consultants to lead processes of internal change.
 
-However, we felt strongly (and still do) that the traditional consultancy model would be a barrier to cultivating a rich and expansive field of learning around [expressive change](https://organizationunbound.org/about-2/).
+However, we felt strongly (and still do) that the traditional consultancy model would be a barrier to cultivating a rich and expansive field of learning around [expressive change](/about-2/).
 
 We wanted to learn _with_ organizations, not just provide support _to_ them. We wanted to dwell in a space of inquiry and experimentation. And we wanted to anchor our learning in accompaniment and friendship rather than ‘expertise’ and  ‘professionalism’.
 
