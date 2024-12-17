@@ -4,7 +4,9 @@ pubDate: "October 3, 2017"
 heroImage: "/166Idealists-Survival-Kit-2Thumb-e1506609561212.jpg"
 commentStatus: "No Comments"
 description: "We hope you enjoy this conversation with Alessandra Pigni, author of “The Idealist’s Survival Kit. 75 Simple Ways to Avoid Burnout”, a light and inviting exposé on what is causing the high rate of burnout in the field of humanitarian aid and activism and ways of addressing it: “I no longer believe that meditation and self-care are enough. It can certainly be a starting point. It was for me. But we can’t stop there."
-author: "Organization Unbound"
+author: "Alessandra Pigni"
+authorPic: "/Alessandra-Pigni-1.jpg"
+responsesNumber: "No Comments"
 categories: 
   - "Expressive Change"
 tags: 
@@ -17,7 +19,7 @@ tags:
 
 .
 
-*We hope you enjoy this conversation with* [_Alessandra Pigni_](https://organizationunbound.org/alessandra-pigni/)_, author of_ [_The Idealist’s Survival Kit. 75 Simple Ways to Avoid Burnout_](https://www.amazon.com/Idealists-Survival-Kit-Prevent-Burnout/dp/1941529348)_, a light and inviting exposé on what is causing the high rate of burnout in the field of humanitarian aid and activism and ways of addressing it. Although focused on the experiences of aid workers, her book’s reflections and call for action have resonated with people working in a wide range of social change spaces. Alessandra jokes that every organization should have a copy of her book in their bathroom - a brilliant way to get people within the same organization reading and reflecting together._
+*We hope you enjoy this conversation with* [_Alessandra Pigni_](/alessandra-pigni/)_, author of_ [_The Idealist’s Survival Kit. 75 Simple Ways to Avoid Burnout_](https://www.amazon.com/Idealists-Survival-Kit-Prevent-Burnout/dp/1941529348)_, a light and inviting exposé on what is causing the high rate of burnout in the field of humanitarian aid and activism and ways of addressing it. Although focused on the experiences of aid workers, her book’s reflections and call for action have resonated with people working in a wide range of social change spaces. Alessandra jokes that every organization should have a copy of her book in their bathroom - a brilliant way to get people within the same organization reading and reflecting together._
 
 (Alessandra passed away from cancer at the end of 2018. In her memory, we re-published our interview with her [here](https://organizationunbound.org/expressive-change/in-memory-of-alessandra/), accompanied by an unpublished segment, with her family’s permission, in which she shares how being a cancer patient influenced how she wrote her book.)
 
@@ -25,9 +27,9 @@ tags:
 
 ## . . .
 
-.
+<Image src="/166Idealists-Survival-Kit-3_Full.jpg" alt="Idealists Survival Kit" id="left">
 
-![](https://organizationunbound.org/wp-content/uploads/2017/09/166Idealists-Survival-Kit-3_Full.jpg)TANA: Thank you for joining me, Alessandra. After pouring over your book during my long minibus commutes around Cape Town, I’m sitting with lots of questions and reflections for us to explore. For starters, I’m curious to know what inspired you to write a book on burnout in the humanitarian aid sector?
+TANA: Thank you for joining me, Alessandra. After pouring over your book during my long minibus commutes around Cape Town, I’m sitting with lots of questions and reflections for us to explore. For starters, I’m curious to know what inspired you to write a book on burnout in the humanitarian aid sector?
 
 ALESSANDRA: The inspiration came from my own experience as an aid worker. I first worked with [Doctors Without Borders](https://www.msf.org.za/) in Palestine where I was lucky to have strong supervision and a space for reflection. It was a privilege actually because in that job, as a psychologist dealing with an intense caseload, I was entitled to the support. But during my second stint, when I worked in China, that option wasn’t there any more. That’s when I realized how important this kind of organizational support and care was. I remember the coordinator of the project saying that all aid workers need it; it doesn’t matter if you are a psychologist, field coordinator, or senior manager.
 

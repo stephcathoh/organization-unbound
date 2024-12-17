@@ -2,7 +2,8 @@
 title: "Pioneering a university degree for organizations"
 pubDate: "June 6, 2017"
 heroImage: "/Slide12-1-e1496661618465.jpg"
-commentStatus: "2 Comments"
+authorUrl: "/james-taylor"
+responsesNumber: "2 Comments"
 description: "Seeking collaborators! We envision creating an entirely new genre of university course, one that recognizes organisations as organisms that learn and as vital sources of innovation. The course will support organisations in making their learning more conscious, systematic and informed and help them draw on the crisis of sustainability present in human and ecological systems as a creative source."
 author: "James Taylor"
 categories: 
@@ -12,13 +13,13 @@ tags:
   - "education"
 ---
 
-_This post, written by our newest contributor [James Taylor](https://organizationunbound.org/james-taylor/) of the [Community Development Resource Centre (CDRA)](http://www.cdra.org.za/), is more an invitation to action than a reflection-  an invitation to experiment with the way we learn and teach about social transformation in universities._ 
+_This post, written by our newest contributor [James Taylor](/james-taylor/) of the [Community Development Resource Centre (CDRA)](http://www.cdra.org.za/), is more an invitation to action than a reflection-  an invitation to experiment with the way we learn and teach about social transformation in universities._ 
 
 ## . . .
 
 .
-
-![](https://organizationunbound.org/wp-content/uploads/2017/06/Slide12.jpg)_“We cannot wait until we agree upon the truths of a new social theory to think and act as democratic experimentalists. We must find the ideas our efforts and commitments require...”  -_Roberto Unger
+<img src="/Slide12.jpg" alt="illustration large black graduation cap on house" width="242" height="242" id="left">
+“We cannot wait until we agree upon the truths of a new social theory to think and act as democratic experimentalists. We must find the ideas our efforts and commitments require...”  -_Roberto Unger
 
 Transformation is not about putting new people into old forms of organisation that use power in ways that extract, concentrate, enrich, impoverish, and exclude. Transformation, in the organisational sense, is about creative people with different ways of thinking and relating, creating between them new social forms shaped by the challenges and opportunities of their time.
 

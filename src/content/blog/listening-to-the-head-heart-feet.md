@@ -2,7 +2,7 @@
 title: "Listening to the head, heart & feet"
 pubDate: "July 25,2017"
 heroImage: "/165HeadHeartFeet.png"
-commentStatus: "1 Comment"
+responsesNumber: "1 Comment"
 description: "For inscaping to be a robust organizational practice, we need to refine our listening skills so that we learn to listen at an experiential level. Listening with the ‘head, heart and feet as described by the Barefoot Guide Connection is a very helpful tool to practice this. It helps us to listen ‘between the lines’ and ‘beneath the main text’, to hear not just what people are saying, but what they are trying to say or […]."
 author: "Warren Nilsson"
 categories: 
@@ -18,7 +18,9 @@ More and more people in social purpose organizations are realizing that how we e
 
 We call the practice of surfacing the inner experiences of organizational members during the normal course of everyday work '[inscaping'](https://drive.google.com/file/d/0B9n6TOVC3gefdDdSNS0xd3BEYjA/view). If we want the social purpose of our organizations to come to life as a _lived experience_ (i.e. _being_ the change), we need to practice being in more direct contact with our own lived experience as we go about our work. Too often we let roles, plans, processes, and organizational structures cut us off from our organization’s purpose. We end up relating to it as an abstract concept rather than as a lived experience that grows through our work and work relationships.
 
-![](https://organizationunbound.org/wp-content/uploads/2017/07/Barefoot_Guide_to_Organisations_Chapter_2_page8_image1.jpg)For inscaping to be a robust organizational practice, we need to refine our listening skills so that we learn to listen at an experiential level. Listening with the ‘head, heart and feet as described by the [Barefoot Guide Connection](http://www.barefootguide.org) is a very helpful tool to practice this. It helps us to listen ‘between the lines’ and ‘beneath the main text’, to hear not just what people are saying, but what they are trying to say or what they are feeling. This is called deep listening.
+<Image src="/Barefoot_Guide_to_Organisations_Chapter_2_page8_image1.jpg" alt="Barefoot Guide to Organisations illustration standing woman encircled by a heart" width="25%" height="600" id="left" />
+
+For inscaping to be a robust organizational practice, we need to refine our listening skills so that we learn to listen at an experiential level. Listening with the ‘head, heart and feet as described by the [Barefoot Guide Connection](http://www.barefootguide.org) is a very helpful tool to practice this. It helps us to listen ‘between the lines’ and ‘beneath the main text’, to hear not just what people are saying, but what they are trying to say or what they are feeling. This is called deep listening.
 
 Deep listening speaks to the fact that we are three-fold human beings: _thinking_ (we think about the things we perceive in order to understand them), _feeling_ (we experience the world through our emotions), and _willing_ (our needs and desires motivate us to act). More often than not, what we think, what we feel and what we want are not the same. Sometimes they can be even opposed. Therefore the challenge is to pay attention to not only logic and common sense, but also the messages delivered by emotions and by the will.
 

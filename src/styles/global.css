@@ -121,11 +121,13 @@ img {
 img#left{
 	float:left;
 	padding-right:1rem;
+	padding-top:10px;
 
 }
 img#right {
 	float:right;
 	padding-left:1rem;
+	padding-top:10px;
 }
 
 code {

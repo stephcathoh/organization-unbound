@@ -12,8 +12,8 @@ tags:
   - "relationship"
   - "unbinding"
 ---
-
-![](https://organizationunbound.org/wp-content/uploads/2018/11/168Liberatingstructures2.jpg)Earlier this year we were contacted by Keith McCandless, co-developer of [Liberating Structures](http://www.liberatingstructures.com/home/). He was interested in exploring the synergies between Liberating Structures and the work of Organization Unbound. After some initial conversations, I became intrigued, and I am excited to share the start of our inquiry here.
+<img src="/168Liberatingstructures2.jpg" alt="liberating structuresz" width="236" height="255" id="left">
+Earlier this year we were contacted by Keith McCandless, co-developer of [Liberating Structures](http://www.liberatingstructures.com/home/). He was interested in exploring the synergies between Liberating Structures and the work of Organization Unbound. After some initial conversations, I became intrigued, and I am excited to share the start of our inquiry here.
 
 Keith describes Liberating Structures (LS) by defining the two words:
 
@@ -50,7 +50,7 @@ Reaching out to clients/users: [Purpose To Practice](http://www.liberatingstruc
 _Click on the image below to visit the other 20 Liberating Structures. And if you happen to be in Europe, check out the [7-city workshop tour](https://liberatingstructures.eu/#) that's currently underway!_
 
 .
-
+<href="http://www.liberatingstructures.com/ls-menu/"><img src="/1_NWjcCIW0QkcsjfEtcMNfUw.png" alt="" height="" width=""></a>
 [![](https://organizationunbound.org/wp-content/uploads/2018/11/1_NWjcCIW0QkcsjfEtcMNfUw.png)](http://www.liberatingstructures.com/ls-menu/)
 
  

@@ -2,9 +2,10 @@
 title: "Cleaning myself, cleaning the world"
 pubDate: "May 29,2015"
 heroImage: "/152BCleaning_Myself_Cleaning_the_World.jpg"
-commentStatus: "8 Comments"
+responsesNumber: "8 Comments"
 description: "Oh and of course as part of the job you will also have to clean homes and offices too”, Tolu said, his twinkling eyes examining me. Mhm. Interesting. We were sitting in his office after my job interview to do the communications and marketing at Zenith Cleaners, which had turned into a 2-hour long conversation."
 author: "Linda Sarvi"
+authorUrl: "/linda-sarvi"
 categories: 
   - "Expressive Change"
 tags: 
@@ -19,9 +20,7 @@ tags:
 
 _Meet our newest contributor [Linda Sarvi](/linda-sarvi/), who reflects on her unique experience as a marketing and communications staff member of Zenith Cleaners- a social enterprise in Montreal, Canada that [is doing an experiential dive into its purpose in a way that few businesses do](/blog/i-am-a-cleaner/)._ 
 
-.
-
-[![](https://organizationunbound.org/wp-content/uploads/2015/05/6301944210_3003876b4a_o-1-300x239.jpg "Photo by Jurek Durczak at Flickr.com")](https://www.flickr.com/photos/jurek_durczak/6301944210/in/photolist-aAT7sw-c3dwWu-dWyBhC-oC9xCQ-52wNy2-66mzDJ-T3FJE-71CrR3-6S1P4E-6hRy58-iVPNGc-7YyP6U-qGg3Vq-doM9wh-s1NxUP-7PeC64-qNJn4U-6jgvKj-jkQQkr-9DhBKx-pdGsaU-aoakdV-sq4EVE-7YyMus-rqwVnn-mbhEgn-o64eEb-ai5dvN-o3nn3u-6yykB5-kYZEGT-jwQYz7-aod3Ym-52YmYc-bgbZCV-7NjV38-8bBJZF-4dMEn5-5xSX36-qRt6Eg-aoafkB-jN4NL-8v8MoA-bVC6eY-hM1p1z-rRKySQ-arnq8s-2DKYUq-8Ji3TM-8cYU9A)
+<a href="https://www.flickr.com/photos/jurek_durczak/6301944210/in/photolist-aAT7sw-c3dwWu-dWyBhC-oC9xCQ-52wNy2-66mzDJ-T3FJE-71CrR3-6S1P4E-6hRy58-iVPNGc-7YyP6U-qGg3Vq-doM9wh-s1NxUP-7PeC64-qNJn4U-6jgvKj-jkQQkr-9DhBKx-pdGsaU-aoakdV-sq4EVE-7YyMus-rqwVnn-mbhEgn-o64eEb-ai5dvN-o3nn3u-6yykB5-kYZEGT-jwQYz7-aod3Ym-52YmYc-bgbZCV-7NjV38-8bBJZF-4dMEn5-5xSX36-qRt6Eg-aoafkB-jN4NL-8v8MoA-bVC6eY-hM1p1z-rRKySQ-arnq8s-2DKYUq-8Ji3TM-8cYU9A"><img src="/6301944210_3003876b4a_o-1.jpg" alt="Photo by Jurek Durczak at Flickr.com" width="300" height="239" id="left"></a>
 
 “Oh and of course as part of the job you will also have to clean homes and offices too”, Tolu said, his twinkling eyes examining me.
 
@@ -41,7 +40,8 @@ I think the biggest part of being a cleaner is what you learn from being invisib
 
 These days each time I see another cleaner or janitor in passing in the subway vacuuming floors, through an office window late at night on my way home, or in a food court clearing tables next to me, I feel a funny jolt of silent excitement, the kind you feel when you come across another kindred being. I can’t help but smile to myself at our parallels because I remember how much I must’ve overlooked them in the past (and oddly enough, I also start eyeing their mopping game.)
 
-[![](/152Cleaning_Myself_Cleaning_The_World-THUMB.jpg "Photo by Kate Ter Haar at Flickr.com")](http://www.flickr.com/photos/8489692@N03/5523618997)Some days Playing Cleaner feels like someone is playing with my ego like its Silly Putty. Unlike in school or the corporate world where we’re always extrinsically motivated in the form of grades, prestige, or promotions, in cleaning no one is there to give my indignant nine year old self a shiny sticker or sometimes even a thank you for my hard, sweaty, and at times grimy work. Instead its all about the kind of energy I bring to the task at hand, which applies to everything in life I guess.
+<a href="http://www.flickr.com/photos/8489692@N03/5523618997"><img src="/152Cleaning_Myself_Cleaning_The_World-THUMB.jpg " alt="Photo by Kate Ter Haar at Flickr.com" width="235" height="235" id="right"></a>
+Some days Playing Cleaner feels like someone is playing with my ego like its Silly Putty. Unlike in school or the corporate world where we’re always extrinsically motivated in the form of grades, prestige, or promotions, in cleaning no one is there to give my indignant nine year old self a shiny sticker or sometimes even a thank you for my hard, sweaty, and at times grimy work. Instead its all about the kind of energy I bring to the task at hand, which applies to everything in life I guess.
 
 And when it comes to cleaning homes sometimes it feels like the imperfections in my work are always pointed out, which can get under my skin. I used to clean a home which was…quite challenging. It looked like an obstacle course with all stuff they had lying around. One day after about six hours, three storeys, two dogs to vacuum around and several dirty diapers later disposed, I thought I had done a splendid job…Only to have the woman point out a small dirt mark on the kitchen floor which was arguably the size of her manicured pinky fingernail. Alas, The Art of Paying Attention to Detail strikes again. While I could puff out my chest about her noticing that out of all the things I did do, I realized I could just take it as feedback and fuel to be more present next time -even if my ego at the time wanted to tell her to clean her own damn house.
 

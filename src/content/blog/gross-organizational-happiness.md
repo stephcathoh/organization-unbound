@@ -6,7 +6,7 @@ commentStatus: "No Comments"
 description: "Over the past several years, there has been a great deal of international focus on the notion of happiness. While there are many definitions of happiness, here is a composite of my favorites: “emotions experienced when in a state of well-being that range from contentment to intense joy.” This is not a new notion. Thinkers from Aristotle to Alice Walker to the Dalai Lama have written much about […]"
 author: "Akaya Windwood"
 authorPic: "/akaya-windwood"
-responsesNumber: "No"
+responsesNumber: "No Comments"
 categories: 
   - "Expressive Change"
 tags: 
@@ -14,15 +14,15 @@ tags:
   - "revolutionary-movements"
 ---
 
-_Our newest contributor is [Akaya Windwood](https://organizationunbound.org/akaya-windwood/) from the Rockwood Leadership Institute, an initiative based in Oakland California that offers training in leadership and collaboration for social change.  We've been following her monthly reflections in Rockwood's newsletter with much admiration.  She wrote the following piece for the Institute's [October 2012 newsletter](http://www.rockwoodleadership.org/downloads/1210_newsletter_full.html)._   
-
- 
+_Our newest contributor is [Akaya Windwood](/akaya-windwood/) from the Rockwood Leadership Institute, an initiative based in Oakland California that offers training in leadership and collaboration for social change.  We've been following her monthly reflections in Rockwood's newsletter with much admiration.  She wrote the following piece for the Institute's [October 2012 newsletter](http://www.rockwoodleadership.org/downloads/1210_newsletter_full.html)._   
 
 Over the past several years, there has been a great deal of international focus on the notion of [happiness.](https://www.google.com/search?q=gross%20national%20happiness&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&source=hp&channel=np) While there are many definitions of happiness, here is a composite of my favorites: "emotions experienced when in a state of well-being that range from contentment to intense joy."
 
 This is not a new notion. Thinkers from Aristotle to Alice Walker to the Dalai Lama have written much about it, what it is and isn't, and how we humans might increase our everyday access to it. The pursuit of it is written into the Declaration of Independence as an unalienable right (although you'll notice it is the right to pursue happiness, not to actually have it).
 
-[![](https://organizationunbound.org/wp-content/uploads/2012/10/96GrossOrgHappiness.jpg "Photo by gadl at Flickr.com")](http://www.flickr.com/photos/gadl/268729905/sizes/n/in/set-72157594316295785/)In 2010, Bhutan took pride in its designation as the country with the highest Gross National Happiness, based on a number of metrics. If we can measure such things, how might we measure happiness within an organizational context?
+<a href="http://www.flickr.com/photos/gadl/268729905/sizes/n/in/set-72157594316295785/"></a><img src="/96GrossOrgHappiness.jpg" height="" width="" alt="Photo by gadl at Flickr.com" id="left"></a>
+
+In 2010, Bhutan took pride in its designation as the country with the highest Gross National Happiness, based on a number of metrics. If we can measure such things, how might we measure happiness within an organizational context?
 
 I believe that one of the key responsibilities of an effective leader is to foster an environment centered in collective well-being, and to create the conditions under which happiness will thrive. What if we as leaders were to hold ourselves accountable to Gross Organizational Happiness?
 
