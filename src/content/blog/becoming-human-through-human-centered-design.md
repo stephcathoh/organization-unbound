@@ -2,7 +2,7 @@
 title: "Becoming human through human-centered design"
 pubDate: "March 9, 2015"
 heroImage: "/151BecomingHumanDesign.jpg"
-commentStatus: "2 Comments"
+responsesNumber: "2 Comments"
 description: "After years of practice, a pivotal moment came when I realized human-centered design could actually be an expression of our humanity. To drive true innovation, I could blur the line between designer and user and create the space for us all to advance our human potential. This happened during my Executive on Loan assignment to the National Underground Railroad Freedom Center."
 author: "Rachel Griner"
 
@@ -17,8 +17,9 @@ tags:
   - "the-giving-field"
   - "vulnerability"
 ---
+<a href="http://cincinnatiusa.com/article/9-spots-stop-and-reflect-one-kind-freedom-center"><Image src="/151BecomingHumanDesign.jpg" alt="Photo by Ronny Salerno of Queen City Disco(very)" width="358" height="239" id="left"></a>
 
-[![151BecomingHumanDesign](https://organizationunbound.org/wp-content/uploads/2015/03/151BecomingHumanDesign.jpg "Photo by Ronny Salerno of Queen City Disco(very)")](http://cincinnatiusa.com/article/9-spots-stop-and-reflect-one-kind-freedom-center)Early in my Design Thinking journey, I realized human-centered design could apply not only to users but also to us as the designers. Empathy can lead to better products and better work environments.
+Early in my Design Thinking journey, I realized human-centered design could apply not only to users but also to us as the designers. Empathy can lead to better products and better work environments.
 
 I carefully crafted innovation processes to gain inspiration from those we served and account for how the team experienced the work.
 

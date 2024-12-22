@@ -2,7 +2,7 @@
 title: "SWOT hack"
 pubDate: "November 17, 2014"
 heroImage: "/SWOTHack3.jpg"
-commentStatus: "1 Comment"
+responsesNumber: "1 Comment"
 description: "The following reflection was written by Rachel Griner, a new contributor to Organization Unbound, based in Dubai, who is keen to help businesses engage more deeply and authentically with social purpose and hone their capacity for social innovation. We’re excited to learn from her experiments."
 author: "Rachel Griner"
 categories: 
@@ -14,7 +14,7 @@ tags:
   - "vulnerability"
 ---
 
-_The following reflection was written by [Rachel Griner](https://organizationunbound.org/rachel-griner/), a new contributor to Organization Unbound, based in Dubai, who is keen to help businesses engage more deeply and authentically with social purpose and hone their capacity for social innovation. We're excited to learn from her experiments._
+_The following reflection was written by [Rachel Griner](/rachel-griner/), a new contributor to Organization Unbound, based in Dubai, who is keen to help businesses engage more deeply and authentically with social purpose and hone their capacity for social innovation. We're excited to learn from her experiments._
 
 ## . . .
 
@@ -24,7 +24,9 @@ In the Stanford Social Innovation Review article [Social Innovation From the Ins
 
 Inscaping is a flip on landscaping – instead of assessing the market, it’s about deeply understanding the individuals inside the organization.  The authors offer up a hack on SWOT that can be used to incorporate inscaping with strategy development.
 
-[![SWOT-Inscaping2](/SWOT-Inscaping2.jpg)](SWOT-Inscaping2.jpg)I love a good hack, so I decided to try it with my [United Way Ascend Network project](http://inspiredstrategy.blogspot.com/2014/04/joining-ascend-network.html).  I’ve been using the framework to understand how the team's individual experiences of the work shape the innovation process.  Here’s what I’ve learned so far:
+<Image src="/SWOT-Inscaping2.jpg" alt="SWOT Inscaping diagram" width="385" height="187" id="left">
+
+I love a good hack, so I decided to try it with my [United Way Ascend Network project](http://inspiredstrategy.blogspot.com/2014/04/joining-ascend-network.html).  I’ve been using the framework to understand how the team's individual experiences of the work shape the innovation process.  Here’s what I’ve learned so far:
 
 **What Are You Passionate About?** Passion is the root of alignment.  As the team moves forward, passion and commitment should build.  Progress can only be made if individuals are willing to take the action necessary to bring ideas to fruition.  If people aren’t passionate – beware! – it means they don’t have a stake in the outcome.
 
@@ -34,7 +36,9 @@ Inscaping is a flip on landscaping – instead of assessing the market, it’s a
 
 **What Are Your Fears?** Innovation is scary – the unknown, the vulnerability of learning, the fear of failing.  The team needs to create a safe environment, and individuals need to face their fears.  Managed properly, fears become opportunities to learn.  Not managed properly, they fester into bias, apathy or resignation.
 
-[![Inscaping-SWOT](/Inscaping-SWOT.jpg)](https://organizationunbound.org/wp-content/uploads/2014/11/Inscaping-SWOT.jpg)Inscaping may sound like something best done at a cushy management retreat right after group yoga. Do we really need to explore ourselves to get the work done? After years of doing strategy and innovation, I can honestly say - yes!
+<Image src="/Inscaping-SWOT.jpg" alt="Incscaping SWOT written exercise illustration" width="346" height="250" id="right">
+
+Inscaping may sound like something best done at a cushy management retreat right after group yoga. Do we really need to explore ourselves to get the work done? After years of doing strategy and innovation, I can honestly say - yes!
 
 Often, it’s not the external pressure that stymies innovation but the internal burden.
 

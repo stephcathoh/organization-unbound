@@ -2,7 +2,7 @@
 title: "Becoming a festival"
 pubDate: "February 9, 2015"
 heroImage: "/149Becoming-a-festival.jpg"
-commentStatus: "1 Comment"
+responsesNumber: "1 Comment"
 description: "In a letter to her fellow organizers, Katherine Therese Whaling offers a heartfelt reflection on her experience organizing last year’s Muizenberg Festival, a week-long celebration of community-led development in the seaside town of Muizenberg, South Africa. We were struck by how beautifully her reflection illuminates what it means to live an event as a process rather than simply plan it as an outcome."
 author: "Katherine Therese Whaling"
 categories: 
@@ -19,15 +19,11 @@ tags:
   - "unbinding"
 ---
 
-_It's a pleasure to introduce you to our newest contributor [Katherine Therese Whaling](https://organizationunbound.org/katherine-therese-whaling/). In a letter to her fellow organizers, she offers a heartfelt reflection on her experience organizing last year's [Muizenberg Festival](http://www.muizenbergfestival.co.za/), a week-long celebration of community-led development in the seaside town of Muizenberg, South Africa. We were struck by how beautifully her reflection illuminates what it means to live an event as a process rather than simply plan it as an outcome. We were happy that she accepted our invitation to print it as a blog post._
+_It's a pleasure to introduce you to our newest contributor [Katherine Therese Whaling](/katherine-therese-whaling/). In a letter to her fellow organizers, she offers a heartfelt reflection on her experience organizing last year's [Muizenberg Festival](http://www.muizenbergfestival.co.za/), a week-long celebration of community-led development in the seaside town of Muizenberg, South Africa. We were struck by how beautifully her reflection illuminates what it means to live an event as a process rather than simply plan it as an outcome. We were happy that she accepted our invitation to print it as a blog post._
 
 ## . . .
 
- 
-
-[![](https://organizationunbound.org/wp-content/uploads/2015/02/Slide1Cut-e1423218428890.jpg "Photo from http://www.muizenbergfestival.co.za/")](http://www.muizenbergfestival.co.za/)
-
- 
+<a href="http://www.muizenbergfestival.co.za/"><Image src="/Slide1Cut-e1423218428890.jpg" alt="Photo from http://www.muizenbergfestival.co.za/" width="600" height="225"> </a>
 
 I would like, for a moment, to implore us to acknowledge what for me is a very important aspect of the festival process, the microcosmic workings of our greater vision.
 
