@@ -2,7 +2,7 @@
 title: "Stuck in an old story"
 pubDate: "2014-10-21"
 heroImage: "/144StuckInAnOldStory.jpg"
-commentStatus: "1 Comment"
+responsesNumber: "1 Comment"
 description: “Help stop them before they destroy earth. Become an AlienBuster!”… “It is time to reclaim our country! We need the public to join us in our fight to rid the planet of these deadly invaders!” This call to arms was envisaged – perhaps surprisingly – from an ecological, green, ‘natural’ systems context as a creative intervention in the South African government’s management of environmental issues."
 author: "Tania Katzschner"
 deets: "Click here to learn more about me"
@@ -14,13 +14,12 @@ tags:
   - "south-africa"
 ---
 
-_As previously highlighted [in this post](https://organizationunbound.org/expressive-change/expressive-campaigning/) on the work of Common Cause, there are a growing number of environmental organizations turning to conventional marketing methods in order to persuade the masses to adopt more eco-friendly behaviours. In the essay below our newest contributor [Tania Katzschner](/tania-katzschner/), a socio-ecologist based in Cape Town, explores a South African campaign that contained gestures of this kind._
+_As previously highlighted [in this post](/blog/expressive-campaigning/) on the work of Common Cause, there are a growing number of environmental organizations turning to conventional marketing methods in order to persuade the masses to adopt more eco-friendly behaviours. In the essay below our newest contributor [Tania Katzschner](/tania-katzschner/), a socio-ecologist based in Cape Town, explores a South African campaign that contained gestures of this kind._
 
 ## . . .
 
+<a href="https://www.flickr.com/photos/x-ray_delta_one/12299785824/"><Image src="/144StuckInAnOldStory.jpg" alt="Photo by James Vaughan at Flickr.com" width="251" height="300" id="left"></a>
 
-
-[![Photo by James Vaughan at Flickr.com](/144StuckInAnOldStory.jpg "Photo by James Vaughan at Flickr.com")](https://www.flickr.com/photos/x-ray_delta_one/12299785824/)
 
 **“_Help stop them before they destroy earth. Become an AlienBuster!_”** (DWAF, 2000:7).
 
@@ -90,7 +89,7 @@ Altering our perceptions about ‘invasive species’ and seeing them instead as
 
 I believe that cultivating an attitude of attentive love towards the green spaces in and around our communities is also essential. By encouraging the public to engage with them in ways that actively bring joy, we can create a happier, more cohesive future and celebration of place. We need approaches that connect to many sensibilities- head and heart, perception, intuition, feeling, imagination. People don’t change their beliefs and behaviours based on evidence; they are impervious to evidence. They change through lived experience. We need to actively celebrate our green spaces so that we fall more deeply in love with them. Only then will we create incredible coalitions to defend them.
 
-I will end with a quote from Allan Kaplan and Sue Davidoff who explore a practice which they call [‘a Delicate Activism’](https://organizationunbound.org/expressive-change/sneak-preview-of-a-delicate-activism/), a path that demands a thorough reappraisal of the role we actually play in social and ecological change. A delicate activism is truly radical in that it is aware of itself and understands that its way of seeing is the change it wants to see (Kaplan and Davidoff, 2014):
+I will end with a quote from Allan Kaplan and Sue Davidoff who explore a practice which they call [‘a Delicate Activism’](/blog/sneak-preview-of-a-delicate-activism/), a path that demands a thorough reappraisal of the role we actually play in social and ecological change. A delicate activism is truly radical in that it is aware of itself and understands that its way of seeing is the change it wants to see (Kaplan and Davidoff, 2014):
 
 _“Really paying attention means paying attention to the whole. It means always looking for the larger integrity within which the parts find their meaning. It means seeing simultaneity rather than cause and effect. Paying attention to the whole means looking for meaning, it means finding the interconnectedness, the relationships, the necessities of becoming, the dynamics of belonging and separation, that lie between things, as the activity, the flow that unites them.”_
 

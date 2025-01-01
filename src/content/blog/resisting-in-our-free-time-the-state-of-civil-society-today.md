@@ -2,7 +2,7 @@
 title: "Resisting in our free time: The state of civil society today"
 pubDate: "May 23,2016"
 heroImage: "/160Lucha.png"
-commentStatus: "No Comments"
+responsesNumber: "No Comments"
 description: "What happens when you get 900 civil society groups in the same room at over 8,500 feet above sea level? Excitement is guaranteed you’d think, along with a bit of oxygen deprivation and a whole lot of partying. That’s what lured me to Bogotá late last month for International Civil Society Week—the annual conference of an NGO called CIVICUS, the ‘World Alliance for Citizen Participation.’"
 author: "Gioel Gioacchino"
 categories: 
@@ -16,13 +16,14 @@ tags:
   - "youth"
 ---
 
-_Meet our newest contributor [Gioel Gioacchino](https://organizationunbound.org/gioel-gioacchino/). We are excited to be supporting and learning from her research in Columbia on the effects that different funding models have on the health, integrity, and vibrancy of social purpose organizations. _This article was originally published by _[Open Democracy](http://www.opendemocracy.net)_.__ 
+_Meet our newest contributor [Gioel Gioacchino](/gioel-gioacchino/). We are excited to be supporting and learning from her research in Columbia on the effects that different funding models have on the health, integrity, and vibrancy of social purpose organizations. _This article was originally published by _[Open Democracy](http://www.opendemocracy.net)_.__ 
 
-## . . .
+<hr class="dotted">
 
-.
+<Image src="/LuchaFull.png" alt="Mario, from Esmeraldas City in Ecuador. Credit: Valerie Matron. All rights reserved." width="300" height="200" id="left">
 
-![LuchaFull](https://organizationunbound.org/wp-content/uploads/2016/05/LuchaFull-300x200.png "Mario, from Esmeraldas City in Ecuador. Credit: Valerie Matron. All rights reserved.")What happens when you get 900 civil society groups in the same room at over 8,500 feet above sea level? Excitement is guaranteed you’d think, along with a bit of oxygen deprivation and a whole lot of partying. That’s what lured me to [Bogotá](https://en.wikipedia.org/wiki/Bogot%C3%A1) late last month for International Civil Society Week—the annual conference of an NGO called [CIVICUS](http://www.civicus.org/), the ‘World Alliance for Citizen Participation.’
+
+What happens when you get 900 civil society groups in the same room at over 8,500 feet above sea level? Excitement is guaranteed you’d think, along with a bit of oxygen deprivation and a whole lot of partying. That’s what lured me to [Bogotá](https://en.wikipedia.org/wiki/Bogot%C3%A1) late last month for International Civil Society Week—the annual conference of an NGO called [CIVICUS](http://www.civicus.org/), the ‘World Alliance for Citizen Participation.’
 
 However, I left the Colombian capital disappointed. What was missing were energy and spirit, some sort of transcending vision that would move people to truly radical action. There were plenty of discussions about the lack of funding for civil society, for example, but nothing about inventing a different financial system altogether as an alternative to greed. It almost felt like a group in denial about its own decline and increasing co-optation.
 
@@ -70,4 +71,14 @@ _This article is a [re-print](https://opendemocracy.net/transformation/gioel-gi
 
 _Photo credit: Mario, from Esmeraldas City in Ecuador. Credit: [Valerie Matron](https://recrearmagnify.org/2012/01/17/lucha-de-voces/). All rights reserved._
 
-.
+<style>
+  hr.dotted {
+    width: 3%;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #212121;
+    margin-top:2px;
+    margin-bottom:4px;
+    padding-top:12px;
+}
+  </style>

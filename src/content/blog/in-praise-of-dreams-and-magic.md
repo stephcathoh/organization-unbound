@@ -2,9 +2,10 @@
 title: "In praise of dreams and magic"
 pubDate: "November 29,2012"
 heroImage: "/97InPraiseofDreamsAndMagic.jpg"
-commentStatus: "8 Comments"
+responsesNumber: "8 Comments"
 description: "Time is ticking. There is less than half an hour until my teaching starts at Norwich Business School at the University of East Anglia. I am in my office trying to focus and prepare for my afternoon lecture of “Management Skills and Personal Development” course for about 200 students. I feel terrified. […]"
 author: "Fahri Karakas"
+authorPic: "/Fahrithumb.jpg"
 categories: 
   - "Expressive Change"
 tags: 
@@ -16,11 +17,10 @@ tags:
   - "vulnerability"
 ---
 
-_Meet our newest contributor, [Fahri Karakas](https://organizationunbound.org/fahri-karakas/). He originally wrote this reflection on the Norwich Business School's [blog](http://ueanbs.wordpress.com/2012/11/08/in-praise-of-magic-and-dreams-in-management-education-reflections-on-an-extraordinary-lecture/). I thought it would be great to share here as an example of [The Giving Field](/thegivingfield/). I'm excited to think with him about how the deep connection to learning he is experiencing as a lecturer can be cultivated more widely within business schools- not just in classrooms, but in the way that faculty members and staff work together._   
+_Meet our newest contributor, [Fahri Karakas](/fahri-karakas/). He originally wrote this reflection on the Norwich Business School's [blog](http://ueanbs.wordpress.com/2012/11/08/in-praise-of-magic-and-dreams-in-management-education-reflections-on-an-extraordinary-lecture/). I thought it would be great to share here as an example of [The Giving Field](/blog/thegivingfield). I'm excited to think with him about how the deep connection to learning he is experiencing as a lecturer can be cultivated more widely within business schools- not just in classrooms, but in the way that faculty members and staff work together._   
 
- 
-
-[![](http://ueanbs.files.wordpress.com/2012/10/in-london-england-uk-youre_never_too_young_to_dream_big.jpg?w=450&h=225)](http://ueanbs.files.wordpress.com/2012/10/in-london-england-uk-youre_never_too_young_to_dream_big.jpg)Time is ticking. There is less than half an hour until my teaching starts at [Norwich Business School](http://business.uea.ac.uk/) at the University of East Anglia. I am in my office trying to focus and prepare for my afternoon lecture of “Management Skills and Personal Development” course for about 200 students.
+ <a href="https://ueanbs.wordpress.com/wp-content/uploads/2012/10/in-london-england-uk-youre_never_too_young_to_dream_big.jpg"><Image src="http://ueanbs.files.wordpress.com/2012/10/in-london-england-uk-youre_never_too_young_to_dream_big.jpg?w=450&h=225" width="32%" height="225" alt="little girl painting the words in read on a wall you're never too young to dream big" id="left"></a>
+Time is ticking. There is less than half an hour until my teaching starts at [Norwich Business School](http://business.uea.ac.uk/) at the University of East Anglia. I am in my office trying to focus and prepare for my afternoon lecture of “Management Skills and Personal Development” course for about 200 students.
 
 I feel terrified. What am I going to do in front of 200 students? Our students come from different corners of the world to study at UEA London. They are bright and demanding. What if everything goes wrong today? What if I cannot talk? What if I bore my students?
 

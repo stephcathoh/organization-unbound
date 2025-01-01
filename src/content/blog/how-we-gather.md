@@ -19,11 +19,11 @@ tags:
   - "zimbabwe"
 ---
 
-_The following reflection is from our newest contributor [Marianne Knuth](https://organizationunbound.org/marianne-knuth/), co-founder of Kufunda Village in Zimbabwe and all-around awesome person.  She wrote it a couple of weeks ago after experimenting with one of the [self-guided sessions](https://organizationunbound.org/wp-content/uploads/2013/11/2-InscapingIntro.pdf) we developed for the [Field Guide on Expressive Change](https://organizationunbound.org/in-practice/)._ 
+_The following reflection is from our newest contributor [Marianne Knuth](https://organizationunbound.org/marianne-knuth/), co-founder of Kufunda Village in Zimbabwe and all-around awesome person.  She wrote it a couple of weeks ago after experimenting with one of the self-guided sessions we developed for the [Field Guide on Expressive Change](/in-practice/)._ 
 
- 
+ <Image src="/HowWeGather1.jpg" alt="How We Gather" width="300" height="225" id="right">
 
-[![HowWeGather](https://organizationunbound.org/wp-content/uploads/2013/04/HowWeGather1-300x225.jpg)](https://organizationunbound.org/wp-content/uploads/2013/04/HowWeGather1.jpg)I am in the middle of what seems like a new learning. A deepening of what I have already known, to the extent that it feels like an entirely new discovery.
+I am in the middle of what seems like a new learning. A deepening of what I have already known, to the extent that it feels like an entirely new discovery.
 
 This is my re-discovery: How we gather affects our outcomes. How well prepared. How clear on intention. How open or closed. How speedy or slow. How connected or disconnected. How attached to outcomes, or open to what will emerge. Joy, contentment, tiredness, irritation, overwhelm. Either of these, or combinations thereof, will follow depending on how we come together.
 
@@ -37,7 +37,7 @@ For me – it has thus become an imperative, that I do everything I can to help 
 
 At [Kufunda Learning Village](http://kufundavillage.org/) we had fallen into the rut of our weekly meetings having become very task oriented. They were the least inspired place of our village (mostly), and several issues were being discussed with only a few voices repeating themselves. There was little collective wisdom at play, and oftentimes we left our weekly Village Circle feeling drained and tired, although we might have managed to tick off many items on our to-do list.
 
-One day – after one too many such meetings – I decided, no more. I could not sit through one more lacklustre meeting. And so I experimented with a practice called [inscaping](https://organizationunbound.org/expressive-change/inscaping/) that friends of mine from Organization Unbound have highlighted in their work. Inscaping, in brief, involves “drawing upon the inner experiences of members during the normal course of work to shape and guide the organisation.” Inner experiences include intuitions, ideas, curiosities, aspirations, fears, values, biographies, etc.
+One day – after one too many such meetings – I decided, no more. I could not sit through one more lacklustre meeting. And so I experimented with a practice called [inscaping](/blog/inscaping/) that friends of mine from Organization Unbound have highlighted in their work. Inscaping, in brief, involves “drawing upon the inner experiences of members during the normal course of work to shape and guide the organisation.” Inner experiences include intuitions, ideas, curiosities, aspirations, fears, values, biographies, etc.
 
 The specific exercise during this first meeting was about checking in with each other in smaller groups around our inner experience of our work, using this broader definition of inner. Before we did so, we each wrote down our assumptions about how the others in our group were experiencing their work. By the end of this simple check-in, the atmosphere in the room had palpably shifted. I think primarily the act of bringing a wider sense of our work experience into our dialogue was the main cause. But also taking time to consider how we thought our work mate was doing was part of a more full opening up to other.
 
@@ -53,8 +53,8 @@ I think this way of connecting is common to the [Art of Hosting](http://www.arto
 
  
 
-_The exercises that Marianne referred to in this reflection can be found in [this self-guided session on inscaping](https://organizationunbound.org/wp-content/uploads/2013/11/2-InscapingIntro.pdf). It is designed for 2 or more people who work in the same organization to do together._
+_The exercises that Marianne referred to in this reflection can be found in this self-guided session on inscaping. It is designed for 2 or more people who work in the same organization to do together._
 
  
 
-.
+
