@@ -2,7 +2,7 @@
 title: "Cleaning in Cape Town"
 pubDate: "January 31, 2017"
 heroImage: "/162cCleaninginCapeTown.jpg"
-commentStatus: "5 Comments"
+responsesNumber: "5 Comments"
 description: "Cleaning is the process of removing dirt from any space, surface, object or subject, thereby exposing beauty, potential, truth and sacredness.” Ever since I had the above epiphany, I have spoken it countless times in many places. Each time I do, I get washed by it, as the essence of cleaning is invited into the space to do its work. This happened again and again while I was in Cape Town recently for Cleaning workshops and conversations organized by […]"
 author: "Tolu Ilesanmi "
 categories: 
@@ -16,15 +16,15 @@ tags:
 
 _We are delighted to start the new year with a reflection from [Tolulope Ilesanmi](https://organizationunbound.org/tolulope-ilesanmi/), long-time Organization Unbound contributor and co-founder of Zenith Cleaning. Tolu and his colleagues approach Zenith Cleaning's mission as a question not a statement. Their capacity to remain in a discovery mindset over many years has led them to some deep insights about the meaning and practice of cleaning and how it can feed personal, organisational and societal transformation. We had the honour of hosting Tolu in Cape Town recently for a week of 'cleaning as practice' exchanges._
 
-.
+<Image src="/Finalite.jpg" alt="Photos from Cleaning as practice exchanges" width="590" height="691">
 
-![](https://organizationunbound.org/wp-content/uploads/2017/01/Finalite.jpg)
+
 
 _._
 
 ### *“Cleaning is the process of removing dirt from any space, surface, object or subject,* *thereby exposing beauty, potential, truth and sacredness.”*
 
-.
+
 
 Ever since I had the above epiphany, I have spoken it countless times in many places. Each time I do, I get washed by it, as the essence of cleaning is invited into the space to do its work. This happened again and again while I was in Cape Town recently for Cleaning workshops and conversations organized by my friends and the best hosts I could have asked for, Tana Paddock and Warren Nilsson of Organization Unbound.
 
@@ -48,6 +48,5 @@ While I hope I left the people and organizations I visited in Cape Town better t
 
 ._I am grateful to the following organizations in and around Cape Town for hosting me:_
 
-![](https://organizationunbound.org/wp-content/uploads/2017/01/UploadPIC.jpg).
 
-.
+<Image src="/UploadPIC.jpg" alt="host organization logos">

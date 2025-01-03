@@ -2,7 +2,7 @@
 title: "The presence of an absence"
 pubDate: "May 2,2016"
 heroImage: "/159PresenceOfAbsence.png"
-commentStatus: "No Comments"
+responsesNumber: "No Comments"
 description: "The recognition – that we are all now so close, our global footprint so large, and all our processes of life so befouled – releases increasing tendencies towards management and control. We appear caught in a vast paradox that exceeds our capacity for irony – we foreground ourselves as the solution to the problems that we have created through foregrounding ourselves."
 author: "Allan Kaplan"
 categories: 
@@ -17,11 +17,9 @@ _For those who feel like they've hurtled rather than glided into 2016, this star
 
 ## . . .
 
-.
 
-![](https://organizationunbound.org/wp-content/uploads/2016/05/unnamed-1-300x199.png)
+<Image src="/unnamed-1.png" alt="mountain sunset" width="590" height="464">
 
-.
 
 Having spent the last weeks, through the turning of the year, in mountain wilderness, our eyes, on returning to the highways that run through rural land on their journey to the city, are differently attuned.
 
@@ -43,8 +41,6 @@ What are we really in danger of losing, as we ratchet up our urgencies and gear 
 
 If we just but look the wrong way, the inability to perceive relationship grows, and an absence starts to manifest in the world we then inhabit – a failure to notice that we are failing to notice. We are in danger, in fact, of saving a world that is no longer the world in which we wish to live. For we never merely inhabit a world, we create the world that forms us. If there is one thing that seems of overarching importance, that we cannot afford to lose as we struggle on in a foreclosing world, it is the cultivation of the ability to see and discern the nuance of specific relationship. For the world will arise in its image, and we need to cultivate the ability to choose, with respect to every action we will take – _what kind of relationship does this action promote?_
 
-.
 
 (Photo courtesy of The Proteus Institute)
 
-.
